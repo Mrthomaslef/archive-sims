@@ -26,7 +26,8 @@
 }}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-  -webkit-text-size-adjust:100%;overflow-x:hidden;overscroll-behavior-y:contain;touch-action:manipulation}
+  -webkit-text-size-adjust:100%;overflow-x:hidden;touch-action:manipulation}
+@media (hover:none) and (pointer:coarse){html,body{overscroll-behavior-y:contain}}
 button,a,input{touch-action:manipulation;font:inherit}
 a{color:var(--accent)}
 header{position:sticky;top:0;z-index:5;background:linear-gradient(135deg,#0f2a3d,#0e5a6f);color:#fff;
@@ -89,13 +90,17 @@ article .by{color:var(--muted);font-size:14px;margin-bottom:12px}
 .nav a small{display:block;color:var(--muted)}
 .nav a span{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .disclaimer{color:var(--muted);font-size:13px;margin-top:16px}
-#ptr{position:fixed;left:50%;top:0;transform:translate(-50%,-60px);z-index:20;background:var(--card);color:var(--ink);border:1px solid var(--line);
-  border-radius:999px;padding:8px 14px;font-size:14px;box-shadow:0 4px 14px rgba(0,0,0,.15);transition:transform .2s}
+#ptr{position:fixed;left:50%;top:0;z-index:20;width:38px;height:38px;margin-left:-19px;border-radius:50%;background:var(--card);
+  border:1px solid var(--line);box-shadow:0 4px 14px rgba(0,0,0,.18);display:flex;align-items:center;justify-content:center;
+  opacity:0;transform:translateY(-50px);pointer-events:none}
+#ptr svg{width:20px;height:20px;color:var(--accent)}
+#ptr.spin svg{animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
 mark{background:#fde68a;color:inherit;border-radius:3px;padding:0 1px}
 </style>
 </head>
 <body>
-<div id="ptr">↓ Tirer pour actualiser</div>
+<div id="ptr" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg></div>
 <header>
   <div class="top">
     <img src="assets/icon.svg" alt="">
@@ -106,7 +111,7 @@ mark{background:#fde68a;color:inherit;border-radius:3px;padding:0 1px}
   <div class="chips" id="chips"></div>
 </header>
 <main id="main"></main>
-<script src="app/embedded_data.js"></script>
+<script src="app/embedded_data.js?v=2"></script>
 <script>
 (() => {
 const D = window.SIMS_DATA;
@@ -237,9 +242,10 @@ route();
 
 // Pull-to-refresh (tactile + souris)
 const ptr=$('#ptr'); let y0=null, dy=0;
+const setP=d=>{ ptr.style.opacity=Math.min(d/80,1); ptr.style.transform=`translateY(${Math.min(d,110)-50}px) rotate(${d*3}deg)`; };
 const start=y=>{ if(window.scrollY<=0) { y0=y; dy=0; } };
-const move=y=>{ if(y0===null) return; dy=y-y0; if(dy>0){ const d=Math.min(dy,120); ptr.style.transform=`translate(-50%,${d-60}px)`; ptr.textContent=dy>80?'↻ Relâcher pour actualiser':'↓ Tirer pour actualiser'; } };
-const end=()=>{ if(y0===null) return; if(dy>80){ ptr.textContent='↻ Actualisation…'; navigator.vibrate&&navigator.vibrate(15); setTimeout(()=>location.reload(),250); } else ptr.style.transform='translate(-50%,-60px)'; y0=null; };
+const move=y=>{ if(y0===null) return; dy=y-y0; if(dy>0) setP(dy); };
+const end=()=>{ if(y0===null) return; if(dy>80){ ptr.classList.add('spin'); ptr.style.transform='translateY(40px)'; navigator.vibrate&&navigator.vibrate(15); setTimeout(()=>location.reload(),300); } else { ptr.style.opacity=0; ptr.style.transform='translateY(-50px)'; } y0=null; };
 addEventListener('touchstart',e=>start(e.touches[0].clientY),{passive:true});
 addEventListener('touchmove',e=>move(e.touches[0].clientY),{passive:true});
 addEventListener('touchend',end);
