@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, pied-de-charcot, cas-clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Maud Crézé (Hôpital Bicêtre, Université Paris-Saclay) et coll."
 video: https://www.youtube.com/watch?v=89FkFUyPcfc
 duree: 8 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Cas clinique 1 - Ostéoarthropathie nerveuse diabétique révélatrice d'un diabète
 
-> [!abstract] En une phrase
-> Une « masse du dos du pied » peu douloureuse correspondait à une ostéoarthropathie destructrice du médiopied (pied de Charcot aigu) révélant un diabète méconnu : savoir l'évoquer devant tout pied plat acquis, subluxation de Lisfranc ou atteinte isolée du tarse.
+> [!abstract] L'essentiel
+> **Arthropathie destructrice peu douloureuse du médiopied + pied plat acquis + Lisfranc = pied de Charcot jusqu'à preuve du contraire** → doser glycémie/HbA1c, même sans diabète connu.
+
+> [!success] À retenir
+> 1. Radio en charge : **destruction, fragmentation, désaxation** avec interlignes longtemps conservés ; comparer aux clichés antérieurs (cassure de **Méary**, angle de **Djian** ↑ = pied plat **acquis**).
+> 2. Chercher **diastasis M1-M2** (luxation de Lisfranc) et **fracture sous-chondrale de la tête de M2** ; médiacalcose artérielle en écho = indice.
+> 3. IRM : œdème polyostotique **périarticulaire**, sans hyposignal T1 franc, collection, sinus ni *ghost sign* → **pas d'ostéomyélite** ; ici HbA1c **11,8 %**.
+
+## Images clés
+![Radiographies de profil en charge 2014 vs 2019 : apparition d'un pied plat acquis (cassure de la ligne de Méary-Toméno, angle de Djian-Annonier augmenté)](../../img/2024/89FkFUyPcfc-1.jpg) [▶ 2:06](https://www.youtube.com/watch?v=89FkFUyPcfc&t=126s)
+![Ostéoarthropathie destructrice centrée sur le médiopied : atteinte polyarticulaire tarsométatarsienne et fracture sous-chondrale de la tête de M2 (cercles)](../../img/2024/89FkFUyPcfc-2.jpg) [▶ 3:02](https://www.youtube.com/watch?v=89FkFUyPcfc&t=182s)
+![IRM du pied de Charcot aigu : œdème des parties molles et œdème intraspongieux polyostotique à point de départ articulaire, sans collection ni sinus](../../img/2024/89FkFUyPcfc-3.jpg) [▶ 3:53](https://www.youtube.com/watch?v=89FkFUyPcfc&t=233s)
 
 ## Points clés
 - **Cas** : homme de 53 ans adressé en échographie pour caractérisation d'une masse du dos du pied droit, apparue après une marche rapide ; simple inconfort, pas de douleur. Œdème prenant le godet, kératose plantaire, chaleur symétrique, surpoids. Seul antécédent : chirurgie d'un canal carpien.

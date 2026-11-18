@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ligaments-carpe]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (chirurgien de la main remplaçant Emmanuel Camus)"
+orateur: "Luc Van Overstraeten (ULB, Belgian Hand Group) et coll."
 video: https://www.youtube.com/watch?v=16sjwaSTZwI
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les ligaments du carpe à connaître
 
-> [!abstract] En une phrase
-> Point de vue du chirurgien : les ligaments du carpe fonctionnent en complexes, le septum capsulo-scapho-lunaire dorsal (DCSS) est une structure réelle, et toute entorse instable doit être diagnostiquée (arthroscanner avant J10) et stabilisée en moins de 6 semaines.
+> [!abstract] L'essentiel
+> **« Il n'y a pas de petite entorse » : toute entorse instable du carpe doit être documentée tôt (arthroscanner avant J10) et stabilisée en moins de 6 semaines.**
+
+> [!success] À retenir
+> 1. Pas d'instabilité scapho-lunaire sans lésion du **SLIOL** : **arthroscanner = gold standard**, à faire **avant J10** ; libérer des créneaux rapides.
+> 2. Raisonner en **complexes ligamentaires** (scapho-lunaire, luno-triquétral, médio-carpien, TFCC), pas ligament par ligament.
+> 3. **DCSS** (septum capsulo-scapho-lunaire dorsal) en arthro-IRM/DP FS : **S0** normal, **S1** micro-kyste mucoïde dorsal, **S2** rupture > 50 %, **S3** disparition complète.
+
+## Images clés
+![Évolution naturelle d'une instabilité scapho-lunaire non traitée : diastasis asymptomatique puis collapsus arthrosique (SLAC) — stabiliser tôt les lésions instables](../../img/2022/16sjwaSTZwI-1.jpg) [▶ 7:34](https://www.youtube.com/watch?v=16sjwaSTZwI&t=454s)
+![Arthroscanner : le DCSS, ligne de réflexion capsulaire dorsale en arrière du scaphoïde, sépare compartiments radio-carpien et médio-carpien](../../img/2022/16sjwaSTZwI-2.jpg) [▶ 5:35](https://www.youtube.com/watch?v=16sjwaSTZwI&t=335s)
+![DCSS stade S1 en arthro-IRM et arthroscanner : micro-kyste mucoïde dorsal en regard du ligament scapho-lunaire, corrélé à l'arthroscopie](../../img/2022/16sjwaSTZwI-3.jpg) [▶ 9:39](https://www.youtube.com/watch?v=16sjwaSTZwI&t=579s)
 
 ## Points clés
 - Stabilité du carpe : forme des os, engagement tendineux (Kapandji) et ligaments palmaires et dorsaux.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, IRM, infection]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (prénommé Henri par l'orateur suivant)"
+orateur: "Henri Guerini (Imagerie Médicale Léonard de Vinci, Groupe hospitalier Cochin) et coll."
 video: https://www.youtube.com/watch?v=rNO70tMYGeI
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # IRM des prothèses de hanche
 
-> [!abstract] En une phrase
-> Avec les séquences de réduction des artefacts métalliques (MAVRIC, SEMAC), l'IRM devient un outil de premier ordre dans la PTH douloureuse : pathologie périarticulaire, réactions aux débris et surtout infection (œdème des parties molles, périostite, hypersignal cortical, abcès).
+> [!abstract] L'essentiel
+> **Avec MAVRIC/SEMAC, l'IRM devient un examen de premier ordre de la PTH douloureuse** : périarticulaire, réactions aux débris (ALVAL, granulome) et surtout infection.
+
+> [!success] À retenir
+> 1. Infection : **œdème des parties molles autour de la diaphyse + périostite + hypersignal cortical** dans **100 %** des cas, abcès/fistule dans **30 %** ; jamais vus sur PTH asymptomatique.
+> 2. Épanchement (**66 %**) et œdème osseux au contact de la tige avant **12 mois** = fréquents chez l'asymptomatique : ne pas surinterpréter.
+> 3. IRM = **cartographie préopératoire** de l'ALVAL et du granulome, et **cible de ponction** (abcès plutôt qu'articulation sèche) ; scanner obligatoire pour l'ostéolyse acétabulaire.
+
+## Images clés
+![Schéma des signes IRM d'infection de PTH : œdème des parties molles, périostite et hypersignal cortical dans 100 % des cas, abcès dans 30 %](../../img/2019/rNO70tMYGeI-1.jpg) [▶ 7:43](https://www.youtube.com/watch?v=rNO70tMYGeI&t=463s)
+![PTH infectée (Streptococcus oralis) en MAVRIC STIR et fusion scanner : œdème des parties molles, périostite diaphysaire et collection (têtes de flèche)](../../img/2019/rNO70tMYGeI-2.jpg) [▶ 8:13](https://www.youtube.com/watch?v=rNO70tMYGeI&t=493s)
+![ALVAL : pseudotumeur périprothétique liquidienne et tissulaire à paroi de bas signal (flèches), réaction aux débris métalliques](../../img/2019/rNO70tMYGeI-3.jpg) [▶ 4:56](https://www.youtube.com/watch?v=rNO70tMYGeI&t=296s)
 
 ## Points clés
 - Séquences dédiées **SEMAC / MAVRIC** indispensables (le T1 standard est inutilisable pour certains implants).

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, douleur-anterieure]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Jean-Baptiste Courroy (Institut Nollet, Paris)"
 video: https://www.youtube.com/watch?v=N1WCsEOl728
 duree: 15 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Bilan clinique des douleurs antérieures de genou
 
-> [!abstract] En une phrase
-> Une douleur antérieure n'est pas forcément fémoropatellaire et une douleur fémoropatellaire n'est pas une chondropathie : l'âge, le contexte de surcharge et l'examen (épanchement, butée douloureuse en extension) orientent vers l'appareil extenseur, la fémoropatellaire ou l'espace antérieur avant toute imagerie.
+> [!abstract] L'essentiel
+> **Douleur antérieure ≠ fémoropatellaire ≠ chondropathie** : l'examen trie appareil extenseur, fémoropatellaire ou espace antérieur avant toute imagerie.
+
+> [!success] À retenir
+> 1. **Butée douloureuse en extension** = souffrance fémorotibiale (kyste méniscal antérolatéral, Hoffa), **jamais fémoropatellaire**.
+> 2. Appareil extenseur : **ni synovite ni butée** ; jeune sportif en surcharge → tendinopathie ou **fracture de fatigue patellaire** (débute en avant).
+> 3. **Chondropathie de surface après 40 ans** et **plica** (présente dans **70 %** des genoux) : ne pas les retenir comme cause par défaut ; rotule contuse → pas d'arthroscopie.
+
+## Images clés
+![Souffrance du Hoffa : maladie de Hoffa (femme > 40 ans), lésions intra-Hoffa (synovite villonodulaire, kyste, hémangiome) et fibrose post-traumatique à rechercher en IRM](../../img/2017/N1WCsEOl728-1.jpg) [▶ 10:16](https://www.youtube.com/watch?v=N1WCsEOl728&t=616s)
+![Kyste du segment antérieur du ménisque latéral sur clivage horizontal : tuméfaction antérolatérale et signes articulaires, symptomatologie mécanique souvent minime](../../img/2017/N1WCsEOl728-2.jpg) [▶ 11:33](https://www.youtube.com/watch?v=N1WCsEOl728&t=693s)
+![Lésions de l'appareil extenseur : apophysoses, tendinopathies patellaire et quadricipitale, fracture de fatigue patellaire et enthésopathie calcifiante](../../img/2017/N1WCsEOl728-3.jpg) [▶ 4:50](https://www.youtube.com/watch?v=N1WCsEOl728&t=290s)
 
 ## Points clés
 - Environ **75 % des consultations pour genou douloureux** ; parler de « syndrome douloureux antérieur » plutôt que fémoropatellaire d'emblée.

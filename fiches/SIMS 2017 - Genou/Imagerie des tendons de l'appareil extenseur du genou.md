@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, tendons-appareil-extenseur]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "D. Jacob (Dole) et coll."
 video: https://www.youtube.com/watch?v=suB681BWcms
 duree: 15 min
 date: 2026-11-18
@@ -12,8 +12,19 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie des tendons de l'appareil extenseur du genou
 
-> [!abstract] En une phrase
-> L'échographie, réalisée dans la bonne position (relâchement pour le Doppler, tension pour les déchirures), est l'examen de première intention des tendons quadricipital et patellaire ; la radiographie vient en second et l'IRM en cas de doute ou de bilan global.
+> [!abstract] L'essentiel
+> **Échographie en première intention, mais dans la bonne position : Doppler genou tendu et relâché, déchirure cherchée en flexion > 30°** : l'IRM sert au bilan panoramique.
+
+> [!success] À retenir
+> 1. **Jumper's knee** = pôle proximal du tendon patellaire, partie **centrale et profonde** : nodule hypoéchogène hypervascularisé.
+> 2. **Doppler sans appuyer, genou en extension** : compression ou flexion effacent l'hyperhémie → faux négatif.
+> 3. Quadricipital : déchirure partielle = **lame superficielle**, sans épanchement ; rupture complète = **3 lames + épanchement** ; ne pas surinterpréter les **enthésopathies calcifiantes** asymptomatiques.
+> 4. Douleur antérieure du jeune sportif : penser au **conflit supéro-latéral de Hoffa** (graisse hyperéchogène + hyperhémie entre tendon patellaire et versant latéral de la trochlée).
+
+## Images clés
+![Tendinopathie patellaire proximale en coupe axiale : nodule central et profond hypoéchogène, hypervascularisé au Doppler](../../img/2017/suB681BWcms-1.jpg) [▶ 8:00](https://www.youtube.com/watch?v=suB681BWcms&t=480s)
+![Coupe longitudinale Doppler du tendon patellaire proximal : hyperhémie intratendineuse au contact de la pointe de la patella (examen genou relâché)](../../img/2017/suB681BWcms-2.jpg) [▶ 9:13](https://www.youtube.com/watch?v=suB681BWcms&t=553s)
+![Enthésopathie calcifiante insertionnelle du tendon quadricipital : fréquente et souvent asymptomatique, à ne pas surinterpréter](../../img/2017/suB681BWcms-3.jpg) [▶ 5:05](https://www.youtube.com/watch?v=suB681BWcms&t=305s)
 
 ## Points clés
 - **Tendon quadricipital** : structure laminaire (habituellement 3 à 4 lames) séparées par de la graisse qui favoriserait leur glissement ; le **tendon patellaire** est au contraire une lame homogène.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, age-osseux-ia]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (prénommée « Katia » par le modérateur, exerce à Marseille)"
+orateur: "Kathia Chaumoitre (AP-HM, Marseille)"
 video: https://www.youtube.com/watch?v=l6LJyHXzsHQ
 duree: 18 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Âge osseux mise au point sur les méthodes d'IA
 
-> [!abstract] En une phrase
-> Le Greulich et Pyle reste fiable en pratique médicale (même méthode pour le suivi), l'estimation médico-légale exige consentement, méthodes multiples et fourchettes, et l'IA (BoneXpert en tête) est reproductible mais ne supprime pas la variabilité individuelle irréductible.
+> [!abstract] L'essentiel
+> **Un âge osseux est une fourchette, pas un chiffre** : Greulich et Pyle reste fiable (**± 2 ans**), l'IA est reproductible mais ne supprime pas la variabilité individuelle.
+
+> [!success] À retenir
+> 1. Pratique médicale : **toujours la même méthode** pour le suivi (Greulich-Pyle 0-18 ans, Sauvegrain-Nahum au coude en péripuberté) ; le niveau socio-économique compte plus que l'origine.
+> 2. Médico-légal : **consentement**, plusieurs méthodes (main, dents, **clavicule au scanner**), résultat en fourchette ; « 19 ans » au Greulich ne prouve pas la majorité.
+> 3. **BoneXpert** : bonne corrélation, rejette les clichés défectueux, mais ne voit pas une **dysplasie** (ex. délétion **SHOX**) que le radiologue doit signaler.
+
+## Images clés
+![Stades d'ossification de l'extrémité médiale de la clavicule au scanner (Schultze 2006) : stade 3 (pont épiphyso-métaphysaire) et stade 4 (fusion complète) pour l'estimation médico-légale de l'âge](../../img/2022/l6LJyHXzsHQ-1.jpg) [▶ 6:17](https://www.youtube.com/watch?v=l6LJyHXzsHQ&t=377s)
+![Fille de 13 ans de petite taille : âge osseux concordant entre le radiologue, BoneXpert (14,22 ans) et un logiciel en ligne (14 ans 4 mois)](../../img/2022/l6LJyHXzsHQ-2.jpg) [▶ 10:29](https://www.youtube.com/watch?v=l6LJyHXzsHQ&t=629s)
 
 ## Points clés
 - Pratique médicale : utiliser la méthode maîtrisée et **toujours la même** pour un patient (voire le même radiologue) ; c'est le suivi qui compte.

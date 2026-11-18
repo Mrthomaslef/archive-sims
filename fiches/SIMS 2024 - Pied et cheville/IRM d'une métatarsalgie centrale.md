@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, irm-metatarsalgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Henri Guerini (Imagerie médicale Vinci) et coll."
 video: https://www.youtube.com/watch?v=u8zPN7r3aQM
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # IRM d'une métatarsalgie centrale
 
-> [!abstract] En une phrase
-> L'IRM d'une métatarsalgie centrale, souvent en seconde intention après l'échographie, doit être techniquement irréprochable : antenne poignet ou procubitus, vrai T2 avec graisse, T1, coupes sagittales de 2 mm et injection au moindre doute.
+> [!abstract] L'essentiel
+> **IRM de métatarsalgie = antenne poignet (ou procubitus), vrai T2 avec graisse, T1, sagittales 2 mm et injection au moindre doute** : sinon névrome, bursite, plaque plantaire et sarcome se confondent.
+
+> [!success] À retenir
+> 1. **Coronal** = plan clé (névrome, bursite intercapitale, syndrome du 2e rayon) ; bourse intercapitale physiologique **< 2-2,5 mm**.
+> 2. **T2 avec graisse** (triple contraste) montre le névrome que le T2 FS efface ; **T1** révèle la **fibrose péricapsulaire** (pseudo-Morton).
+> 3. Plaque plantaire en **sagittal 2 mm** (5 coupes par tête) : récessus normal **≤ 2,5 mm** ; rupture complète « bec à bec », fissures partielles souvent latérales.
+
+## Images clés
+![Schéma coronal des métatarsalgies centrales : névrome de Morton, bursites sous-capitale et intercapitale, fibrose péricapsulaire, syndrome du 2e rayon, orteil en saucisse, Freiberg](../../img/2024/u8zPN7r3aQM-1.jpg) [▶ 4:28](https://www.youtube.com/watch?v=u8zPN7r3aQM&t=268s)
+![Avantage du T2 avec graisse en coronal : triple contraste graisse-tissu-eau qui distingue le névrome (tissulaire) de la bourse (liquidienne)](../../img/2024/u8zPN7r3aQM-2.jpg) [▶ 6:20](https://www.youtube.com/watch?v=u8zPN7r3aQM&t=380s)
+![Coupes sagittales de la MTP : plaque plantaire (PP) et récessus physiologique ≤ 2,5 mm, au-delà penser à une lésion de la plaque](../../img/2024/u8zPN7r3aQM-3.jpg) [▶ 8:36](https://www.youtube.com/watch?v=u8zPN7r3aQM&t=516s)
 
 ## Points clés
 - Un examen de mauvaise résolution, sans T2 avec graisse ni T1, ne distingue pas névrome de Morton, bursite et masse ; exemple d'un synovialosarcome pris pour une bursopathie sans injection.

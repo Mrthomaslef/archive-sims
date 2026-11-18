@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Itinéraire d'imagerie des syndromes douloureux antérieurs chroniques du genou
 
-> [!abstract] En une phrase
-> L'itinéraire idéal d'une douleur antérieure chronique est examen clinique + radiographie (profil strict) + échographie, l'IRM venant en second recours et le scanner/arthroscanner restant des bilans préchirurgicaux demandés par le chirurgien.
+> [!abstract] L'essentiel
+> **Douleur antérieure chronique : clinique + radiographie de profil strict + échographie suffisent le plus souvent** ; IRM en second recours, (arthro)scanner = bilan préchirurgical.
+
+> [!success] À retenir
+> 1. **Échographie** = examen clé des parties molles superficielles : **Morel-Lavallée** (ponction possible), hygroma/pseudo-bursite chronique, tendinopathies ; épanchement parfois visible seulement à **20° de flexion**.
+> 2. **Conflit fémoropatellaire latéral** (Hoffa supéro-latéral) en IRM : chercher **patella haute** et distance tendon-trochlée réduite (**≈ 3 mm**).
+> 3. Syndrome fémoropatellaire : **profil strict** (dysplasie de Dejour, hauteur, bascule) ; en échographie, angle sous-patellaire **> 141°** (Se **85 %**, Sp **87 %**).
+
+## Images clés
+![Décollement de Morel-Lavallée récent : collection prépatellaire sous-cutanée disséquant la graisse en IRM, à suivre car évolution fréquente vers la chronicité](../../img/2017/W_FcKWL72l8-1.jpg) [▶ 2:24](https://www.youtube.com/watch?v=W_FcKWL72l8&t=144s)
+![Syndrome de friction fémoropatellaire latéral : œdème de la partie supéro-latérale du Hoffa (étoile) entre pointe de patella et trochlée en IRM sagittale](../../img/2017/W_FcKWL72l8-2.jpg) [▶ 6:58](https://www.youtube.com/watch?v=W_FcKWL72l8&t=418s)
+![Angle sous-patellaire mesuré en échographie axiale : seuil > 141° pour le syndrome fémoropatellaire (Se 85 %, Sp 87 %, courbe ROC)](../../img/2017/W_FcKWL72l8-3.jpg) [▶ 13:00](https://www.youtube.com/watch?v=W_FcKWL72l8&t=780s)
 
 ## Points clés
 - Guide du bon usage SFR (mise à jour 2013) : radiographie indiquée, aucune place pour l'échographie, ce que l'orateur nuance. Analyse de la superficie vers la profondeur.

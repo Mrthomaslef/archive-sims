@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, oedeme-medullaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Marie Faruch (CHU de Toulouse)"
 video: https://www.youtube.com/watch?v=NNb-6m6ts9k
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Œdème médullaire de la tête fémorale : quand contrôler ?
 
-> [!abstract] En une phrase
-> L'œdème médullaire (OM) de la tête fémorale n'est pas spécifique. C'est l'analyse de la plaque osseuse sous-chondrale (sagittal T2) qui distingue les lésions réversibles des irréversibles. On ne recontrôle que les patients restés symptomatiques.
+> [!abstract] L'essentiel
+> **L'œdème de la tête fémorale n'est pas un diagnostic : c'est la plaque sous-chondrale en sagittal T2 qui sépare réversible et irréversible** ; ne recontrôler que les patients restés douloureux.
+
+> [!success] À retenir
+> 1. **OM transitoire** (plaque intacte) : décharge, normalisation en **3 à 6 mois** ; **fracture sous-chondrale** (bande hypo fine parallèle à la surface) : décharge **4 à 6 semaines**.
+> 2. **Nécrose mécanique** (femme > 50 ans en surpoids) : plage sous-chondrale sans os sain entre trait et corticale, perte de sphéricité → **irréversible**, coxarthrose.
+> 3. Douleur persistante à **2-3 mois** malgré la décharge → **IRM de contrôle** (migration vers fracture puis nécrose) ; gadolinium si doute nécrose vs fracture.
+
+## Images clés
+![Fracture sous-chondrale de la tête fémorale (T1, DP FS) : fine bande en hyposignal sous la plaque, lésion réversible au contrôle à 3 mois après décharge de 4 à 6 semaines](../../img/2019/NNb-6m6ts9k-1.jpg) [▶ 5:41](https://www.youtube.com/watch?v=NNb-6m6ts9k&t=341s)
+![Œdème régional transitoire de la hanche (homme 46 ans) : évolution défavorable au contrôle à 3 mois, d'où la surveillance des patients restés symptomatiques](../../img/2019/NNb-6m6ts9k-2.jpg) [▶ 4:18](https://www.youtube.com/watch?v=NNb-6m6ts9k&t=258s)
+![Fracture sous-chondrale chez une marathonienne de 48 ans : douleurs persistantes à 2 mois malgré la décharge et collapsus de la plaque (évolution vers la nécrose mécanique)](../../img/2019/NNb-6m6ts9k-3.jpg) [▶ 5:54](https://www.youtube.com/watch?v=NNb-6m6ts9k&t=354s)
 
 ## Points clés
 - Substrat anatomique de l'OM : infiltration œdémateuse, congestion vasculaire, hémorragie interstitielle et amincissement trabéculaire.

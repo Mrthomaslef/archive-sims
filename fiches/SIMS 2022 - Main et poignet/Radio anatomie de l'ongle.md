@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ongle-anatomie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (prénommé « Raphaël » par un orateur suivant)"
+orateur: "Raphaël Campagna (IMEF, L'Orangerie, Le Perreux-sur-Marne) et coll."
 video: https://www.youtube.com/watch?v=1cPTf7bEu74
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Radio anatomie de l'ongle
 
-> [!abstract] En une phrase
-> L'appareil unguéal (tablette, matrices proximale et distale, replis, lit, hyponychium) s'analyse en IRM et en échographie très haute fréquence, à condition de connaître trois aspects normaux trompeurs : derme proximal pseudonodulaire, hypervascularisation du lit et veine axiale simulant un kyste.
+> [!abstract] L'essentiel
+> **Situer toute lésion unguéale par rapport à la matrice, au lit et à la tablette** ; trois aspects normaux simulent une tumeur glomique ou un kyste.
+
+> [!success] À retenir
+> 1. Matrice en **V** sagittal (proximale → couche dorsale, distale → couche ventrale de la tablette) ; atteinte matricielle = **onychodystrophie**, atteinte du lit = **onycholyse**.
+> 2. Pièges : **derme proximal pseudonodulaire** (hypersignal, hyperéchogène, toujours au même endroit, sans scalloping), **hypervascularisation physiologique du lit**, **veine axiale** sous le repli (pseudo-kyste mucoïde).
+> 3. Technique : IRM avec fine couche de **vaseline** sur la tablette ; écho **très haute fréquence (33-70 MHz)**, matrice distale bien vue en sagittal.
+
+## Images clés
+![Schéma et IRM sagittale : matrice en V sous le repli proximal (matrice proximale dorsale, matrice distale ventrale) en continuité avec le lit](../../img/2022/1cPTf7bEu74-1.jpg) [▶ 4:53](https://www.youtube.com/watch?v=1cPTf7bEu74&t=293s)
+![Échographie haute fréquence sagittale corrélée à l'histologie : matrice, tablette trilamellaire et lit unguéal](../../img/2022/1cPTf7bEu74-2.jpg) [▶ 6:05](https://www.youtube.com/watch?v=1cPTf7bEu74&t=365s)
+![Piège : derme proximal d'aspect « nodulaire », en hypersignal et hyperéchogène (têtes de flèche), à ne pas prendre pour une tumeur glomique](../../img/2022/1cPTf7bEu74-3.jpg) [▶ 8:36](https://www.youtube.com/watch?v=1cPTf7bEu74&t=516s)
 
 ## Points clés
 - Structures : **matrice** (fabrique la tablette, ~0,1 mm/jour aux mains, moins aux pieds), **replis** (orientent la croissance, protègent), **lit** (adhésion à la phalange, sans hypoderme), fermeture proximale par la cuticule et distale par l'**hyponychium**.

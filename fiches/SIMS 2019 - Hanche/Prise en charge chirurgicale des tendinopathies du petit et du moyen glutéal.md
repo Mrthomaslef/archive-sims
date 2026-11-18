@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, tendinopathie-glutéale, chirurgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Pierre Abadie (Clinique du sport de Bordeaux-Mérignac) et coll."
 video: https://www.youtube.com/watch?v=PPRiQReGN6g
 duree: 8 min
 date: 2026-11-18
@@ -12,15 +12,25 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prise en charge chirurgicale des tendinopathies du petit et du moyen glutéal
 
-> [!abstract] En une phrase
-> La meilleure indication chirurgicale est la rupture transfixiante non rétractée de la lame latérale du moyen glutéal sans dégénérescence graisseuse, réparée sous endoscopie par ancres ; l'IRM a un rôle diagnostique et pronostique.
+> [!abstract] L'essentiel
+> **Indication chirurgicale gagnante = rupture transfixiante non rétractée de la lame latérale du moyen glutéal, sans dégénérescence graisseuse** : réinsertion endoscopique par ancres.
+
+> [!success] À retenir
+> 1. IRM pronostique : **dégénérescence graisseuse ≥ grade 2** et grande taille de perforation = échec (**10 % de re-ruptures**) → grader la DG du moyen et du petit glutéal.
+> 2. IRM peu sensible pour la perforation transfixiante (**Se 73 %, Sp 95 %**) ; rupture évoluant **d'avant en arrière** comme la coiffe (lame latérale d'abord).
+> 3. Ne plus tarder à adresser : tendinopathie **non rompue** = débridement décevant ; calcifiante = exérèse endoscopique ; post-op **6 semaines** à deux cannes.
+
+## Images clés
+![IRM coronale T2 fat-sat : rupture transfixiante de 2 cm de la lame latérale du moyen glutéal à son insertion trochantérienne, bonne indication de réparation](../../img/2019/PPRiQReGN6g-1.jpg) [▶ 4:54](https://www.youtube.com/watch?v=PPRiQReGN6g&t=294s)
+![Sémiologie IRM « de coiffe » : la bandelette latérale est atteinte en premier, l'atteinte postérieure est plus tardive ; la dégénérescence graisseuse est pronostique](../../img/2019/PPRiQReGN6g-2.jpg) [▶ 1:12](https://www.youtube.com/watch?v=PPRiQReGN6g&t=72s)
+![Tendinopathie calcifiante glutéale : calcifications péritrochantériennes sur radiographie, accessibles à une exérèse endoscopique](../../img/2019/PPRiQReGN6g-3.jpg) [▶ 2:52](https://www.youtube.com/watch?v=PPRiQReGN6g&t=172s)
 
 ## Points clés
 - Pathologie fréquente avec **retard diagnostique** habituel (> 2 ans d'évolution), y compris méconnue des orthopédistes (étude de 2005).
 - Bilan : radiographies standard pour éliminer une pathologie intra-articulaire ; **test à la xylocaïne** en cas de doute entre origine intra- et périarticulaire.
-- **IRM pronostique** : une **dégénérescence graisseuse > grade 2** est un facteur péjoratif de cicatrisation ; la taille de la perforation est aussi associée aux échecs (publication de 2016).
+- **IRM pronostique** : une **dégénérescence graisseuse de grade 2 ou plus** est un facteur péjoratif de cicatrisation (Kandemir 2003, Thaunat 2018) ; 10 % de re-ruptures après réinsertion endoscopique, influencées par la taille de la perforation et le degré de dégénérescence graisseuse (Thaunat 2016).
 - Les ruptures du moyen glutéal évoluent comme la coiffe : **d'avant en arrière**, débutant à la partie antérieure de la lame latérale.
-- Limite : défaut de sensibilité de l'IRM pour distinguer tendinopathie simple et perforation transfixiante, alors que le résultat dépend de la justesse de l'indication.
+- Limite : défaut de sensibilité de l'IRM pour distinguer tendinopathie simple et perforation transfixiante (sensibilité 73 %, spécificité 95 % ; Cvitanic, AJR 2004), alors que le résultat dépend de la justesse de l'indication.
 - **Démembrement calqué sur la coiffe** : tendinopathies non rompues non calcifiantes, tendinopathies calcifiantes, perforations transfixiantes.
   - **Calcifiante** : exérèse endoscopique comme à l'épaule, techniquement plus exigeante (éventail glutéal volumineux, calcification parfois difficile à retrouver même > 3 cm).
   - **Ruptures partielles profondes** non calcifiantes : réinsertion par ancre décrite, indication jugée non gagnante à coup sûr par l'orateur.

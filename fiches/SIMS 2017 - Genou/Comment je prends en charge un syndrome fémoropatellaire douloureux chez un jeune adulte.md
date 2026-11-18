@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Comment je prends en charge un syndrome fémoropatellaire douloureux chez un jeune adulte
 
-> [!abstract] En une phrase
-> Le syndrome fémoropatellaire douloureux non instable se diagnostique en trois étapes (interrogatoire-examen, radiographies standard, réévaluation fine) et se traite de façon conservatrice, personnalisée, variée et en intégrant la composante psychologique ; la chirurgie est exceptionnelle.
+> [!abstract] L'essentiel
+> **SFP douloureux sans instabilité : radiographies normales, diagnostic clinique par étapes, traitement conservateur personnalisé** : chirurgie exceptionnelle.
+
+> [!success] À retenir
+> 1. Bilan initial = **face, profil, 1-2 défilés fémoropatellaires** : attendus **normaux** → écrire « radiographies normales », jamais « vous n'avez rien ».
+> 2. Imagerie en coupes seulement selon l'évolution : une **chondropathie** ou une **condensation sous-chondrale** n'explique pas forcément les symptômes.
+> 3. Toute **sensation d'instabilité** change de cadre ; une **disproportion plainte / bilan normal** doit faire évoquer une composante **psychogénique**.
+
+## Images clés
+![Bilan d'imagerie : face, profil et défilés fémoropatellaires habituellement normaux ; l'imagerie en coupes peut montrer une anomalie sans lien avec les symptômes](../../img/2017/JMpg4vxYwNI-1.jpg) [▶ 3:16](https://www.youtube.com/watch?v=JMpg4vxYwNI&t=196s)
+![Synthèse : évaluation clinique par étapes, radiographies normales, traitement adapté et varié, suivi régulier](../../img/2017/JMpg4vxYwNI-2.jpg) [▶ 11:12](https://www.youtube.com/watch?v=JMpg4vxYwNI&t=672s)
 
 ## Points clés
 - Pathologie fréquente, physiopathologie complexe à double composante **physique et psychologique** ; patients souvent mal considérés par les médecins.

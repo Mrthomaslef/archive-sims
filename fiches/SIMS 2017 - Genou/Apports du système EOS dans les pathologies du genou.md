@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, eos-gonometrie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Ph. Thelen (RIM Maussins-Nollet, Paris) et coll."
 video: https://www.youtube.com/watch?v=--l0yWDW1JI
 duree: 16 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Apports du système EOS dans les pathologies du genou
 
-> [!abstract] En une phrase
-> L'EOS 3D en charge donne longueurs, axes frontal et sagittal, torsions et rotation fémorotibiale avec une irradiation réduite et une meilleure reproductibilité que le scanner ; il est surtout utile si flessum ou rotation > 10°, mais ne remplace pas encore le scanner pour les prothèses.
+> [!abstract] L'essentiel
+> **Gonométrie 2D suffisante dans 3/4 des cas ; passer en EOS 3D si flessum ou rotation > 10°** : torsions mesurées aussi bien qu'au scanner, à dose bien moindre.
+
+> [!success] À retenir
+> 1. **Flessum ou rotation > 10°** → HKA 2D faux de **> 2°** (écart 2D/3D > 2° dans **22 %** des cas) : demander l'EOS 3D.
+> 2. Torsions fémorale/tibiale EOS 3D ≈ scanner, **meilleure reproductibilité**, dose réduite ; **rotation fémorotibiale** latérale majorée dans l'**instabilité patellaire**.
+> 3. **PTG non modélisées** et têtes fémorales difficiles à repérer (dysplasie, coxarthrose) : le **scanner** reste la référence pour la prothèse.
+
+## Images clés
+![Gonométrie 2D vs EOS 3D : élargissement du genou droit en 2D révélant un flessum de 18° en 3D, avec minoration du varus par la rotation médiale](../../img/2017/--l0yWDW1JI-1.jpg) [▶ 4:45](https://www.youtube.com/watch?v=--l0yWDW1JI&t=285s)
+![Comparatif scanner / EOS 3D : rétrotorsion fémorale gauche de 35° et raccourcissement fémoral de 3 cm mesurés sur la modélisation 3D](../../img/2017/--l0yWDW1JI-2.jpg) [▶ 9:05](https://www.youtube.com/watch?v=--l0yWDW1JI&t=545s)
+![Dysplasie fémoropatellaire avec luxation : torsion tibiale 42°, antéversion 29° et rotation fémorotibiale latérale 9° en extension, diminuant à 1° en flexion](../../img/2017/--l0yWDW1JI-3.jpg) [▶ 11:16](https://www.youtube.com/watch?v=--l0yWDW1JI&t=676s)
 
 ## Points clés
 - Expérience d'une équipe équipée depuis 2009 ; les membres inférieurs représentent environ un quart des examens EOS.

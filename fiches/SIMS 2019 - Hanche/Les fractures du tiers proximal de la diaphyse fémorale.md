@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, fracture-de-stress]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Bruno Vande Berg (Cliniques universitaires Saint-Luc, Bruxelles)"
 video: https://www.youtube.com/watch?v=cYaYEnn7yac
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les fractures du tiers proximal de la diaphyse fémorale
 
-> [!abstract] En une phrase
-> Le tiers proximal de la diaphyse fémorale est le territoire où les contraintes biomécaniques sont maximales : il faut y détecter tôt les fractures de fatigue, par insuffisance et atypiques sous bisphosphonates, souvent mieux vues au scanner qu'en IRM.
+> [!abstract] L'essentiel
+> **Tiers proximal du fémur = contraintes maximales** : y traquer fatigue, insuffisance et fracture atypique, souvent mieux vues au **scanner** qu'en IRM.
+
+> [!success] À retenir
+> 1. Fracture atypique (bisphosphonates, mais **15-20 %** sans) : **triade bec cortical latéral + composante transverse + esquille médiale** ; toujours examiner le **fémur controlatéral**.
+> 2. Piège IRM : la fracture par insuffisance mime une **lésion de remplacement centro-diaphysaire** (métastase, myélome) → scanner pour l'interruption corticale et le cal.
+> 3. Fracture de fatigue : œdème **autour du cortex** en IRM, trait souvent **longitudinal** ; bulles de gaz dans le trait = micromobilité, pas infection.
+
+## Images clés
+![Fracture fémorale atypique complète (femme 79 ans, ostéoporose) : triade diagnostique bec cortical latéral, composante transverse et esquille médiale](../../img/2019/cYaYEnn7yac-1.jpg) [▶ 8:29](https://www.youtube.com/watch?v=cYaYEnn7yac&t=509s)
+![Piège : fracture par insuffisance diaphysaire en IRM (T1, T2) simulant une lésion de remplacement centro-médullaire, avec anomalies corticales sous-estimées](../../img/2019/cYaYEnn7yac-2.jpg) [▶ 5:55](https://www.youtube.com/watch?v=cYaYEnn7yac&t=355s)
+![Fracture de fatigue diaphysaire : œdème autour du cortex en T1 et DP fs, interruption corticale et réaction endostée/périostée au scanner](../../img/2019/cYaYEnn7yac-3.jpg) [▶ 4:25](https://www.youtube.com/watch?v=cYaYEnn7yac&t=265s)
 
 ## Points clés
 - Territoire le plus latéral par rapport au vecteur du poids du corps : le bras de levier majore les contraintes, auxquelles s'ajoutent les contraintes dynamiques des muscles longs, parfois bi-articulaires.

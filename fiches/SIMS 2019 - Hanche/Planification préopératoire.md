@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, planification]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (chirurgien orthopédiste, président de la SOFCOT)"
+orateur: "Didier Mainard (Hôpital Central, CHRU Nancy)"
 video: https://www.youtube.com/watch?v=OJIkaLwQqFM
 duree: 13 min
 date: 2026-11-18
@@ -12,14 +12,24 @@ source: transcription automatique YouTube (à relire si un point semble douteux 
 
 # Planification préopératoire
 
-> [!abstract] En une phrase
-> La planification préopératoire de la prothèse totale de hanche est indispensable ; la planification 2D sur radiographie reste la référence mais la planification 3D (scanner et surtout imagerie biplanaire basse dose EOS) est plus précise pour la taille et le positionnement des implants.
+> [!abstract] L'essentiel
+> **La planification de PTH n'est fiable que sur un bassin de face debout standardisé ; la 3D (scanner, EOS) prédit mieux taille et position que les calques 2D** : EOS > scanner > radiographie.
+
+> [!success] À retenir
+> 1. Bassin de planification : debout, **pieds en rotation interne 15-20°**, centré **2 cm sous la symphyse**, crêtes iliaques + fémur proximal sur toute la longueur de la tige ; agrandissement ≈ **1,15**, variable chez l'obèse.
+> 2. Concordance taille planifiée/implantée : **16 % en 2D vs 96 % au scanner 3D** (essai randomisé, 60 PTH) ; scanner ≈ **4 mSv**, en décubitus.
+> 3. Cupule dans la zone de **Lewinnek** (**40 ± 15°** frontal, **15 ± 10°** sagittal), à adapter à la bascule pelvienne ; EOS 3D = debout, faible dose, sans agrandissement.
+
+## Images clés
+![Planification 3D sur EOS (hipEOS) : modélisation du bassin et des fémurs en charge puis intégration virtuelle des implants](../../img/2019/OJIkaLwQqFM-1.jpg) [▶ 9:42](https://www.youtube.com/watch?v=OJIkaLwQqFM&t=582s)
+![Essai randomisé 2D vs scanner 3D : concordance de taille 16 % vs 96 %, meilleure précision du centre de rotation, de l'offset et de la longueur](../../img/2019/OJIkaLwQqFM-2.jpg) [▶ 8:08](https://www.youtube.com/watch?v=OJIkaLwQqFM&t=488s)
+![Calques acétabulaires et zone de sécurité de Lewinnek (inclinaison 40 ± 15°, antéversion 15 ± 10°) à adapter à la bascule pelvienne](../../img/2019/OJIkaLwQqFM-3.jpg) [▶ 4:34](https://www.youtube.com/watch?v=OJIkaLwQqFM&t=274s)
 
 ## Points clés
-- PTH : survie de 84 % à 20 ans ; bon positionnement et taille adaptée des implants = objectif prioritaire pour éviter les complications.
+- PTH : survie de 80 à 85 % à 20 ans ; bon positionnement et taille adaptée des implants = objectif prioritaire pour éviter les complications.
 - Planification préconisée dès les années 80 (Maurice Müller), après l'ère Charnley (années 70).
 - **Planification 2D** : superposition de calques acétabulaires et fémoraux (manuels puis numérisés) sur le cliché préopératoire.
-- **Qualité radiographique** : patient debout en charge, fesses contre la plaque, bras le long du corps, **pieds en rotation interne** (corrige l'antéversion fémorale, déroule le col) ; cliché incluant les crêtes iliaques et le fémur proximal sur toute la longueur de la tige, centré sous la symphyse ; mêmes critères au suivi.
+- **Qualité radiographique** : patient debout en charge, fesses contre la plaque, bras le long du corps, **pieds en rotation interne de 15-20°** (corrige l'antéversion fémorale, déroule le col) ; cliché incluant les crêtes iliaques et le fémur proximal sur toute la longueur de la tige, centré sous la symphyse ; mêmes critères au suivi.
 - **Agrandissement** ≈ 1,15 (calques fabricants), mais variable selon la morphologie (moindre chez le sujet maigre, plus important chez l'obèse) → imprécision sur taille et offset ; limites aussi chez le patient raide ou en flessum.
 - **Repères** : ligne passant par le bas des « U » radiologiques (horizontale de référence) ; **centre de rotation** = centre de la tête fémorale (cercles concentriques) ; en cas de destruction acétabulaire, se fier à la hanche controlatérale.
 - Objectifs : offset, longueur du membre, centre de rotation ; ajustables par hauteur de coupe, longueur de col, angle cervicodiaphysaire, diamètre et hauteur de tête.

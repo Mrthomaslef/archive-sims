@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, scaphoide]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "Bruno Vande Berg (cité par l'orateur suivant)"
+orateur: "Bruno Vande Berg"
 video: https://www.youtube.com/watch?v=gbOGbJ3rgl4
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Retard de consolidation, pseudarthrose et nécrose du scaphoïde
 
-> [!abstract] En une phrase
-> Le scanner juge la consolidation, l'IRM la perfusion médullaire du pôle proximal, mais les patterns de signal, de rehaussement et de densité sont très variables et doivent être interprétés avec prudence, en connaissant toujours la date et la topographie de la fracture.
+> [!abstract] L'essentiel
+> **Scaphoïde : le scanner juge la consolidation, l'IRM injectée la perfusion du pôle proximal** ; patterns souvent intermédiaires, à lire avec la date et la topographie du trait.
+
+> [!success] À retenir
+> 1. **Pseudarthrose** : berges sclérosées et corticalisées, micro-géodes, **plan liquidien à l'interface** (DP FS).
+> 2. **T1 FS gado** : rehaussement complet = pôle perfusé ; **absent = nécrose** ; partiel (zones sous-chondrales) fréquent et non conclusif.
+> 3. **Densification scanographique du pôle proximal ≠ nécrose** : peut être perfusé ; un aspect « œdémateux » ne garantit pas non plus la vascularisation.
+
+## Images clés
+![Pseudarthrose du scaphoïde à 7 mois : plan liquidien à l'interface (DP fs) et raréfaction osseuse / œdème du pôle proximal](../../img/2022/gbOGbJ3rgl4-1.jpg) [▶ 2:35](https://www.youtube.com/watch?v=gbOGbJ3rgl4&t=155s)
+![Perfusion du pôle proximal en T1 fs gado : rehaussement complet, partiel ou absent (nécrose), avec schémas correspondants](../../img/2022/gbOGbJ3rgl4-2.jpg) [▶ 5:25](https://www.youtube.com/watch?v=gbOGbJ3rgl4&t=325s)
+![TDM : densification du pôle proximal observée aussi bien dans un retard de consolidation avec nécrose que dans une fracture qui consolide](../../img/2022/gbOGbJ3rgl4-3.jpg) [▶ 6:10](https://www.youtube.com/watch?v=gbOGbJ3rgl4&t=370s)
 
 ## Points clés
 - Scaphoïde, clé de voûte du carpe ; vascularisation rétrograde (branche dorsale de l'artère radiale), pôle proximal hypovascularisé.

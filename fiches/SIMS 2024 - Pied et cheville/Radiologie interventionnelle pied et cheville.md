@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, radiologie-interventionnelle]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (deux radiologues interventionnels, Saint-Étienne — Sylvain — et Lyon)"
+orateur: "Nicolas Stacoffe (CHU Lyon Sud) et Sylvain Grange (CHU Saint-Étienne)"
 video: https://www.youtube.com/watch?v=nYKu3LnX2l8
 duree: 25 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Radiologie interventionnelle pied et cheville
 
-> [!abstract] En une phrase
-> Toutes les techniques de RI (infiltration, consolidation, thermoablation, sclérothérapie, embolisation) sont possibles au pied, mais la faible épaisseur des parties molles et la proximité des structures nobles imposent installation stricte, multi-guidage et protection active.
+> [!abstract] L'essentiel
+> **Au pied, tout geste de RI est faisable si l'installation est stricte (strap, pied débordant) et les structures nobles protégées** : multi-guidage, hydrodissection, thermocapteur.
+
+> [!success] À retenir
+> 1. **Cryoablation** : AL possible, ~**30 min**, zone létale **−40/−20 °C** (glaçon à 0 °C visible), traverse la corticale ; **RF** : AG/sédation, **6-10 min**, marge nette, reste intra-osseuse (lésions lytiques).
+> 2. Ostéome ostéoïde du talus : **écho + scanner + scopie**, hydrodissection, **thermocapteur intra-articulaire** (cartilage > +10 °C en cryo).
+> 3. Métastase lytique : **ciment en compression + broches/vis en cisaillement** ; KOA : **sclérothérapie** percutanée ; embolisation de l'aponévropathie plantaire = technique encore évaluative.
+
+## Images clés
+![Consolidation percutanée d'une métastase de la malléole médiale : 3 broches puis injection de ciment sous scanner-scopie (ciment en compression, broches en cisaillement)](../../img/2024/nYKu3LnX2l8-1.jpg) [▶ 4:01](https://www.youtube.com/watch?v=nYKu3LnX2l8&t=241s)
+![Thermoablation d'un ostéome ostéoïde du col du talus : thermocapteur placé dans l'articulation talo-naviculaire pour protéger le cartilage](../../img/2024/nYKu3LnX2l8-2.jpg) [▶ 7:25](https://www.youtube.com/watch?v=nYKu3LnX2l8&t=445s)
+![Kyste osseux anévrismal de la fibula distale (enfant de 14 ans) : ponction directe et sclérothérapie, opacification du kyste au contrôle scanner](../../img/2024/nYKu3LnX2l8-3.jpg) [▶ 11:32](https://www.youtube.com/watch?v=nYKu3LnX2l8&t=692s)
 
 ## Points clés
 - **Installation** : souvent procubitus, pied débordant (aponévrose plantaire abordée par la face médiale) ou 3/4 genou fléchi exposant face médiale ou latérale ; contention par strap(s) indispensable ; fléchir le genou controlatéral pour limiter l'irradiation sous scanner.

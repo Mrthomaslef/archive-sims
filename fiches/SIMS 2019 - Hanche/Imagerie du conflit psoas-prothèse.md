@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, iliopsoas, échographie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (prénommé Raphaël par l'orateur suivant)"
+orateur: "Raphaël Guillin (CHU Rennes)"
 video: https://www.youtube.com/watch?v=JbclHq5-uZk
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,16 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie du conflit psoas-prothèse
 
-> [!abstract] En une phrase
-> Le conflit iliopsoas-cupule se suspecte à l'interrogatoire et se démontre en échographie (signe de la double courbe, débord > 5 mm en sagittal, contact, bursite), qui pourrait supplanter l'infiltration test comme gold standard.
+> [!abstract] L'essentiel
+> **Le conflit iliopsoas-cupule se démontre en échographie** : débord de cupule (signe de la double courbe), contact tendineux et bursite, sans artefact métallique.
+
+> [!success] À retenir
+> 1. Clinique à écrire dans le CR : douleur **strictement inguinale** en **flexion** (voiture, escaliers, chaussettes), indolore en terrain plat, **intervalle libre** postopératoire.
+> 2. **Signe de la double courbe** en axial oblique = débord métallique de la cupule (≠ hyperostose ou ciment) ; scanner : débord axial **> 12 mm**.
+> 3. Trois signes spécifiques (Sp **100 %**) : **contact**, saillie sagittale **> 5 mm**, **bursite** ; contact présent chez **12 %** des asymptomatiques → confronter à la clinique.
+
+## Images clés
+![Anatomie de l'iliopsoas et échographie du tendon du psoas passant en avant de la cupule : l'échographie visualise le débord, ses rapports avec le tendon et n'est pas sujette aux artéfacts](../../img/2019/JbclHq5-uZk-1.jpg) [▶ 5:03](https://www.youtube.com/watch?v=JbclHq5-uZk&t=303s)
 
 ## Points clés
 - **Physiopathologie** : la cupule doit être enfouie sous l'os natif ; une cupule **surdimensionnée ou rétroversée** déborde en avant au contact du tendon iliopsoas (posé sur l'os) → tendinopathie, plus rarement bursite. Tendon accessoire latéral pouvant contribuer. Diagnostic différentiel : vis acétabulaire saillante.

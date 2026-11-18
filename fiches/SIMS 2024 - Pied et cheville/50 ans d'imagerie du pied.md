@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, histoire-imagerie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (deux orateurs ; la partie IRM, échographie, cone beam et RI est présentée par « Olivier »)"
+orateur: "Gérard Morvan et Olivier Fantino"
 video: https://www.youtube.com/watch?v=PqyeDItBP_Q
 duree: 16 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # 50 ans d'imagerie du pied
 
-> [!abstract] En une phrase
-> En 50 ans, l'imagerie du pied est passée de la radiographie aux techniques en coupes, puis à EOS, au cone beam en charge, à l'IA et à la RI ; le couple radiographie en charge + échographie reste central, avec une approche toujours clinique.
+> [!abstract] L'essentiel
+> **Le socle reste radiographies en charge + échographie, puis la technique la plus adaptée** : scanner pour l'os, IRM 3D pour les parties molles, cone beam en charge pour la 3D debout.
+
+> [!success] À retenir
+> 1. **Radiographies toujours en charge** (angles de Djian, Méary) ; cheville de face en équin = rayon tangent au dôme postérieur → **pincement antérieur méconnu**.
+> 2. Arrière-pied, Chopart, Lisfranc : superpositions → **scanner** devant une radio « normale » mais une clinique franche (fracture occulte).
+> 3. IRM : 3D DP FS et **séquences « os » (ZTE/PETRA)** pour se passer du scanner ; **cone beam en charge** (voxel 0,3 mm) : 3D debout, limité en contraste parties molles.
+
+## Images clés
+![Radiographies en charge : angle de Djian (97° pied creux, 147° pied plat) et cliché de Méary pour l'axe de l'arrière-pied](../../img/2024/PqyeDItBP_Q-1.jpg) [▶ 2:54](https://www.youtube.com/watch?v=PqyeDItBP_Q&t=174s)
+![Fracture occulte de l'arrière-pied : radiographie non contributive, scanner montrant le fragment (tête de flèche) — intérêt des coupes sans superposition](../../img/2024/PqyeDItBP_Q-2.jpg) [▶ 7:24](https://www.youtube.com/watch?v=PqyeDItBP_Q&t=444s)
+![IRM 3D DP FS et séquence ZTE « os » : lésion osseuse plantaire visible sans recours au scanner (flèche)](../../img/2024/PqyeDItBP_Q-3.jpg) [▶ 10:14](https://www.youtube.com/watch?v=PqyeDItBP_Q&t=614s)
 
 ## Points clés
 - Pied humain : chef-d'œuvre biomécanique (3 millions d'années d'évolution) ; sols durs, chaussures fermées, talons et surpoids ont créé des « technopathies ».

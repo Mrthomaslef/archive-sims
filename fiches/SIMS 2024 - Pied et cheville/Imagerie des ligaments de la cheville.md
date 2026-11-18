@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, ligaments-cheville]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Raphaël Guillin (CHU de Rennes) et coll."
 video: https://www.youtube.com/watch?v=Bz7QTI2FfKM
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,13 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie des ligaments de la cheville
 
-> [!abstract] En une phrase
-> Comprendre l'obliquité de chaque ligament (plan latéral, médial, syndesmose) et utiliser des repères clés conditionne leur exploration statique et dynamique en échographie comme en IRM.
+> [!abstract] L'essentiel
+> **Ligaments de cheville : connaître l'obliquité de chaque faisceau et le mettre en tension** ; en IRM, s'appuyer sur des repères fixes plutôt que sur le seul signal.
+
+> [!success] À retenir
+> 1. Mise en tension en écho : **LTFA en flexion plantaire** (sonde ~25° vers le bas), **LCF et LTFAI en dorsiflexion** (sonde à **45°**).
+> 2. Repères IRM : LTFA sur l'unique coupe axiale de la **cuvette du col du talus** ; LCF sous les **fibulaires** jusqu'à l'éminence rétro-trochléaire ; faisceau de **Bassett** visible dans **90-95 %**.
+> 3. **Hypersignal T2 physiologique** du LTFP et du deltoïde profond (**80 %**) : analyser en **T1** ; Doppler du deltoïde profond en **flexion plantaire** pour l'impaction médiale.
 
 ## Points clés
 - **LTFA** : en IRM axiale, une seule coupe montre la cuvette latérale du col du talus et son promontoire où il s'insère ; fin, bien défini, vide de signal. Faisceau bifasciculaire : dans 80 % des cas, la bande proximale est deux fois plus épaisse et large que la distale. Échographie : index sur la malléole, sonde horizontale inclinée d'environ 25° vers le bas et le plafond, flexion plantaire pour le tendre ; test dynamique (tiroir/varus) décrit sur l'e-learning SIMS.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, entorse-cheville]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (équipe lyonnaise ; probablement deux orateurs, échographie et IRM)"
+orateur: "Bertrand Bordet (Clinique du Parc, Lyon) et Philippe Meyer (Clinique du Sport, Bordeaux)"
 video: https://www.youtube.com/watch?v=uZCwzeHdjlM
 duree: 18 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les lésions ligamentaires de la cheville - échographie versus IRM
 
-> [!abstract] En une phrase
-> Pas de « combat » : l'échographie dynamique reste l'examen de première intention de l'entorse, tandis que l'IRM est supérieure pour la syndesmose, le sinus du tarse, les structures plantaires, l'os (contusions, fractures occultes, lésions ostéochondrales) et avant toute chirurgie.
+> [!abstract] L'essentiel
+> **Échographie dynamique et comparative en 1re intention de l'entorse ; IRM pour la syndesmose, le Chopart/spring, le sinus du tarse, l'os et avant chirurgie.**
+
+> [!success] À retenir
+> 1. LTFA souvent **bifide** : faisceau distal à **enthèse commune avec le LCF** ; manœuvres dynamiques (rotation médiale, varus) pour distinguer rupture, désinsertion et ligament continu distendu.
+> 2. **Entorse haute ≈ 15 %** : stabilité par LTFPI (**40-45 %**), LTFAI (**35 %**), LTFI (**22 %**) ; **2 ligaments sur 3** atteints = instabilité → IRM avec FOV remontant **10 cm** au-dessus de l'interligne.
+> 3. **Chopart** touché dans **73 %** des inversions, sinus du tarse **≈ 70 %**, avulsions/contusions osseuses **≈ 1/4** des entorses → domaine de l'IRM si discordance radioclinique.
+
+## Images clés
+![Échographie du LTFA bifide : faisceau proximal (flèche) et faisceau distal à enthèse commune avec le ligament calcanéofibulaire (cercles), corrélés au schéma anatomique](../../img/2024/uZCwzeHdjlM-1.jpg) [▶ 3:30](https://www.youtube.com/watch?v=uZCwzeHdjlM&t=210s)
+![Entorse haute : stabilité de la syndesmose (LTFPI 40-45 %, LTFAI 35 %, LTFI 22 %) ; IRM axiale avec champ remontant 10 cm au-dessus de l'interligne](../../img/2024/uZCwzeHdjlM-2.jpg) [▶ 5:28](https://www.youtube.com/watch?v=uZCwzeHdjlM&t=328s)
 
 ## Points clés
 - Objectifs : type d'entorse, ligaments atteints, gravité (élongation vs rupture), lésions associées (fractures, arrachements). Seules l'échographie et l'IRM démembrent l'ensemble des lésions.
@@ -24,7 +33,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **IRM** : performances désormais proches de l'échographie (3D, reconstruction IA, séquences **ZTE** « silencieuses » pour les petites avulsions) ; gradation : épaississement avec perte fibrillaire (bénin), amincissement continu, rupture complète.
 - **Entorse haute** (15 % des traumatismes, éversion) : stabilité assurée surtout par le ligament tibiofibulaire postéro-inférieur, puis antéro-inférieur, puis interosseux ; deux ligaments atteints = risque d'instabilité. Le ligament antéro-inférieur apparaît fragmenté en coupes 2D (ne pas conclure à une rupture). Explorer ~10 cm au-dessus de l'interligne pour le ligament interosseux.
 - Désinsertion haute de l'interosseux + hypersignal hémicirconférentiel du tibia = « **anneau de feu rompu** » (décrit par Calder, nom transcrit), quasi pathognomonique d'une lésion syndesmotique instable.
-- **Chopart** : atteint dans 3/4 des traumatismes en inversion (isolé dans 1/3). Ligaments talonaviculaire dorsal, bifurqué, calcanéocuboïdien : l'atteinte complète du Chopart est l'apanage de l'IRM.
+- **Chopart** : atteint dans 73 % des traumatismes en inversion (isolé dans 5 à 33 % des cas). Ligaments talonaviculaire dorsal, bifurqué, calcanéocuboïdien : l'atteinte complète du Chopart est l'apanage de l'IRM.
 - **Spring ligament** : faisceau supéromédial (visible en échographie) et deux faisceaux plantaires (médioplantaire oblique strié, inféroplantaire) visibles seulement en IRM (coupes axiales). Rupture du supéromédial possible en éversion ; en échographie, le tibiospring peut flotter dans la rupture.
 - **Plan médial** (15 % des entorses, contre-coup en compression ou traction) : explorer en éventail avec variation de flexion ; faisceau tibiotalien postérieur (perte de l'interposition graisseuse hyperéchogène) ; avulsion du rétinaculum des fléchisseurs ; Doppler.
 - **Sinus du tarse** (atteint dans 70 % des entorses) : ligament frondiforme, rétinaculum inférieur des extenseurs, ligament interosseux talocalcanéen, ligament cervical ; mieux vus en IRM coronale et sagittale ; en échographie, seul l'orifice latéral (ouverture en varus) : infiltration hypoéchogène profonde = suspicion de lésion.

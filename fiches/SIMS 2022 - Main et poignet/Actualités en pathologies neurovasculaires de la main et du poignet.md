@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, nerfs-vaisseaux]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Olivier Fantino"
 video: https://www.youtube.com/watch?v=2zRPvuYhebo
 duree: 9 min
 date: 2026-11-18
@@ -12,11 +12,21 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Actualités en pathologies neurovasculaires de la main et du poignet
 
-> [!abstract] En une phrase
-> Le nerf pathologique chronique peut devenir atrophique, hyperéchogène et sans hypersignal (fibrose), ce qui piège l'imagerie ; la mobilité nerveuse dynamique, le TE long en IRM, la tractographie et l'analyse séquentielle de l'angio-IRM/angioscanner affinent le diagnostic neurovasculaire de la main.
+> [!abstract] L'essentiel
+> **Un nerf chroniquement souffrant devient atrophique, hyperéchogène et sans hypersignal : une surface normale n'élimine pas une neuropathie ancienne** ; penser mobilité nerveuse, TE long et tractographie.
+
+> [!success] À retenir
+> 1. Médian au canal carpien : seuil **12 mm²**, différentiel carré pronateur/entrée du canal **> 2 mm²** (> **4 mm²** si nerf bifide) ; sévérité **< 13 / 13–15 / > 15 mm²** — faussé chez le sujet âgé (atrophie).
+> 2. Écho dynamique : **translation latérale du médian réduite** en flexion-extension des doigts = argument pour SCC ; IRM nerf en **T2 FS TE > 80 ms**.
+> 3. Malformations vasculaires : lire **chaque temps** de l'angio-IRM 4D ; haut débit = **flow-voids + retour veineux précoce** ; bas débit = hypersignal T2 lobulé + **phlébolithes**.
+
+## Images clés
+![Mesures du nerf médian dans le syndrome du canal carpien : seuil 12 mm², différentiel > 2 mm² et échelle de sévérité](../../img/2022/2zRPvuYhebo-1.jpg) [▶ 0:02](https://www.youtube.com/watch?v=2zRPvuYhebo&t=2s)
+![Tractographie des tumeurs nerveuses : fascicules refoulés en périphérie dans le schwannome, interrompus dans le neurofibrome](../../img/2022/2zRPvuYhebo-2.jpg) [▶ 4:17](https://www.youtube.com/watch?v=2zRPvuYhebo&t=257s)
+![Malformation vasculaire à haut débit de la main : pédicules artériels dilatés en angio-IRM et flow-voids en IRM conventionnelle (flèches)](../../img/2022/2zRPvuYhebo-3.jpg) [▶ 6:46](https://www.youtube.com/watch?v=2zRPvuYhebo&t=406s)
 
 ## Points clés
-- Surface de section du nerf médian au canal carpien : valeurs seuils et échelle de sévérité connues, mais **faussées par l'ancienneté** de la neuropathie (sujets âgés) : la perte axonale chronique conduit à une **atrophie** et non à une hypertrophie ; valable pour tous les nerfs périphériques.
+- Surface de section du nerf médian au canal carpien : seuil 12 mm², différentiel carré pronateur/entrée du canal > 2 mm² (> 4 mm² si nerf bifide) [Klauser 2009], sévérité modérée < 13, intermédiaire 13-15, sévère > 15 mm² [Klauser 2015], mais **faussées par l'ancienneté** de la neuropathie (sujets âgés) : la perte axonale chronique conduit à une **atrophie** et non à une hypertrophie ; valable pour tous les nerfs périphériques.
 - Le nerf est **mobile** (répartition des contraintes) ; sa diminution de mobilité augmente les contraintes et les troubles vasculaires.
 - Échographie dynamique en flexion-extension des doigts : translation latérale du nerf médian en coupe axiale (diminuée dans le syndrome du canal carpien, aide au diagnostic) ; glissement crânio-caudal en coupe longitudinale (plus intuitif, moins reproductible).
 - Échostructure : neuropathie = épaississement hypoéchogène avec dédifférenciation fasciculaire (œdème) ; au stade tardif, fibrose → nerf **hyperéchogène** avec rares fascicules résiduels (ex. neuropathie toxique chronique).

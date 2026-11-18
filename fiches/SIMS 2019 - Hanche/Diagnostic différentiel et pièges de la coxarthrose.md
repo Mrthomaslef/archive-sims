@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, coxarthrose, geodes, tumeurs-cartilagineuses]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Raphael Campagna (Hôpital Cochin) et coll."
 video: https://www.youtube.com/watch?v=hlRWrLhXRf0
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Diagnostic différentiel et pièges de la coxarthrose
 
-> [!abstract] En une phrase
-> Une géode d'arthrose peut être atypique en IRM : grande taille, œdème, rehaussement central. À l'inverse, chondroblastome, chondrosarcome central et chondrosarcome à cellules claires peuvent mimer une géode. L'absence de chondropathie en regard est l'indice clé.
+> [!abstract] L'essentiel
+> **Lacune sous-chondrale de hanche : sans chondropathie en regard, penser tumeur cartilagineuse, pas géode** : toujours confronter l'IRM à la radio et à l'état articulaire.
+
+> [!success] À retenir
+> 1. Une **vraie géode** peut être grande, œdémateuse et se rehausser **en périphérie et au centre** : la clé est le **pincement en territoire d'hyperpression**.
+> 2. **SVN** : érosions extrinsèques **des deux versants**, synoviale épaissie, **hémosidérine en écho de gradient**.
+> 3. **Chondroblastome, chondrosarcome central, chondrosarcome à cellules claires** (tête fémorale) : matrice calcifiée, **rehaussement chondroïde**, cartilage intact ; prouver la communication par **arthroscanner (± clichés après déambulation)**.
+
+## Images clés
+![Vraie géode atypique acétabulaire : lacune liquidienne T2FS avec rehaussement périphérique et interne en T1FSGD, à rapporter au pincement et au territoire d'hyperpression](../../img/2019/hlRWrLhXRf0-1.jpg) [▶ 1:53](https://www.youtube.com/watch?v=hlRWrLhXRf0&t=113s)
+![Fausses géodes de SVN : érosions extrinsèques des deux versants au scanner, synoviale épaissie et dépôts d'hémosidérine en hyposignal T2EG](../../img/2019/hlRWrLhXRf0-2.jpg) [▶ 4:49](https://www.youtube.com/watch?v=hlRWrLhXRf0&t=289s)
+![Chondrosarcome à cellules claires de la tête fémorale : lacune sous-chondrale bien limitée, cernée de sclérose, sans chondrolyse en regard (corrélation macroscopique)](../../img/2019/hlRWrLhXRf0-3.jpg) [▶ 8:01](https://www.youtube.com/watch?v=hlRWrLhXRf0&t=481s)
 
 ## Points clés
 - **Vraie géode typique** : multiples, de taille variable, en territoire d'hyperpression, en regard d'un pincement, bordées de sclérose, liquidiennes.

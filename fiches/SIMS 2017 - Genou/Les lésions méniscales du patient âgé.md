@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, menisque-sujet-age]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Bruno Vande Berg (Cliniques universitaires St Luc, UCL Bruxelles) et coll."
 video: https://www.youtube.com/watch?v=gxMDSP1WzS4
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les lésions méniscales du patient âgé
 
-> [!abstract] En une phrase
-> Chez le sujet âgé, les lésions méniscales sont extrêmement fréquentes et aussi présentes chez les asymptomatiques, l'IRM y est moins performante, et la lésion à surveiller est la rupture radiaire ou la désinsertion de la corne postérieure du ménisque médial avec extrusion, qui peut évoluer vers la nécrose ou une arthrose rapide.
+> [!abstract] L'essentiel
+> **Après 60 ans, la lésion méniscale qui compte est la rupture radiaire de la racine postérieure du ménisque médial avec extrusion** : risque d'effondrement sous-chondral en quelques mois.
+
+> [!success] À retenir
+> 1. **Extrusion du segment moyen ≥ 3 mm** en coronal → chercher une **rupture radiaire / désinsertion de la corne postérieure** (équivalent de méniscectomie élargie).
+> 2. Gonalgie médiale brutale + rupture radiaire : surveiller l'**œdème et l'effondrement sous-chondral** du condyle médial (« nécrose » à **6 mois**).
+> 3. Lésions aussi fréquentes chez l'asymptomatique ; l'IRM sur-diagnostique (signal diffus, fibrillation du ménisque latéral) ; mais un signal intraméniscal précède **31/43** ruptures à 6 ans.
+
+## Images clés
+![Femme de 65 ans, gonalgie médiale spontanée : rupture radiaire de la corne postérieure du ménisque médial (flèche) et extrusion méniscale en coronal](../../img/2017/gxMDSP1WzS4-1.jpg) [▶ 5:58](https://www.youtube.com/watch?v=gxMDSP1WzS4&t=358s)
+![Extrusion méniscale associée à une lésion radiaire : débord du segment moyen par rapport au rebord tibial ≥ 3 mm](../../img/2017/gxMDSP1WzS4-2.jpg) [▶ 6:42](https://www.youtube.com/watch?v=gxMDSP1WzS4&t=402s)
+![Suivi IRM à 6 mois : effondrement osseux sous-chondral du condyle médial (nécrose) après rupture radiaire](../../img/2017/gxMDSP1WzS4-3.jpg) [▶ 6:09](https://www.youtube.com/watch?v=gxMDSP1WzS4&t=369s)
 
 ## Points clés
 - Fréquence : lésion méniscale chez 60 % des sujets en série autopsique ; 4 genoux asymptomatiques sur 10 en IRM ; dans une cohorte de 710 IRM (âge moyen 62 ans), environ un quart de lésions méniscales, **sans différence de fréquence entre symptomatiques et asymptomatiques** (y compris pour les géodes sous-chondrales).
@@ -21,7 +31,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Concept de **fracture de fatigue méniscale** : décompensation brutale, parfois inflammatoire et nocturne, associée à des lésions radiaires de la corne postérieure ou à des fragments déplacés.
 - **Signal intraméniscal** : classiquement sans signification s'il n'atteint pas la surface sur au moins deux coupes ; remis en question par un suivi IRM à 2, 4 et 6 ans d'environ 540 genoux asymptomatiques : 43 lésions apparues à 6 ans, dont 31 précédées d'anomalies intraméniscales dans le même territoire (dégénérescence profonde par cisaillement qui « explose » en surface).
 - **Performance réduite de l'IRM** chez le sujet âgé : ménisque diffusément gris sans traduction de surface en arthrographie ; signal atteignant la surface sans rupture ni chondrocalcinose à l'arthroscanner ; fibrillation du segment moyen du ménisque latéral sans signification pathologique.
-- **Rupture radiaire / désinsertion de la corne postérieure du ménisque médial** : entraîne l'**extrusion** (subluxation médiale > 3 mm du segment moyen par rapport au rebord tibial) et la perte de fonction, équivalente à une méniscectomie très large. Cartographie de J. Malghem sur 204 lésions : prédominance à la corne postérieure et après 60 ans.
+- **Rupture radiaire / désinsertion de la corne postérieure du ménisque médial** : entraîne l'**extrusion** (subluxation médiale ≥ 3 mm du segment moyen par rapport au rebord tibial) et la perte de fonction, équivalente à une méniscectomie très large. Cartographie de J. Malghem sur 204 lésions : prédominance à la corne postérieure et après 60 ans.
 - Évolution possible : effondrement sous-chondral et dégradation cartilagineuse en quelques mois (nécrose « spontanée » du condyle médial), forme iatrogène après méniscectomie large ; mais évolution parfois lente ou stabilisée à plusieurs années.
 - Relation réciproque possible : l'arthrose elle-même modifie la biomécanique méniscale et provoque extrusion puis rupture ; le ménisque se déplace en permanence selon la charge (démontré par la chondrocalcinose en charge).
 

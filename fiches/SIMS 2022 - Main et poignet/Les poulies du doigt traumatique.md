@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, poulies]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Quentin Monzani"
 video: https://www.youtube.com/watch?v=UFDC7Yyp1lU
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les poulies du doigt traumatique
 
-> [!abstract] En une phrase
-> Les ruptures complètes de poulie se diagnostiquent sur des signes indirects en échographie dynamique : diastasis tendon-os pour A2 et A4, et diastasis tendon-plaque palmaire pour reconnaître une atteinte associée de A3 ; en IRM, au moins une séquence en flexion est indispensable.
+> [!abstract] L'essentiel
+> **Rupture de poulie = diagnostic sur signes indirects en flexion contrariée** : diastasis tendon-os pour A2/A4, **diastasis tendon-plaque** pour démasquer une atteinte de A3.
+
+> [!success] À retenir
+> 1. **Échographie dynamique** en première intention ; en IRM, **au moins une séquence en flexion** (contrariée ou passive), sinon faux négatif.
+> 2. **Distance tendon-os** : en regard de **P1 (A2)** ou de **P2 (A4)** pour une rupture isolée.
+> 3. **A3 rompue** : la plaque palmaire reste collée à l'os → **liquide entre plaque et fléchisseur superficiel** ; rupture combinée A2-A3 ou A3-A4, à signaler au chirurgien.
+
+## Images clés
+![Schéma et pièce anatomique des poulies digitales : poulies osseuses A2 (P1) et A4 (P2), poulies articulaires A1, A3, A5 insérées sur les plaques palmaires](../../img/2022/UFDC7Yyp1lU-1.jpg) [▶ 0:11](https://www.youtube.com/watch?v=UFDC7Yyp1lU&t=11s)
+![IRM sagittale en flexion : rupture isolée de A4 avec diastasis tendon-os en regard de P2, plaque palmaire (PP) restant soulevée car A3 intacte](../../img/2022/UFDC7Yyp1lU-2.jpg) [▶ 6:50](https://www.youtube.com/watch?v=UFDC7Yyp1lU&t=410s)
 
 ## Points clés
 - Poulies : renforcements fibreux de la gaine des fléchisseurs formant le canal digital ; poulies osseuses (A2 sur P1, A4 sur P2) et articulaires (A1, A3, A5) insérées sur les plaques palmaires.

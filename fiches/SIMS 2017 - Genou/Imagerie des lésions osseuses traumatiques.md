@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, traumatisme-osseux-cartilagineux]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (équipe de Grenoble)"
+orateur: "J.-N. Ravey et coll. (CHU Grenoble)"
 video: https://www.youtube.com/watch?v=5wxlw9mH744
 duree: 19 min
 date: 2026-11-18
@@ -12,8 +12,19 @@ source: transcription automatique YouTube (à relire si un point semble douteux 
 
 # Imagerie des lésions osseuses traumatiques
 
-> [!abstract] En une phrase
-> Les traumatismes cartilagineux et osseux du genou se classent selon une grille à quatre cases (macrotraumatisme unique vs microtraumatismes répétés, macro- vs microdommage) et selon l'épicentre de la lésion (surface, os sous-chondral superficiel ou profond).
+> [!abstract] L'essentiel
+> **Classer toute lésion ostéochondrale traumatique dans la grille traumatisme (micro/macro) × dommage (micro/macro) et en préciser l'épicentre** : surface, sous-chondral superficiel ou profond.
+
+> [!success] À retenir
+> 1. **Avulsion ostéochondrale** après luxation patellaire du jeune : mesurer **fragment et défect** (taille, surface, épaisseur, topographie) → refixation possible.
+> 2. Distinguer **contusion simple** (oriente le mécanisme : LCA, luxation patellaire) et **impact sous-chondral** = vraie fracture → décharge ; parler le même langage que le chirurgien.
+> 3. **Ostéonécrose mécanique** : lésion de surface **> 4 mm** d'épaisseur avec déformation ; fracture de fatigue = épicentre **profond métaphysaire**, visible en IRM avant la radio.
+
+## Images clés
+![Grille de lecture : traumatisme micro/macro × dommage micro/macro (fractures de contrainte, contusion-impaction, ostéonécrose mécanique, macrofractures) et passages possibles entre cases](../../img/2017/5wxlw9mH744-1.jpg) [▶ 18:07](https://www.youtube.com/watch?v=5wxlw9mH744&t=1087s)
+![Avulsions chondrale (entorse) et ostéochondrale (luxation de la patella) : décrire fragment et défect, taille, surface, épaisseur et topographie](../../img/2017/5wxlw9mH744-2.jpg) [▶ 8:26](https://www.youtube.com/watch?v=5wxlw9mH744&t=506s)
+![Luxation de la patella : IRM initiale puis à 8 mois, évolution de la lésion ostéochondrale de la facette patellaire médiale](../../img/2017/5wxlw9mH744-3.jpg) [▶ 10:21](https://www.youtube.com/watch?v=5wxlw9mH744&t=621s)
+![Surpoussée d'arthrose (homme 55 ans) : impact sous-chondral fémoral avec effondrement localisé, à ne pas confondre avec une simple contusion](../../img/2017/5wxlw9mH744-4.jpg) [▶ 17:09](https://www.youtube.com/watch?v=5wxlw9mH744&t=1029s)
 
 ## Points clés
 - Communication présentée sous forme de film humoristique, avec interviews de chirurgiens, puis deux **cartes mentales** (cartilage, os).

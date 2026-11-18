@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, pediatrie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (radiologue)"
+orateur: "Nathalie Boutry (Hôpital Jeanne de Flandre, CHU Lille)"
 video: https://www.youtube.com/watch?v=jKv9ETazuAM
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le genou douloureux non traumatique de l'enfant (partie 2)
 
-> [!abstract] En une phrase
-> Réponse du radiologue aux questions du chirurgien : reconnaître les variantes d'ossification, limiter l'imagerie des ostéochondroses apophysaires, et devant une douleur unilatérale persistante, enchaîner radiographie puis IRM, binôme de référence en pédiatrie.
+> [!abstract] L'essentiel
+> **Genou douloureux de l'enfant : radiographie face + profil d'abord, puis IRM** ; savoir reconnaître les variantes et ne jamais oublier la hanche ni la tumeur.
+
+> [!success] À retenir
+> 1. Variantes (irrégularités **condyliennes postérieures**, défect dorsal, patella bipartite) : c'est l'**œdème osseux** qui signe la souffrance, pas le liquide interfragmentaire.
+> 2. Radio normale sans épanchement → **hanche** (**1/3** des épiphysiolyses donnent une gonalgie) ou ostéome ostéoïde ; avec épanchement → **AJI** (dépister l'uvéite).
+> 3. **Signaux d'alarme** (> **3 semaines**, douleur unilatérale, arrêt des activités, boiterie) → IRM ; apophysose asymétrique ou traînante = éliminer un **ostéosarcome**.
+
+## Images clés
+![Fragmentation du pôle inférieur de la patella (radiographie et IRM sagittales) : variante fréquente, plus encore en cas de paralysie spastique ; l'œdème focal traduit une souffrance](../../img/2017/jKv9ETazuAM-1.jpg) [▶ 1:35](https://www.youtube.com/watch?v=jKv9ETazuAM&t=95s)
+![Ostéochondrite disséquante condylienne en T2 fat-sat : analyser l'interface fragment-niche (liquide = instabilité)](../../img/2017/jKv9ETazuAM-2.jpg) [▶ 4:30](https://www.youtube.com/watch?v=jKv9ETazuAM&t=270s)
+![Douleur unilatérale à radiographie du genou normale : chercher plus haut (épiphysiolyse de hanche) ou plus bas (ostéome ostéoïde tibial au scanner)](../../img/2017/jKv9ETazuAM-3.jpg) [▶ 6:14](https://www.youtube.com/watch?v=jKv9ETazuAM&t=374s)
 
 ## Points clés
 - **Variantes chez le jeune enfant** : irrégularités d'ossification du **tiers postérieur des condyles fémoraux** (environ 20 % des cas, surtout médial, pas toujours bilatérales ni symétriques), sans réaction œdémateuse médullaire importante ; disparaissent avec la croissance.

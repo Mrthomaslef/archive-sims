@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, gonarthrose-chirurgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Nicolas Graveleau (Sport Clinic of Bordeaux-Mérignac) et coll."
 video: https://www.youtube.com/watch?v=DzNy-oKd1pQ
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # L'arthrose du genou : comment le chirurgien choisit le traitement
 
-> [!abstract] En une phrase
-> Le choix chirurgical dans la gonarthrose (arthroscopie rarement, ostéotomie, prothèse partielle ou totale) repose sur la clinique, l'évolution en poussées et des radiographies objectives, en particulier le schuss et les grands axes.
+> [!abstract] L'essentiel
+> **Le chirurgien décide sur des radios en charge : pincement (schuss), stade d'Ahlbäck, axes et LCA** : ostéotomie, PUC ou PTG, presque jamais arthroscopie.
+
+> [!success] À retenir
+> 1. Bilan **toujours** : face, profil, **schuss**, DFP à **30°** en charge + **pangonogramme / EOS** ; IRM, arthroscanner, scanner seulement « parfois ».
+> 2. **Ahlbäck** : stade 1 pincement **< 50 %**, 2 **> 50 %**, 3 pincement complet + cupule **0-5 mm**, 4 cupule **> 5 mm**.
+> 3. Arthrose médiale : pincement **incomplet + varus épiphysaire** → **ostéotomie tibiale** (fermeture externe < 5°, ouverture interne > 5°, double si > 15°) ; pincement **complet** isolé → **PUC** si LCA compétent, sinon **PTG**.
+
+## Images clés
+![Classification d'Ahlbäck : pincement < 50 % (1), > 50 % (2), complet avec cupule osseuse de 0-5 mm (3) ou > 5 mm (4)](../../img/2017/DzNy-oKd1pQ-1.jpg) [▶ 1:40](https://www.youtube.com/watch?v=DzNy-oKd1pQ&t=100s)
+![Arbre décisionnel de l'arthrose médiale symptomatique : pincement incomplet avec varus épiphysaire → ostéotomie ; pincement complet isolé → PUC, sinon PTG](../../img/2017/DzNy-oKd1pQ-2.jpg) [▶ 9:49](https://www.youtube.com/watch?v=DzNy-oKd1pQ&t=589s)
+![Bilan radiographique attendu par le chirurgien : face, profil, schuss, défilé fémoropatellaire et pangonogramme en charge](../../img/2017/DzNy-oKd1pQ-3.jpg) [▶ 10:06](https://www.youtube.com/watch?v=DzNy-oKd1pQ&t=606s)
 
 ## Points clés
 - Arthrose = maladie évolutive par phases (stabilisation, aggravation) : la décision dépend du moment et s'appuie sur une « boussole » clinique et radiologique.
@@ -30,6 +40,8 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 ## Sémiologie et technique d'imagerie
 - Le chirurgien compte sur le radiologue pour le **schuss** (atout français) et les grands axes ; le scanner permet désormais la planification de certaines prothèses.
+- Bilan de décision (diapo de conclusion) : **toujours** radiographies en charge (face, profil, schuss, défilé fémoropatellaire à 30°) et axes par pangonogramme / EOS ; **parfois** IRM (ménisques, nécrose, LCA), arthroscanner (corps étrangers, butoirs), scanner (TA-GT, défect osseux, guides de coupe) ; **rarement** scintigraphie, échographie (kyste).
+- Classification d'Ahlbäck : stade 1 pincement < 50 %, stade 2 > 50 %, stade 3 pincement complet + cupule osseuse 0-5 mm, stade 4 cupule > 5 mm.
 
 ## Pièges et diagnostics différentiels
 - Méconnaître une insuffisance du LCA avant prothèse unicompartimentale.

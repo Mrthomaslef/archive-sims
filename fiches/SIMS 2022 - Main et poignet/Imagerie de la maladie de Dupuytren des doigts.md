@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, dupuytren]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (prénom « Raphaël » cité par le modérateur)"
+orateur: "Raphaël Guillin"
 video: https://www.youtube.com/watch?v=z_jWIwQkL0Y
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,13 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie de la maladie de Dupuytren des doigts
 
-> [!abstract] En une phrase
-> La fibromatose palmaire chemine le long du squelette fibreux de la main, à mi-chemin entre derme et plan profond : un espace graisseux libre doit persister entre la lésion et le plan profond, sinon il faut remettre en cause le diagnostic.
+> [!abstract] L'essentiel
+> **Dupuytren = nodule/bride entre derme et plan profond, avec un liseré graisseux libre au-dessus de la gaine des fléchisseurs** : s'il manque, penser TCG ténosynoviale.
+
+> [!success] À retenir
+> 1. Écho : **nodule 2-10 mm** hypoéchogène, corde échogène pseudo-tendineuse tardive ; IRM : nodule précoce **hypersignal T2**, bride tardive **hyposignal T2**.
+> 2. **Bride spirale du 5e rayon** : enroule le **pédicule vasculo-nerveux** digital → à signaler avant aponévrotomie percutanée.
+> 3. **Table top test** positif = rétraction significative ; différentiel n°1 : **TCG ténosynoviale** (au contact de la gaine) ; coussinets dorsaux (*knuckle pads*) sur la bandelette médiane.
 
 ## Points clés
 - Tumeur fibroblastique/myofibroblastique de l'OMS, comme les fibromatoses plantaire et pénienne.

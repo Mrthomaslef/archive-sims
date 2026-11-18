@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, equilibre-sagittal, parametres-pelviens]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Olivier Fantino (Imagerie Médicale du Parc, Lyon) et coll."
 video: https://www.youtube.com/watch?v=DvgO1CNXUV8
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Relations normales et pathologiques entre colonne vertébrale et bassin
 
-> [!abstract] En une phrase
-> Le bassin est l'élément central de la chaîne rachis-hanches-genoux. L'incidence et la version pelviennes conditionnent l'orientation acétabulaire, la couverture des têtes, les conflits, la coxarthrose et le risque d'instabilité prothétique. D'où l'intérêt d'une imagerie globale.
+> [!abstract] L'essentiel
+> **Incidence et version pelviennes conditionnent couverture acétabulaire, conflits et instabilité de PTH** : interpréter la hanche avec le bassin et le rachis (imagerie corps entier).
+
+> [!success] À retenir
+> 1. **IP** = paramètre de forme constant à l'adulte (**30-90°, moyenne ≈ 50°**) ; la **VP** varie (rétroversion compensatrice avec l'âge, assis ≈ −20° de pente sacrée).
+> 2. **Signe du croisement positionnel** : apparaît sur bassin antéversé, disparaît en rétroversion → vérifier la VP avant de conclure à une rétroversion acétabulaire ; **IP < 35°** = effet came **47 %** vs 25 % si IP > 60°.
+> 3. Avant PTH, dépister **IP extrêmes** et **arthrodèse lombo-sacrée** (risque d'instabilité **× 4**) ; version acétabulaire au scanner rapportée aux paramètres pelviens.
+
+## Images clés
+![Profils lombo-pelviens : incidence pelvienne faible (40°) versus forte (88°), paramètre de forme individuel qui conditionne lordose et orientation acétabulaire](../../img/2019/DvgO1CNXUV8-1.jpg) [▶ 1:26](https://www.youtube.com/watch?v=DvgO1CNXUV8&t=86s)
+![Même bassin : le signe du croisement apparaît en antéversion pelvienne et disparaît en rétroversion, rétroversion acétabulaire « positionnelle »](../../img/2019/DvgO1CNXUV8-2.jpg) [▶ 4:36](https://www.youtube.com/watch?v=DvgO1CNXUV8&t=276s)
 
 ## Points clés
 - **Incidence pelvienne (IP)** : paramètre de forme, qui reflète la profondeur du bassin. Elle est faible chez le nouveau-né, augmente avec la croissance et la marche, puis reste constante à l'âge adulte. Moyenne d'environ 50°, très grande variabilité. La courbure du dos en dépend.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, tendinopathie-glutéale]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (prénommée Nathalie par les autres orateurs)"
+orateur: "Nathalie Bureau (CHUM, Montréal) et coll."
 video: https://www.youtube.com/watch?v=oXwHgnLwAJA
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie des tendinopathies glutéales - classique et inhabituel
 
-> [!abstract] En une phrase
-> Radiographies en première intention, puis échographie ou IRM pour caractériser tendinose et déchirures glutéales, sans oublier les formes pièges (tendinopathie calcifiante à hydroxyapatite, enthésite de spondyloarthrite).
+> [!abstract] L'essentiel
+> **Radio d'abord, puis écho ou IRM : préciser tendon, facette et grade (tendinose, partielle, complète)** ; penser calcification à hydroxyapatite et enthésite de spondyloarthrite.
+
+> [!success] À retenir
+> 1. **4 facettes** du grand trochanter : antérieure = petit glutéal, latérale = lame latérale du moyen glutéal, postéro-supérieure = tendon principal ; signes indirects : **atrophie et infiltration graisseuse**.
+> 2. **Œdème péritrochantérien floride** en IRM : chercher une **calcification d'hydroxyapatite** en résorption (radio/scanner) avant d'évoquer infection ou tumeur.
+> 3. **Enthésite de SpA** : atteinte péritrochantérienne chez **44 %** des patients, parfois inaugurale ; anomalies fréquentes chez l'asymptomatique, **corrélation clinique faible**.
+
+## Images clés
+![IRM : désinsertion de la lame tendineuse latérale du moyen glutéal droit (flèche, côté gauche normal) et déchirure partielle du tendon principal](../../img/2019/oXwHgnLwAJA-1.jpg) [▶ 5:06](https://www.youtube.com/watch?v=oXwHgnLwAJA&t=306s)
+![Tendinopathie calcifiante à hydroxyapatite du moyen glutéal : calcification au contact du grand trochanter (flèches) avec réaction inflammatoire en IRM chez une patiente de 76 ans hyperalgique](../../img/2019/oXwHgnLwAJA-2.jpg) [▶ 6:23](https://www.youtube.com/watch?v=oXwHgnLwAJA&t=383s)
+![Enthésite trochantérienne inaugurale de spondyloarthrite HLA-B27+ : œdème de l'enthèse et des parties molles péritrochantériennes en IRM](../../img/2019/oXwHgnLwAJA-3.jpg) [▶ 7:28](https://www.youtube.com/watch?v=oXwHgnLwAJA&t=448s)
 
 ## Points clés
 - Tendon normal : collagène de type 1 aligné → hyposignal homogène en IRM, aspect échogène fibrillaire (anisotrope) en échographie.

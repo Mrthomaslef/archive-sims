@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, septum-dorsal-dcss]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Bertrand Bordet (Clinique du Parc, Centre médical Créqui, Lyon)"
 video: https://www.youtube.com/watch?v=WlxnDeqxj2U
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Anatomie et imagerie du septum dorsal
 
-> [!abstract] En une phrase
-> Le septum capsulo-scapho-lunaire dorsal (DCSS), tente capsulo-ligamentaire tendue en arrière du ligament scapho-lunaire, est l'origine des kystes dorsaux du carpe et peut être épaissi, inflammatoire ou rompu dans les lésions scapho-lunaires.
+> [!abstract] L'essentiel
+> **Tout kyste dorsal du carpe naît du septum dorsal capsulo-scapho-lunaire (SDCS)** : le chercher en écho, arthroscanner ou IRM 3D, et le décrire aussi dans les lésions scapho-lunaires.
+
+> [!success] À retenir
+> 1. Kyste dorsal = **dysplasie mucoïde du SDCS**, **sans communication articulaire** en règle (sauf micro-perforation scapho-lunaire).
+> 2. **Dysplasie sans kyste** possible : SDCS épaissi, douloureux, visible seulement après **gadolinium** (rehaussement) ou en arthroscanner.
+> 3. Rupture du scapho-lunaire : l'**arche verticale** du SDCS se rompt sur son **versant radial (scaphoïdien)** et flotte attachée au lunatum.
+
+## Images clés
+![Vue dorsale du carpe : septum dorsal capsulo-scapho-lunaire (vert) tendu en arrière du ligament scapho-lunaire, convergeant avec le ligament intercarpien dorsal](../../img/2022/WlxnDeqxj2U-1.jpg) [▶ 0:09](https://www.youtube.com/watch?v=WlxnDeqxj2U&t=9s)
+![Kyste dorsal du carpe naissant du SDCS en échographie et arthroscanner (flèches) : pas de communication avec l'articulation](../../img/2022/WlxnDeqxj2U-2.jpg) [▶ 6:04](https://www.youtube.com/watch?v=WlxnDeqxj2U&t=364s)
+![Dysplasie du SDCS sans kyste : septum épaissi en arthroscanner et écho, rehaussé en T1 FS Gd (flèche bleue)](../../img/2022/WlxnDeqxj2U-3.jpg) [▶ 6:42](https://www.youtube.com/watch?v=WlxnDeqxj2U&t=402s)
 
 ## Points clés
 - Décrit pour la première fois par L. Van Overstraeten : tente capsulo-ligamentaire tendue à la face dorsale du ligament scapho-lunaire, s'évasant sur la capsule et convergeant avec le ligament intercarpien dorsal.

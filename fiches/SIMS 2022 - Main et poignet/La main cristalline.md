@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, arthropathies-microcristallines]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Véronique Freire (CHUM, Centre hospitalier de l'Université de Montréal)"
 video: https://www.youtube.com/watch?v=THAkD3BLmeg
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # La main cristalline
 
-> [!abstract] En une phrase
-> À la main et au poignet : goutte = tophus denses asymétriques puis érosions avec spicules ; pyrophosphate de calcium = calcifications linéaires intra-articulaires et arthropathie pseudo-arthrosique de topographie atypique ; hydroxyapatite = calcifications arrondies périarticulaires pouvant mimer une tumeur ou une infection.
+> [!abstract] L'essentiel
+> **Goutte = nodules denses + érosion avec spicule ; CPP = calcifications linéaires intra-articulaires ; HA = calcifications arrondies périarticulaires** : la radiographie tranche.
+
+> [!success] À retenir
+> 1. **Goutte** : tophus dense asymétrique, **érosion + prolifération (spicule)**, IPD préférentielle ; doute → **scanner double énergie** (fenêtre parties molles).
+> 2. **CPP pseudo-arthrosique** : topographie atypique **médiocarpienne, STT, MCP 2-3** (crochets), **SCAC** ; condensation nette, géodes multiples, peu d'ostéophytes → évoquer aussi **hémochromatose, hyperparathyroïdie**.
+> 3. **Crise d'hydroxyapatite** : mime fracture, arthrite septique ou tumeur (masse rehaussée en IRM) → **radio/scanner** pour voir la calcification ; résorption spontanée en **quelques semaines**.
+
+## Images clés
+![Tableau de synthèse : goutte (nodules denses, érosion + prolifération), CPP (calcifications linéaires intra-articulaires), HA (calcifications arrondies périarticulaires) et leurs diagnostics différentiels](../../img/2022/THAkD3BLmeg-1.jpg) [▶ 8:51](https://www.youtube.com/watch?v=THAkD3BLmeg&t=531s)
+![Goutte : érosions à l'emporte-pièce avec prolifération osseuse (spicule) et tophus des parties molles, atteinte préférentielle des IPD](../../img/2022/THAkD3BLmeg-2.jpg) [▶ 1:12](https://www.youtube.com/watch?v=THAkD3BLmeg&t=72s)
+![Arthropathie à CPP pseudo-arthrosique : atteinte médiocarpienne, MCP 2 et 3 et SCAC (flèches)](../../img/2022/THAkD3BLmeg-3.jpg) [▶ 5:31](https://www.youtube.com/watch?v=THAkD3BLmeg&t=331s)
 
 ## Points clés
 - **Goutte** à la main/au poignet : plus fréquente si début tardif, forme d'emblée évoluée polyarticulaire, chez la femme et sous diurétiques.

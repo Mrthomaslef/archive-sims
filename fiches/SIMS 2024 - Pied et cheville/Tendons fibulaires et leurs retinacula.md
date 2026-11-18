@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, tendons-fibulaires]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Denis Jacob (Dijon) et coll."
 video: https://www.youtube.com/watch?v=hvrskyFoXpY
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Tendons fibulaires et leurs retinacula
 
-> [!abstract] En une phrase
-> Pathologie fréquente à évoquer devant tout traumatisme latéral étiqueté entorse : après la radiographie, l'échographie statique et dynamique est l'examen roi pour les ténosynovites, (sub)luxations, fissures, et les entités POPS et twist.
+> [!abstract] L'essentiel
+> **Derrière une « entorse latérale », penser fibulaires** : radio (arrachement malléolaire, os peroneum) puis **échographie statique et dynamique**, examen roi.
+
+> [!success] À retenir
+> 1. **Luxation des fibulaires** = lésion du **rétinaculum supérieur** (classification d'**Oden I-IV** ; III = arrachement osseux visible en radio) → traitement **chirurgical**.
+> 2. **Écho dynamique** en éversion contrariée : (sub)luxation, **twist** intra-gaine (jeune fille), fissure longitudinale du court fibulaire (sujet âgé, Sobel).
+> 3. **POPS** : fracture/diastasis de l'os peroneum ; **migration proximale de l'os peroneum = rupture du long fibulaire** ; IRM en 2e intention.
+
+## Images clés
+![Classification d'Oden des lésions du rétinaculum supérieur des fibulaires (grades I à IV : décollement, rupture, arrachement osseux)](../../img/2024/hvrskyFoXpY-1.jpg) [▶ 5:36](https://www.youtube.com/watch?v=hvrskyFoXpY&t=336s)
+![Échographie axiale de la gouttière rétromalléolaire : rapports des tendons fibulaires avec la malléole latérale et le rétinaculum supérieur, à tester en dynamique](../../img/2024/hvrskyFoXpY-2.jpg) [▶ 6:23](https://www.youtube.com/watch?v=hvrskyFoXpY&t=383s)
+![Syndrome de l'os peroneum douloureux (POPS) : anomalie de l'os peroneum en radiographie et réaction inflammatoire autour du long fibulaire en IRM](../../img/2024/hvrskyFoXpY-3.jpg) [▶ 8:43](https://www.youtube.com/watch?v=hvrskyFoXpY&t=523s)
 
 ## Points clés
 - Anatomie : court fibulaire → base de M5 ; long fibulaire → tunnel sous-cuboïdien, face inférieure du cunéiforme médial et base de M1 ; os peroneum dans le long fibulaire distal. Gaine commune puis gaines propres à hauteur du calcanéus.
@@ -21,7 +31,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Repères : petit triangle fibrocartilagineux à l'insertion malléolaire du rétinaculum supérieur ; court fibulaire aplati distalement ; tubercule des fibulaires séparant les gaines propres.
 - Variantes : peroneus quartus (véritable « 3e fibulaire », sur l'éminence rétro-trochléaire), « troisième fibulaire » (en fait extenseur, base de M5), jonction myotendineuse basse du court fibulaire.
 - **Ténopathies / ténosynovites** : douleur postéro-latérale à l'effort (course, danse) ; favorisées par un tubercule fibulaire proéminent, un muscle court fibulaire bas ; traitement médical ± infiltrations échoguidées.
-- **Subluxations / luxations** : lésion du rétinaculum supérieur (dorsiflexion forcée, arrière-pied en inversion) ; classification d'Oden (grade 1 cité) selon la désinsertion du triangle fibrocartilagineux, la rupture du rétinaculum ou l'arrachement osseux ; traitement en règle chirurgical (réparation, creusement malléolaire, lambeau périosté, transfert).
+- **Subluxations / luxations** : lésion du rétinaculum supérieur (dorsiflexion forcée, arrière-pied en inversion) ; classification d'Oden en 4 grades selon la désinsertion du rétinaculum (avec le triangle fibrocartilagineux), sa rupture ou l'arrachement osseux malléolaire ; traitement en règle chirurgical (réparation, creusement malléolaire, lambeau périosté, transfert).
 - **Twist** (plutôt jeune fille) : interversion des deux tendons dans la gaine avec rétinaculum intact ; type A intra-gaine, type B avec fissure du court fibulaire.
 - **Fissures / ruptures** : aiguës chez le jeune, chroniques chez le sujet âgé (laxité rétinaculaire ou compression du court fibulaire entre malléole et long fibulaire) ; classification de Sobel ; PRP non validé.
 - **POPS** (painful os peroneum syndrome) : fracture aiguë/chronique ou diastasis d'un os peroneum multipartite, rupture du long fibulaire, hypertrophie du tubercule fibulaire.

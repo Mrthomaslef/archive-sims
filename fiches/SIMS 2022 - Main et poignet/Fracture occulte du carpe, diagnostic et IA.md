@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, fracture-occulte]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "Guillaume Bierry (prénom cité par le modérateur, nom par l'orateur suivant)"
+orateur: "Guillaume Bierry"
 video: https://www.youtube.com/watch?v=TkQEa4kvk2Y
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Fracture occulte du carpe, diagnostic et IA
 
-> [!abstract] En une phrase
-> Les radiographies ratent une part importante des fractures du carpe (dont 20 % des fractures du scaphoïde) : le contrôle radiographique à J10-J14 est inutile, scanner/cone beam et IRM ont des performances équivalentes, et l'IA améliore les performances du radiologue sans le remplacer.
+> [!abstract] L'essentiel
+> **Radiographie normale ≠ pas de fracture du carpe : 20 % des fractures du scaphoïde sont occultes** ; passer d'emblée au scanner/cone beam ou à l'IRM plutôt qu'à la radio de contrôle à J10-J14.
+
+> [!success] À retenir
+> 1. Bilan initial = **4 incidences** (face, profil strict, 2 obliques dont scaphoïde en inclinaison ulnaire) ; sensibilité radio ≈ **50 %** carpe, **80 %** scaphoïde.
+> 2. Radio à **J10-J14 inutile** (≈ **6 semaines** pour voir une anomalie) ; scanner/cone beam (**VPN ≈ 95 %**) ou IRM, performances équivalentes, IRM plus simple à lire (œdème T2, trait T1).
+> 3. Regarder systématiquement le **lunatum** et la **deuxième rangée** (trapèze, capitatum), bien plus souvent fracturés que ne le laisse croire la radio ; l'**IA** améliore le lecteur sans le remplacer.
+
+## Images clés
+![Fracture occulte du carpe : radiographie de face normale, trait visible sur les coupes scanner coronale et axiale](../../img/2022/TkQEa4kvk2Y-1.jpg) [▶ 5:54](https://www.youtube.com/watch?v=TkQEa4kvk2Y&t=354s)
+![Fracture de la deuxième rangée du carpe méconnue en radiographie, mise en évidence au scanner (coupes sagittale et axiale)](../../img/2022/TkQEa4kvk2Y-2.jpg) [▶ 7:24](https://www.youtube.com/watch?v=TkQEa4kvk2Y&t=444s)
+![Fracture unicorticale du carpe invisible sur la radiographie, identifiée uniquement en imagerie en coupes](../../img/2022/TkQEa4kvk2Y-3.jpg) [▶ 7:58](https://www.youtube.com/watch?v=TkQEa4kvk2Y&t=478s)
 
 ## Points clés
 - Définition (ancienne mais de référence, notamment médico-légale) : fracture non détectée sur les radiographies initiales, ou signes subtils visibles seulement rétrospectivement, confirmée par une autre technique.

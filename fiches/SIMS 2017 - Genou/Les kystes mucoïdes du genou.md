@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les kystes mucoïdes du genou
 
-> [!abstract] En une phrase
-> Les kystes mucoïdes, fréquents et le plus souvent sans importance, résultent selon l'orateur d'une extravasation de liquide synovial ; leur communication articulaire et l'absence de rehaussement les distinguent d'une tumeur.
+> [!abstract] L'essentiel
+> **Kyste mucoïde = extravasation de liquide synovial par un pédicule articulaire, sans rehaussement : tout « kyste » qui se rehausse est une tumeur jusqu'à preuve du contraire.**
+
+> [!success] À retenir
+> 1. Très fréquents : **≈ 25 % des genoux** en IRM (intracapsulaires surtout : LCA ≈ **5 %**, Hoffa, intra-osseux ≈ **8,6 %**).
+> 2. Kyste intra-osseux : **tibia rétro-spinal** (insertion LCP / corne postérieure du ménisque médial), **jamais à la patella**, en os non cartilagineux ; ≠ **géode** sous-chondrale (sous cartilage, arthrose).
+> 3. **Comparer la même séquence T1 FS avant / après gadolinium** (soustraction) : le mucus est spontanément en hypersignal T1 FS ; rehaussement charnu → penser **sarcome synovial**, même < 2 cm.
+
+## Images clés
+![Dégénérescence mucoïde du LCA en IRM sagittale : hypersignal écartant les fibres du ligament, non rompu (flèches)](../../img/2017/VrcunRW0rdY-1.jpg) [▶ 3:40](https://www.youtube.com/watch?v=VrcunRW0rdY&t=220s)
+![Théorie synoviale : opacification d'un kyste mucoïde postérieur après arthrographie (arthroscanner, flèches), preuve de la communication articulaire](../../img/2017/VrcunRW0rdY-2.jpg) [▶ 7:00](https://www.youtube.com/watch?v=VrcunRW0rdY&t=420s)
+![Piège : sarcome synovial d'allure kystique en T1 et DP FS mais rehaussé franchement après gadolinium (flèche)](../../img/2017/VrcunRW0rdY-3.jpg) [▶ 9:36](https://www.youtube.com/watch?v=VrcunRW0rdY&t=576s)
 
 ## Points clés
 - **Définition** : cavité à contenu gélatineux incolore ou bleuâtre, paroi fibreuse **sans revêtement synovial vrai**, reliée à l'articulation par un fin pédicule ; à distinguer du **kyste synovial vrai** (kyste poplité), tapissé de synoviale avec communication généralement large.

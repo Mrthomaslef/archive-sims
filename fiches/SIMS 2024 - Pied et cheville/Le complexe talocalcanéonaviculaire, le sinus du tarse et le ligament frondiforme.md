@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, sinus-du-tarse]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Olivier Fantino (Imagerie médicale du Parc, Lyon) et coll."
 video: https://www.youtube.com/watch?v=45AMU1WuhmQ
 duree: 8 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le complexe talocalcanéonaviculaire, le sinus du tarse et le ligament frondiforme
 
-> [!abstract] En une phrase
-> Le complexe talocalcanéonaviculaire, stabilisé par un riche appareil ligamentaire et tendineux, est mal connu ; le ligament frondiforme correspond à la sangle du long extenseur des orteils, le ligament interosseux talocalcanéen peut être abordé en échographie par voie médiale, et l'instabilité subtalaire nécessite toutes les modalités.
+> [!abstract] L'essentiel
+> **Sinus du tarse et coxa pedis : ligament interosseux accessible en écho par voie médiale, frondiforme = sangle du long extenseur des orteils** ; l'instabilité subtalaire exige une imagerie multimodale.
+
+> [!success] À retenir
+> 1. Écho du **ligament interosseux talocalcanéen** par voie médiale : **infiltration de la graisse** (comparative) et ouverture anormale en **valgus dynamique** = pathologique.
+> 2. **Ligament frondiforme** : bande oblique en bas et en arrière du rétinaculum inférieur des extenseurs, **4 racines**, au mieux en **IRM sagittale 3D DP/T2**.
+> 3. Instabilité subtalaire : **CBCT en charge** (incongruence subtalaire antérieure), scanner 4D, **écho dynamique en varus** de la subtalaire postérieure si rupture du calcanéofibulaire.
+
+## Images clés
+![Ligament frondiforme : sangle oblique du long extenseur des orteils (rétinaculum inférieur des extenseurs) en dissection, IRM sagittale et échographie](../../img/2024/45AMU1WuhmQ-1.jpg) [▶ 3:28](https://www.youtube.com/watch?v=45AMU1WuhmQ&t=208s)
+![Ligament interosseux talocalcanéen par voie médiale : graisse du sinus infiltrée du côté pathologique comparée au côté normal](../../img/2024/45AMU1WuhmQ-2.jpg) [▶ 5:31](https://www.youtube.com/watch?v=45AMU1WuhmQ&t=331s)
+![CBCT en charge : incongruence subtalaire antérieure (flèches) démasquée par la mise en charge, argument pour une instabilité subtalaire](../../img/2024/45AMU1WuhmQ-3.jpg) [▶ 6:29](https://www.youtube.com/watch?v=45AMU1WuhmQ&t=389s)
 
 ## Points clés
 - **Anatomie** : compartiment subtalaire postérieur et complexe talocalcanéonaviculaire, séparés par le **sinus du tarse** (grand orifice antérolatéral, petit orifice postéromédial).

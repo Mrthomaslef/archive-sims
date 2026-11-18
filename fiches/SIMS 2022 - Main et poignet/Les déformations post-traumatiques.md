@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, traumatologie-doigt]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (chirurgien de la main)"
+orateur: "Xavier Delpit"
 video: https://www.youtube.com/watch?v=xtiPwIslzpw
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les déformations post-traumatiques
 
-> [!abstract] En une phrase
-> Un chirurgien de la main donne au radiologue les clés d'un examen clinique simple des doigts (interrogatoire, inspection, cascade digitale, axes de rotation, testing tendineux) pour reconnaître d'un coup d'œil les grandes déformations post-traumatiques et corriger une demande mal orientée.
+> [!abstract] L'essentiel
+> **Devant un doigt traumatique, regarder la main avant l'image : cascade digitale, rotation, testing tendineux** ; et réorienter l'imagerie si la demande ne colle pas.
+
+> [!success] À retenir
+> 1. **Trouble rotatoire** : en flexion, les doigts doivent converger vers le **tubercule du scaphoïde** ; une déviation rotatoire = souvent **chirurgie**, à signaler explicitement.
+> 2. Grands classiques : **mallet finger** (P3 tombante réductible), **boutonnière** (chute de P2, P3 en extension), **col de cygne**, **jersey finger** (4e doigt, plus de flexion de l'IPD), **rupture de poulie** (grimpeur, « crac »).
+> 3. **Boxer's knuckle** (coup de poing) : luxation de l'extenseur en flexion → **échographie dynamique** ; plaie punctiforme + doigt inflammatoire = **phlegmon**, urgence chirurgicale.
+
+## Images clés
+![Boutonnière traumatique : chute de P2 avec saillie dorsale de l'IPP et extension de P3 préservée, rupture de la bandelette médiane en IRM (flèches)](../../img/2022/xtiPwIslzpw-1.jpg) [▶ 8:50](https://www.youtube.com/watch?v=xtiPwIslzpw&t=530s)
+![Boxer's knuckle : lésion de la sagittale après coup de poing, l'extenseur se luxe en flexion (échographie axiale de la MCP)](../../img/2022/xtiPwIslzpw-2.jpg) [▶ 10:23](https://www.youtube.com/watch?v=xtiPwIslzpw&t=623s)
 
 ## Points clés
 - Le radiologue doit parfois apporter ou corriger le diagnostic quand l'imagerie demandée n'est pas la bonne.

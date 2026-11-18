@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, pied-de-charcot]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (prénom « Quentin » cité par le modérateur)"
+orateur: "Quentin Monzani (Service de radiologie polyvalente, Hôpital Pitié-Salpêtrière, Paris) et coll."
 video: https://www.youtube.com/watch?v=tbr8QtdE6NY
 duree: 8 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Ostéoarthropathie neurogène du pied diabétique
 
-> [!abstract] En une phrase
-> Le pied de Charcot suit une cascade œdème osseux → fissure → fragmentation → effondrement ; l'IRM permet un diagnostic très précoce, et l'ostéite ne se retient qu'avec une porte d'entrée cutanée, une collection communicante et un hyposignal T1 franc.
+> [!abstract] L'essentiel
+> **Charcot = œdème osseux → fissure → fragmentation → effondrement** ; ostéite seulement si **ulcère + collection communicante + hyposignal T1 franc**.
+
+> [!success] À retenir
+> 1. Pied chaud et gonflé, radios normales : **IRM** → œdème péri-Lisfranc et fissures sous-chondrales = maintenir la **décharge** avant la déformation.
+> 2. **Ghost sign** : contours osseux effacés en T1 (cuboïde, M5) = ostéoarthrite très probable ; **T1 respecté** + hypersignal T2 FS = « **œdème réactionnel non spécifique** ».
+> 3. **Pied en piolet** : cuboïde en appui → ulcère plantaire = porte d'entrée ; zones de **nécrose** non rehaussées = risque de faux négatifs.
+
+## Images clés
+![Pied de Charcot débutant : nécrose sous-chondrale du médiopied (flèches) en T1, T2 FS et T1 gadolinium, premier maillon de la cascade vers l'effondrement](../../img/2024/tbr8QtdE6NY-1.jpg) [▶ 2:05](https://www.youtube.com/watch?v=tbr8QtdE6NY&t=125s)
+![Triade diagnostique de l'ostéoarthrite : ulcère plantaire, collection communicante et anomalies osseuses en T2 FS et T1 gadolinium](../../img/2024/tbr8QtdE6NY-2.jpg) [▶ 5:35](https://www.youtube.com/watch?v=tbr8QtdE6NY&t=335s)
+![Ghost sign : contours osseux effacés en T1 en contraste spontané, fortement suggestif d'une ostéoarthrite sur pied de Charcot](../../img/2024/tbr8QtdE6NY-3.jpg) [▶ 4:57](https://www.youtube.com/watch?v=tbr8QtdE6NY&t=297s)
 
 ## Points clés
 - Association de lésions osseuses et articulaires secondaires à une atteinte du système nerveux central ou périphérique ; en Europe, au pied, essentiellement neuropathie diabétique (« pied de Charcot »).

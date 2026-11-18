@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, anatomie-comparee]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Jean-Marie Le Minor (Faculté de médecine, Université de Strasbourg)"
 video: https://www.youtube.com/watch?v=N6J-Wh6o2_M
 duree: 15 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Interprétation comparée et évolutive des caractéristiques et des variantes du genou
 
-> [!abstract] En une phrase
-> L'anatomie comparée et l'histoire évolutive (tétrapodes, mammifères, primates, bipédie) éclairent la morphologie du genou humain et ses variantes, comme le ménisque discoïde, disposition ancestrale réapparaissant chez certains individus.
+> [!abstract] L'essentiel
+> **Une variante du genou n'est pas une anomalie aléatoire mais un caractère ancestral réexprimé** : l'anatomie comparée explique valgus fémoral, trochlée et ménisque discoïde.
+
+> [!success] À retenir
+> 1. **Bipédie humaine** = obliquité fémorale (**valgus physiologique**), condyles massifs et **berge trochléenne latérale saillante**, absents chez les grands singes.
+> 2. **Ménisque discoïde** = disposition des grands singes (gibbon, gorille, chimpanzé) réapparaissant chez l'homme, liée aux attaches (**Wrisberg**) : décrire ses attaches.
+> 3. **Rétroversion tibiale** marquée chez les grands singes et les **Néandertaliens**, régressant de l'embryon à l'adulte chez l'homme.
+
+## Images clés
+![Fémur des grands singes (diaphyse verticale) vs Homo sapiens : obliquité fémorale, valgus physiologique lié à la bipédie](../../img/2017/N6J-Wh6o2_M-1.jpg) [▶ 9:35](https://www.youtube.com/watch?v=N6J-Wh6o2_M&t=575s)
+![Extrémité distale du fémur en vue inférieure : berge trochléenne latérale saillante chez l'homme, absente chez les grands singes](../../img/2017/N6J-Wh6o2_M-2.jpg) [▶ 10:36](https://www.youtube.com/watch?v=N6J-Wh6o2_M&t=636s)
+![Extrémité proximale du tibia de profil : rétroversion tibiale marquée chez les grands singes, quasi nulle chez Homo sapiens adulte](../../img/2017/N6J-Wh6o2_M-3.jpg) [▶ 11:41](https://www.youtube.com/watch?v=N6J-Wh6o2_M&t=701s)
 
 ## Points clés
 - Communication « récréative » en complément d'un chapitre de l'ouvrage du congrès (remerciements à Michel Cohen et Xavier Demondion).

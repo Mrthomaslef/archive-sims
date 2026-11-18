@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, tractus-iliotibial]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (prénommée Valérie par un autre orateur)"
+orateur: "Valérie Vuillemin (Imagerie Léonard de Vinci, Paris) et coll."
 video: https://www.youtube.com/watch?v=uuTDtk0od9w
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le tractus iliotibial de haut en bas
 
-> [!abstract] En une phrase
-> Le tractus iliotibial, structure tendineuse la plus superficielle de la hanche latérale, a sa propre pathologie (enthésopathie, tendinopathie et déchirure myotendineuse sus-trochantériennes, conflits) à analyser distinctement des tendons glutéaux.
+> [!abstract] L'essentiel
+> **Le tractus iliotibial a sa propre pathologie, à décrire séparément des glutéaux** : enthésopathie, tendinopathie et déchirure sus-trochantérienne, conflits.
+
+> [!success] À retenir
+> 1. **Déchirure myotendineuse sus-trochantérienne** du coureur (2 zones de fragilité : jonction **TFL** et **grand glutéal**) : hématome diffusant en superficie et en profondeur.
+> 2. Pronostic : rechercher la **perte d'accolement** tractus / moyen glutéal → gêne fonctionnelle (escaliers, course impossible) ; une collection type **Morel-Lavallée** impose de vérifier l'intégrité du tractus sous-jacent.
+> 3. **Hypertrophie du TFL** = indice de **rupture du moyen/petit glutéal** (ne pas la prendre pour une tumeur) ; adolescent **< 15 ans** : **apophysite** du tubercule glutéal (œdème du noyau).
+
+## Images clés
+![Déchirure corporéale du tractus iliotibial : rupture en plein corps, déchirure myo-aponévrotique et hématome diffusant en superficie et en profondeur](../../img/2019/uuTDtk0od9w-1.jpg) [▶ 7:33](https://www.youtube.com/watch?v=uuTDtk0od9w&t=453s)
+![Évolution défavorable : perte de l'accolement entre fibres du moyen glutéal et tractus iliotibial (flèche), responsable d'une gêne fonctionnelle](../../img/2019/uuTDtk0od9w-2.jpg) [▶ 8:48](https://www.youtube.com/watch?v=uuTDtk0od9w&t=528s)
+![Diagnostic différentiel : décollement de Morel-Lavallée, collection entre hypoderme et plan aponévrotique, tractus iliotibial intact](../../img/2019/uuTDtk0od9w-3.jpg) [▶ 8:01](https://www.youtube.com/watch?v=uuTDtk0od9w&t=481s)
 
 ## Points clés
 - **Anatomie** : épaississement latéral du fascia lata (« bandelette de Maissiat »), de la crête iliaque (tubercule glutéal) au tubercule de Gerdy, avec expansions vers fémur distal, patella et capsule. Origine proximale en couches superficielle et intermédiaire (autour du TFL) et profonde (sourcil cotyloïdien, près du tendon réfléchi du droit fémoral). Reçoit le TFL en avant et le faisceau superficiel du grand glutéal en arrière (« deltoïde fessier de Farabeuf »).

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, instabilité, équilibre-sagittal]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Antoine Ponsot (Clinique du Parc, Lyon)"
 video: https://www.youtube.com/watch?v=qHL0QGsFvDU
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Analyse du positionnement des pièces prothétiques et complications
 
-> [!abstract] En une phrase
-> La « zone de sécurité » de Lewinnek est remise en cause : le positionnement de la cupule doit s'analyser de façon dynamique (debout/assis, EOS) en intégrant la mobilité spinopelvienne et l'index sagittal combiné.
+> [!abstract] L'essentiel
+> **Une cupule « dans la zone de Lewinnek » peut luxer** : l'analyse doit être dynamique (EOS debout/assis) et intégrer la mobilité spinopelvienne.
+
+> [!success] À retenir
+> 1. **60 %** des PTH instables sont dans la zone de sécurité (inclinaison **30–50°**, antéversion **5–25°**) : des angles normaux n'excluent pas un malpositionnement fonctionnel.
+> 2. **Rigidité spinopelvienne** si Δ pente sacrée debout-assis **< 10°** (normale ≈ 20°) ; arthrodèse lombosacrée = facteur de risque.
+> 3. **CSI** (antéinclinaison + angle pelvifémoral) : **> 243° debout** → instabilité antérieure ; **< 151° assis** → conflit antérieur et instabilité postérieure.
+
+## Images clés
+![Rétroversion pelvienne fixée sur EOS debout/assis (Δ pente sacrée 10,6°) : cupule à 32°/29° mais CSI assis 133,9° < 151° → conflit antérieur et instabilité postérieure](../../img/2019/qHL0QGsFvDU-1.jpg) [▶ 6:19](https://www.youtube.com/watch?v=qHL0QGsFvDU&t=379s)
+![Antéversion pelvienne fixée après arthrodèse lombosacrée (Δ pente sacrée 1°) : CSI assis 134° → conflit antérieur et instabilité postérieure](../../img/2019/qHL0QGsFvDU-2.jpg) [▶ 7:09](https://www.youtube.com/watch?v=qHL0QGsFvDU&t=429s)
+![Conflit postérieur en orthostatisme par défaut de positionnement ou bassin rétroversé → instabilité antérieure (Marchetti 2011)](../../img/2019/qHL0QGsFvDU-3.jpg) [▶ 3:32](https://www.youtube.com/watch?v=qHL0QGsFvDU&t=212s)
 
 ## Points clés
 - Longévité des PTH ≈ 20 ans ; le positionnement prothétique prévient conflit, usure et instabilité. L'exposé se limite à la **cupule**.

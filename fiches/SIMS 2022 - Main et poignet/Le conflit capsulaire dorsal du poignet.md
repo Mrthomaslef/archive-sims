@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, conflit-capsulaire-dorsal]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Jérôme Renoux (INSEP, Paris)"
 video: https://www.youtube.com/watch?v=oI4aREbAvNg
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit capsulaire dorsal du poignet
 
-> [!abstract] En une phrase
-> Entité surtout clinique et chirurgicale, le conflit capsulaire dorsal (douleur dorso-radiale en hyperextension, gymnastes et haltérophiles) se traduit en IRM par un épaississement en hypersignal T2 de la capsule dorsale au niveau du ligament scapho-triquétral dorsal, après élimination de nombreux diagnostics différentiels.
+> [!abstract] L'essentiel
+> **Sportif en hyperextension avec douleur dorso-radiale et IRM « normale » : regarder la sangle capsulaire dorsale** (ligament scapho-triquétral dorsal épaissi, hypersignal T2).
+
+> [!success] À retenir
+> 1. Signe IRM : **épaississement** du ligament scapho-triquétral dorsal (≈ **95 %**) ± **hypersignal T2** (> **50 %**), mesuré en sagittal sur le scaphoïde.
+> 2. Évoquer devant gymnaste/haltérophile + **épanchement radio-carpien isolé** ; cause associée fréquente (**62 %**), dont kyste scapho-lunaire (**35 %**).
+> 3. Toujours chercher une **instabilité scapho-lunaire** (subluxation dorsale du scaphoïde) responsable d'un conflit **secondaire**.
+
+## Images clés
+![Conflit capsulaire dorsal en IRM : épaississement en hypersignal de la sangle capsulaire dorsale (flèches) chez un sportif avec épanchement radio-carpien isolé](../../img/2022/oI4aREbAvNg-1.jpg) [▶ 9:46](https://www.youtube.com/watch?v=oI4aREbAvNg&t=586s)
+![Conflit capsulaire dorsal secondaire à l'instabilité rotatoire du scaphoïde : rupture scapho-lunaire, ascension du capitatum et subluxation dorsale du scaphoïde](../../img/2022/oI4aREbAvNg-2.jpg) [▶ 4:11](https://www.youtube.com/watch?v=oI4aREbAvNg&t=251s)
 
 ## Points clés
 - Clinique : douleur dorsale et radiale juste sous le tubercule de Lister, majorée par l'extension passive (pas contrariée), douleur à la palpation.

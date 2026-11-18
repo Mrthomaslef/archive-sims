@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, biomecanique-femoropatellaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Marc Raguet (Polyclinique Priollet-Courlancy, Châlons-en-Champagne)"
 video: https://www.youtube.com/watch?v=7Lh6ahhKsow
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Biomécanique de la fémoropatellaire et de l'appareil extenseur
 
-> [!abstract] En une phrase
-> La patella est une poulie de réflexion dont la trochlée est le rail : l'engagement se joue entre 0 et 20° de flexion, et les contraintes fémoropatellaires, considérables et concentrées sur une petite surface, expliquent la douleur à la descente des escaliers.
+> [!abstract] L'essentiel
+> **La patella s'engage dans la trochlée entre 0 et 20° de flexion : c'est en extension que l'appareil extenseur est le plus instable** : force subluxante latérale, plaquage faible.
+
+> [!success] À retenir
+> 1. Hauteur patellaire : **Caton-Deschamps** (normale **0,6–1,2**), préféré à Insall-Salvati / Blackburne-Peel (dépendants de la pointe patellaire et de la pente tibiale).
+> 2. **TA-GT** normale **10–12 mm** pour l'orateur (seuil historique de 20 mm trop élevé) ; peu fiable sur trochlée plate.
+> 3. Contraintes FP énormes sur **≈ 4 cm²** : 20 kg au pied → **400 kg à 45°**, **900 kg à 90°** ; descente d'escalier ≈ **2,9 × poids du corps** → douleur antérieure typique.
+
+## Images clés
+![Profils de genou à 0°, 20° et 60° : la patella, haute en extension, s'engage dans la trochlée vers 20° de flexion](../../img/2017/7Lh6ahhKsow-1.jpg) [▶ 0:23](https://www.youtube.com/watch?v=7Lh6ahhKsow&t=23s)
+![Genou de face en extension : angle Q (167-172°) générant une force subluxante latérale, contrée par le vaste médial oblique](../../img/2017/7Lh6ahhKsow-2.jpg) [▶ 3:35](https://www.youtube.com/watch?v=7Lh6ahhKsow&t=215s)
+![À 60° de flexion, la force de plaquage atteint 75 à 80 % de la force du quadriceps, patella alignée sur la tubérosité tibiale](../../img/2017/7Lh6ahhKsow-3.jpg) [▶ 6:36](https://www.youtube.com/watch?v=7Lh6ahhKsow&t=396s)
 
 ## Points clés
 - **Zones de contact** : début de flexion = tiers inférieur de la patella ; 30-60° = tiers moyen ; au-delà = tiers supérieur ; après 90°, contact par les facettes latérales dans l'échancrure.

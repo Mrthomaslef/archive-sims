@@ -54,6 +54,27 @@ main{max-width:860px;margin:0 auto;padding:14px 14px calc(env(safe-area-inset-bo
   border-radius:var(--radius);padding:13px 14px;margin-bottom:10px;color:inherit;text-decoration:none;position:relative}
 .card h3{margin:0 28px 4px 0;font-size:16px;line-height:1.35}
 .card p{margin:0;color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card.has-img{display:grid;grid-template-columns:1fr 104px;gap:12px;align-items:start}
+.card .th{width:104px;height:70px;object-fit:cover;border-radius:8px;background:var(--chip);grid-column:2;grid-row:1/span 2}
+.card .cb{min-width:0}
+.card.has-img .star{right:118px}
+.by b{color:var(--ink)}
+.gal{display:grid;grid-template-columns:1fr;gap:12px;margin:12px 0}
+@media (min-width:640px){.gal{grid-template-columns:1fr 1fr}}
+.gal figure{margin:0;background:var(--bg);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.gal img{display:block;width:100%;height:auto;cursor:zoom-in;background:#000}
+.gal figcaption{padding:8px 10px;font-size:14px;line-height:1.4}
+.gal figcaption a{white-space:nowrap;font-size:13px;margin-left:4px}
+.callout.success{background:var(--tip-bg);border-color:var(--tip)}.callout.success .ct{color:var(--tip)}
+.callout.success ol,.callout.success ul{margin:4px 0}
+.callout.abstract p{font-size:16px;font-weight:600;line-height:1.45}
+#lb{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.94);display:none;overflow:auto;touch-action:pan-x pan-y pinch-zoom;
+  padding:env(safe-area-inset-top) 0 calc(env(safe-area-inset-bottom) + 16px)}
+#lb.on{display:flex;flex-direction:column;align-items:center;justify-content:center}
+#lb img{max-width:100%;max-height:82vh;object-fit:contain;transition:none}
+#lb.zoom{display:block}#lb.zoom img{max-width:none;max-height:none;width:200%}
+#lb p{color:#eee;font-size:14px;padding:10px 16px;margin:0;text-align:center}
+#lb button{position:fixed;top:calc(env(safe-area-inset-top) + 10px);right:12px;width:40px;height:40px;border-radius:50%;border:0;background:rgba(255,255,255,.18);color:#fff;font-size:20px;cursor:pointer}
 .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .tag{background:var(--chip);border-radius:6px;padding:2px 8px;font-size:12px;color:var(--muted)}
 .star{position:absolute;right:10px;top:10px;font-size:16px;opacity:.9}
@@ -111,7 +132,8 @@ mark{background:#fde68a;color:inherit;border-radius:3px;padding:0 1px}
   <div class="chips" id="chips"></div>
 </header>
 <main id="main"></main>
-<script src="app/embedded_data.js?v=2"></script>
+<div id="lb" role="dialog" aria-label="Image"><button aria-label="Fermer">✕</button><img alt=""><p></p></div>
+<script src="app/embedded_data.js?v=3"></script>
 <script>
 (() => {
 const D = window.SIMS_DATA;
@@ -147,10 +169,11 @@ function renderList(){
   const rawTerms = st.q.split(/\s+/).filter(Boolean);
   list.forEach(f => {
     if(f.annee!==cur){ cur=f.annee; const n=list.filter(x=>x.annee===cur).length; html+=`<div class="year-h"><b style="color:${COLORS[cur]}">SIMS ${cur}</b><span>${esc(f.theme)} · ${n}</span></div>`; }
-    html += `<a class="card" style="--yc:${COLORS[f.annee]}" href="#/f/${f.id}">
+    html += `<a class="card${f.thumb?' has-img':''}" style="--yc:${COLORS[f.annee]}" href="#/f/${f.id}">
       ${favs.has(f.id)?'<span class="star">★</span>':''}
-      <h3>${hl(f.titre,rawTerms)}</h3><p>${hl(f.resume,rawTerms)}</p>
-      <div class="meta">${f.duree?`<span class="tag">▶ ${esc(f.duree)}</span>`:''}${f.tags.slice(1,3).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></a>`;
+      <div class="cb"><h3>${hl(f.titre,rawTerms)}</h3><p>${hl(f.resume,rawTerms)}</p>
+      <div class="meta">${f.orateur&&!/^non précisé/.test(f.orateur)?`<span class="tag">🎤 ${esc(f.orateur.split(/[(,;]/)[0].trim())}</span>`:''}${f.duree?`<span class="tag">▶ ${esc(f.duree)}</span>`:''}${f.tags.slice(1,2).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div>
+      ${f.thumb?`<img class="th" src="${esc(f.thumb)}" alt="" loading="lazy">`:''}</a>`;
   });
   $('#main').innerHTML = html;
 }
@@ -163,13 +186,23 @@ function inline(s, annee){
   s = s.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*)\*/g,'$1<em>$2</em>').replace(/`([^`]+)`/g,'<code>$1</code>');
   return s;
 }
-const CT = {abstract:'En une phrase',warning:'À ne pas manquer',tip:'Astuce',note:'Note',important:'Important',info:'Info'};
+const CT = {abstract:'L’essentiel',success:'À retenir',warning:'À ne pas manquer',tip:'Astuce',note:'Note',important:'Important',info:'Info'};
 function md(src, annee){
   const L = src.split('\n'); let out='', i=0;
   while(i<L.length){
     let l=L[i];
     if(!l.trim()){i++;continue;}
     let m;
+    if(/^!\[/.test(l)){
+      let g='<div class="gal">';
+      while(i<L.length && /^!\[/.test(L[i])){
+        const im=L[i].match(/^!\[([^\]]*)\]\(([^)\s]+)\)\s*(.*)$/); i++;
+        if(!im) continue;
+        const src=im[2].replace(/^(\.\.\/)+/,'');
+        g+=`<figure><img src="${esc(src)}" alt="${esc(im[1])}" loading="lazy" data-cap="${esc(im[1])}"><figcaption>${inline(im[1],annee)} ${inline(im[3],annee)}</figcaption></figure>`;
+      }
+      out+=g+'</div>'; continue;
+    }
     if((m=l.match(/^(#{2,4})\s+(.*)/))){ const n=Math.min(m[1].length,3); out+=`<h${n}>${inline(m[2],annee)}</h${n}>`; i++; continue; }
     if(l.startsWith('>')){
       const block=[]; while(i<L.length && L[i].startsWith('>')){ block.push(L[i].replace(/^>\s?/,'')); i++; }
@@ -210,7 +243,7 @@ function renderFiche(id){
     <article style="--yc:${COLORS[f.annee]}">
       <span class="yr">SIMS ${f.annee} · ${esc(f.theme)}</span>
       <h2 class="t">${esc(f.titre)}</h2>
-      <div class="by">${f.orateur?`🎤 ${esc(f.orateur)}`:''}${f.duree?` · ⏱ ${esc(f.duree)}`:''}</div>
+      <div class="by">${f.orateur?`🎤 <b>${esc(f.orateur)}</b>`:''}${f.duree?` · ⏱ ${esc(f.duree)}`:''}</div>
       <div class="actions">
         ${vids.map((v,n)=>`<a class="btn" href="${esc(v)}" target="_blank" rel="noopener">▶ Vidéo${vids.length>1?' '+(n+1):''}</a>`).join('')}
         <button class="btn alt" id="favT">${favs.has(f.id)?'★ Favori':'☆ Favori'}</button>
@@ -225,10 +258,20 @@ function renderFiche(id){
       ${next?`<a href="#/f/${next.id}" style="text-align:right"><small>Suivante →</small><span>${esc(next.titre)}</span></a>`:'<span style="flex:1"></span>'}
     </div>`;
   window.scrollTo(0,0);
+  document.querySelectorAll('.gal img').forEach(im=>im.onclick=()=>openLb(im.src,im.dataset.cap));
   $('#backBtn').onclick=e=>{e.preventDefault(); history.length>1?history.back():(location.hash='');};
   $('#favT').onclick=()=>{ favs.has(f.id)?favs.delete(f.id):favs.add(f.id); localStorage.setItem('sims_favs',JSON.stringify([...favs])); navigator.vibrate&&navigator.vibrate(10); renderFiche(id); };
   $('#shareT').onclick=async()=>{ const url=location.href; try{ if(navigator.share) await navigator.share({title:f.titre,url}); else { await navigator.clipboard.writeText(url); $('#shareT').textContent='✓ Lien copié'; } }catch(e){} };
 }
+
+// Visionneuse plein écran : double-tap / clic pour zoomer, pincement natif
+const lb=$('#lb');
+function openLb(src,cap){ lb.querySelector('img').src=src; lb.querySelector('p').textContent=cap||''; lb.classList.remove('zoom'); lb.classList.add('on'); document.body.style.overflow='hidden'; }
+function closeLb(){ lb.classList.remove('on','zoom'); document.body.style.overflow=''; }
+lb.querySelector('button').onclick=closeLb;
+lb.querySelector('img').onclick=e=>{ e.stopPropagation(); lb.classList.toggle('zoom'); };
+lb.onclick=e=>{ if(e.target===lb||e.target.tagName==='P') closeLb(); };
+addEventListener('keydown',e=>{ if(e.key==='Escape') closeLb(); });
 
 let lastScroll=0;
 function route(){
@@ -243,7 +286,7 @@ route();
 // Pull-to-refresh (tactile + souris)
 const ptr=$('#ptr'); let y0=null, dy=0;
 const setP=d=>{ ptr.style.opacity=Math.min(d/80,1); ptr.style.transform=`translateY(${Math.min(d,110)-50}px) rotate(${d*3}deg)`; };
-const start=y=>{ if(window.scrollY<=0) { y0=y; dy=0; } };
+const start=y=>{ if(window.scrollY<=0 && !lb.classList.contains('on')) { y0=y; dy=0; } };
 const move=y=>{ if(y0===null) return; dy=y-y0; if(dy>0) setP(dy); };
 const end=()=>{ if(y0===null) return; if(dy>80){ ptr.classList.add('spin'); ptr.style.transform='translateY(40px)'; navigator.vibrate&&navigator.vibrate(15); setTimeout(()=>location.reload(),300); } else { ptr.style.opacity=0; ptr.style.transform='translateY(-50px)'; } y0=null; };
 addEventListener('touchstart',e=>start(e.touches[0].clientY),{passive:true});

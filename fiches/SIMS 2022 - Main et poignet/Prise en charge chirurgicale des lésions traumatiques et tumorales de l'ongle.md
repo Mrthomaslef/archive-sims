@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ongle-chirurgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (chirurgien de la main)"
+orateur: "Arielle Salon"
 video: https://www.youtube.com/watch?v=oCCp4Qqr2xg
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prise en charge chirurgicale des lésions traumatiques et tumorales de l'ongle
 
-> [!abstract] En une phrase
-> Les structures de l'ongle étant irremplaçables, l'IRM millimétrique sert de cartographie au chirurgien : abord moins invasif des kystes mucoïdes, voie adaptée aux tumeurs glomiques et kystes récidivants, et traitement conservateur de certains carcinomes épidermoïdes.
+> [!abstract] L'essentiel
+> **L'IRM millimétrique est la cartographie du chirurgien de l'ongle** : elle choisit la voie qui épargne la matrice et peut permettre un traitement conservateur en RCP.
+
+> [!success] À retenir
+> 1. **Kyste mucoïde** : montrer le **pédicule vers l'IPD** et l'ostéophyte → section du pédicule par voie dorso-latérale, sans exérèse sous-matricielle.
+> 2. **Tumeur glomique / kyste épidermoïde** récidivants : préciser la position par rapport à **matrice, lit et logette osseuse** ; tout point dans la matrice = dystrophie définitive.
+> 3. **Carcinome épidermoïde** : l'IRM (atteinte osseuse, marges) oriente vers une **résection monobloc conservatrice** plutôt que l'amputation ; mélanome : IRM peu utile au diagnostic.
+
+## Images clés
+![Kyste mucoïde du pouce en IRM sagittale : formation liquidienne lobulée en hypersignal en regard de l'IPD, cartographie du pédicule avant abord dorso-latéral](../../img/2022/oCCp4Qqr2xg-1.jpg) [▶ 4:07](https://www.youtube.com/watch?v=oCCp4Qqr2xg&t=247s)
+![Tumeur glomique sous-unguéale récidivante : nodule rehaussé après gadolinium au contact de la phalange distale, repéré en IRM pour planifier l'abord](../../img/2022/oCCp4Qqr2xg-2.jpg) [▶ 6:09](https://www.youtube.com/watch?v=oCCp4Qqr2xg&t=369s)
+![Carcinome épidermoïde de l'appareil unguéal : IRM axiale montrant l'extension sous-unguéale et le rapport avec la phalange, décisive pour un traitement conservateur](../../img/2022/oCCp4Qqr2xg-3.jpg) [▶ 8:49](https://www.youtube.com/watch?v=oCCp4Qqr2xg&t=529s)
 
 ## Points clés
 - Un bel ongle nécessite une matrice parfaite, une tablette adhérant à un lit parfait, une longueur et largeur suffisantes et un support osseux normal.

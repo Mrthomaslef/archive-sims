@@ -12,14 +12,24 @@ source: transcription automatique YouTube (à relire si un point semble douteux 
 
 # Imagerie postopératoire des ménisques
 
-> [!abstract] En une phrase
-> L'IRM conventionnelle bien pondérée est l'examen de première intention après méniscectomie ou suture ; l'arthroscanner ou l'arthro-IRM directe sont réservés aux doutes persistants sur la zone opérée.
+> [!abstract] L'essentiel
+> **Ménisque opéré : seuls 2 signes affirment la re-rupture, fragment déplacé ou hypersignal liquidien de grade 3 > 1/3 de la surface** : sinon, cicatrice.
+
+> [!success] À retenir
+> 1. Après méniscectomie partielle, un **faux aspect de grade 3** (cicatrice communiquant avec la surface) est la règle : ne pas conclure à une récidive.
+> 2. Après suture : grade 3 transfixiant chez **39,5 % en DP FS** mais **5,3 % en T2 TE 85 ms** → ajouter un **T2 à TE long** ; extinction du signal = cicatrisation (**Se et Sp ≈ 80 %**).
+> 3. Chercher systématiquement : **languette luxée** (récessus méniscotibial), **fracture sous-chondrale** « ostéonécrose » post-méniscectomie, **chondrolyse rapide** ; si doute ou résection **> 25 %** → **arthro-IRM directe** (précision 87 % contre 65 % en IRM).
+
+## Images clés
+![Redéchirure de la corne postérieure du ménisque médial après suture : languette luxée dans le récessus méniscotibial (flèches)](../../img/2017/xQluDjEpZL0-1.jpg) [▶ 5:07](https://www.youtube.com/watch?v=xQluDjEpZL0&t=307s)
+![Méniscectomie partielle : faux aspect de grade 3 postopératoire (cicatrice) en DP FS, qui s'atténue en T2 FS](../../img/2017/xQluDjEpZL0-2.jpg) [▶ 9:24](https://www.youtube.com/watch?v=xQluDjEpZL0&t=564s)
+![Récidive sur le site opéré : fragment déplacé ou hypersignal liquidien > 1/3 de la surface ; précision de l'IRM effondrée si résection > 25 %](../../img/2017/xQluDjEpZL0-3.jpg) [▶ 5:42](https://www.youtube.com/watch?v=xQluDjEpZL0&t=342s)
 
 ## Points clés
 - Imagerie postopératoire en règle **pas avant 6 mois** (temps de cicatrisation méniscale), sauf symptôme nouveau (blocage, douleur aiguë) qui impose des radiographies.
 - La littérature recommande souvent une injection intra-articulaire d'emblée (suture méniscale, ou méniscectomie de plus de 25 %), mais en pratique le compte rendu opératoire est rarement disponible : l'orateur propose une **IRM conventionnelle d'abord**, l'arthrographie seulement en cas de non-contribution.
 - L'IRM conventionnelle détecte de nombreuses complications sans arthrographie : chondrolyse rapide (comparer à l'imagerie préopératoire), fractures par insuffisance et évolution vers l'ostéonécrose, algodystrophie, kyste paraméniscal, granulome à corps étranger, migration de matériel, lésion neurovasculaire, piégeage du tendon poplité ou d'un faisceau du LCM, fragment méniscal déplacé (récessus méniscotibial), nouvelle fissure à distance ou sur le ménisque controlatéral.
-- Signes de re-rupture sur la zone opérée : fragment déplacé, ou persistance d'un hypersignal linéaire de **grade 3 d'intensité liquidienne** sur une surface étendue.
+- Signes de re-rupture sur la zone opérée : fragment déplacé, ou persistance d'un hypersignal linéaire de **grade 3 d'intensité liquidienne** sur plus d'un tiers de la surface méniscale (diapo). Précision de l'IRM standard 89 % si résection < 25 %, mais 65 % si résection > 25 % (87 % en arthro-IRM ; Applegate, AJR 1993).
 - Aucun seuil d'étendue fiable : rester **descriptif** plutôt que conclure à une cicatrisation « satisfaisante » ou non.
 - Arthroscanner après suture : quantifier l'opacification de la zone suturée en proportion de la hauteur méniscale (cicatrisation partielle ou d'environ 50 %).
 - L'apport de l'injection intra-articulaire est plus net à 1,5 T qu'à 3 T.

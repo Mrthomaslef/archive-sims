@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, droit-fémoral, échographie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Antoine Moraux (Imagerie Jacquemars Giélée, Lille) et coll."
 video: https://www.youtube.com/watch?v=kx6bhXSyZEQ
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie du tendon droit fémoral proximal
 
-> [!abstract] En une phrase
-> Le couple radiographie-échographie explore la quasi-totalité de la pathologie du droit fémoral proximal, à condition d'aller chercher le tendon indirect par voie antérolatérale/latérale et de penser à ses liens étroits avec l'articulation coxofémorale.
+> [!abstract] L'essentiel
+> **Radiographie + échographie explorent presque toute la pathologie du droit fémoral proximal, à condition d'aller chercher le tendon indirect par voie latérale** : direct = douleur antérieure, indirect = douleur antérolatérale.
+
+> [!success] À retenir
+> 1. Tendon **indirect** : balayage axial oblique sur le versant latéral de l'EIAI, sonde inclinée **≈ 30°**, appui sur le talon de sonde (sinon **anisotropie** simulant une tendinopathie).
+> 2. Douleur antérolatérale chronique du footballeur étiquetée « psoas » → chercher une **rupture chronique de l'indirect**, souvent **ossifiée** dès la radiographie.
+> 3. Enfant : **avulsion non ossifiée de l'EIAI = Rx normale, écho comparative +++** ; penser aussi à la coxarthrose (kyste arthrosynovial, bursite) devant une tendinopathie de l'indirect.
+
+## Images clés
+![Technique d'exploration du tendon indirect : balayage axial oblique sur le versant latéral de l'EIAI, sonde inclinée à 30° (flèches sur le tendon)](../../img/2019/kx6bhXSyZEQ-1.jpg) [▶ 2:03](https://www.youtube.com/watch?v=kx6bhXSyZEQ&t=123s)
+![Rupture chronique du tendon indirect avec ossification post-traumatique étendue vers le tendon conjoint (flèches)](../../img/2019/kx6bhXSyZEQ-2.jpg) [▶ 4:18](https://www.youtube.com/watch?v=kx6bhXSyZEQ&t=258s)
+![Enfant : avulsion non déplacée et non ossifiée de l'EIAI, invisible en radiographie, visible en échographie comparative (flèches)](../../img/2019/kx6bhXSyZEQ-3.jpg) [▶ 4:57](https://www.youtube.com/watch?v=kx6bhXSyZEQ&t=297s)
 
 ## Points clés
 - **Droit fémoral** : chef le plus superficiel et seul biarticulaire du quadriceps (fléchisseur de hanche, extenseur du genou) → exposé aux contractions excentriques (sprint, frappe de balle) ; chef du quadriceps le plus souvent lésé.

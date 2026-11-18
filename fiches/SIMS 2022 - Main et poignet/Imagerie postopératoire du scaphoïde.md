@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, scaphoide-postoperatoire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Marie Faruch-Bilfeld"
 video: https://www.youtube.com/watch?v=ESimvLy420s
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie postopératoire du scaphoïde
 
-> [!abstract] En une phrase
-> Après ostéosynthèse d'une fracture fraîche, la radiographie suffit le plus souvent ; après traitement d'une pseudarthrose, le scanner (avec réduction des artefacts métalliques) est indispensable pour juger le pontage osseux, l'intégration du greffon et la déformation.
+> [!abstract] L'essentiel
+> **Fracture fraîche vissée : la radiographie suffit ; pseudarthrose greffée : scanner obligatoire (réduction d'artefacts) pour affirmer le pont osseux et mesurer la déformation.**
+
+> [!success] À retenir
+> 1. **Consolidation = ≥ 50 % de pont osseux** trabéculaire ; **pseudarthrose = absence de consolidation à 6 mois** (condensation, kystisation des berges).
+> 2. Vis **centrée, sans débord articulaire** (< 2 mm toléré) ; **instabilité rotatoire induite** si l'angle scapho-lunaire varie de **> 3°** ; condensation du pôle proximal après **6 semaines** → ostéonécrose.
+> 3. Cal vicieux en *humpback* : angle intrascaphoïdien élevé (> 45° sur le schéma présenté), **rapport H/L > 0,6**, **angle dorsal < 130°** ; DISI si radio-scaphoïdien **> 60°** et radio-lunaire **> 15°**.
+
+## Images clés
+![Pseudarthrose traitée par greffe vascularisée et broches : suivi radiographique de M+1 à M+6 puis scanner avec réduction d'artefacts (MARS, 100 keV) pour juger le pontage](../../img/2022/ESimvLy420s-1.jpg) [▶ 5:50](https://www.youtube.com/watch?v=ESimvLy420s&t=350s)
+![Cal vicieux du scaphoïde en « dos de baleine » : bascule ventrale du fragment distal, mesurée par l'angle intrascaphoïdien latéral (LISA)](../../img/2022/ESimvLy420s-2.jpg) [▶ 6:50](https://www.youtube.com/watch?v=ESimvLy420s&t=410s)
+![Critères standardisés d'évaluation postopératoire du scaphoïde : consolidation, position de la vis, greffon, pseudarthrose, cal vicieux, ostéonécrose, instabilités](../../img/2022/ESimvLy420s-3.jpg) [▶ 8:26](https://www.youtube.com/watch?v=ESimvLy420s&t=506s)
 
 ## Points clés
 - Indications opératoires élargies (techniques percutanées et arthroscopiques) ; objectif du suivi : dépister une évolution défavorable avant l'arthrose radio-carpienne.

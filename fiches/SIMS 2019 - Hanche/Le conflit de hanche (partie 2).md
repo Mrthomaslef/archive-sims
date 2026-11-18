@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, conflit-femoro-acetabulaire, chirurgie, arthroscopie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Nicolas Bonin (Lyon-Ortho-Clinic, Lyon) et coll."
 video: https://www.youtube.com/watch?v=jcXT0xZdxnE
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,13 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit de hanche (partie 2)
 
-> [!abstract] En une phrase
-> Volet chirurgical : le conflit symptomatique, confirmé par l'imagerie et résistant au traitement médical, se traite aujourd'hui par arthroscopie (réparation labrale, ostéoplastie fémorale, résection de la pince). Elle s'est montrée supérieure à la rééducation, à condition d'opérer avant une arthrose avancée.
+> [!abstract] L'essentiel
+> **Conflit symptomatique + imagerie concordante + échec du traitement médical → arthroscopie, mais seulement avant l'arthrose** : réparation labrale, ostéoplastie de la came, résection de la pince.
+
+> [!success] À retenir
+> 1. Chirurgie conservatrice possible si **Tönnis < 2** et **interligne > 2 mm** : à chiffrer dans le CR.
+> 2. Morphotype de came ou de pince **asymptomatique ≠ indication** ; distinguer conflit et **dysplasie (VCE)**, parfois associés.
+> 3. Arthroscopie **supérieure à la rééducation** (essai randomisé, 348 patients) ; labrum **réparé dans ≈ 80 %** des cas pour restaurer l'effet joint.
 
 ## Points clés
 - Indication : association de signes cliniques **et** radiologiques. L'imagerie seule (morphotype asymptomatique) ou la clinique seule ne suffisent pas.

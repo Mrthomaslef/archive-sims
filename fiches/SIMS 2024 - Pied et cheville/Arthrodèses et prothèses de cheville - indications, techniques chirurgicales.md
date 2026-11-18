@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, arthrodese-prothese-cheville]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (chirurgien orthopédiste ; créateur du registre national des prothèses de cheville de l'AFCP ; probablement le « Jean-Luc » cité par l'orateur suivant)"
+orateur: "Jean-Luc Besse (Centre Hospitalier Lyon-Sud, Hospices Civils de Lyon) et coll."
 video: https://www.youtube.com/watch?v=Koj61vlf9v0
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Arthrodèses et prothèses de cheville - indications, techniques chirurgicales
 
-> [!abstract] En une phrase
-> Arthrodèse et prothèse restent deux options pour l'arthrose évoluée de cheville, chirurgie de niche dont le résultat dépend avant tout du positionnement, des gestes associés et de l'expérience du chirurgien.
+> [!abstract] L'essentiel
+> **Arthrodèse ou prothèse de cheville : le choix dépend des déformations, de la perte de substance et des articulations voisines** ; c'est ce que le CR doit décrire.
+
+> [!success] À retenir
+> 1. Arthrodèse : **in situ** (cheville axée, arthroscopie), **de réaxation** (tilt, déformation) ou **de reconstruction** (perte de substance) ; position cible **pied à 90°**, **léger valgus** (équin et varus très mal tolérés).
+> 2. Prothèse : classer l'arthrose (**COFAS 1 à 4**), gestes associés dans **> 50 %** ; planification sur **scanner en charge jusqu'au genou** ; CI absolues : **infection**, **neuro-arthropathie**.
+> 3. Complication n°1 : **fracture de la malléole médiale** (**5,5 %** au registre français), per-op ou de fatigue si varus ; survie à 10 ans **75-85 %**.
+
+## Images clés
+![Arthrodèse de réaxation : correction d'une déformation post-fracturaire avec tilt, fixée par plaque antérieure](../../img/2024/Koj61vlf9v0-1.jpg) [▶ 3:13](https://www.youtube.com/watch?v=Koj61vlf9v0&t=193s)
+![Fracture de la malléole médiale, première complication des prothèses de cheville (5,5 % au registre) : vissage préventif ou ostéosynthèse](../../img/2024/Koj61vlf9v0-2.jpg) [▶ 10:28](https://www.youtube.com/watch?v=Koj61vlf9v0&t=628s)
 
 ## Points clés
 - Distinguer, dans l'arthrose « post-traumatique », les formes **post-fracturaires** et celles **sur instabilité** (de plus en plus fréquentes, présentation différente).
@@ -29,7 +38,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **Facteurs pronostiques** : âge (> 50 ans meilleur), surtout **expérience du chirurgien** (> 10, voire > 20 poses/an recommandées).
 - **Classification COFAS** : type 1 arthrose isolée ; 2 varus/valgus avec tilt intra-articulaire ; 3 déformations sus- ou sous-jacentes ; 4 arthroses multiples (cheville, arrière-pied, médiopied).
 - Voie antérieure (antéromédiale ± latérale) ; mini-abord postéromédial pour protéger le pédicule tibial postérieur. Guides de coupe sur mesure planifiés sur **scanner en charge** remontant au genou. Gestes associés dans **plus de la moitié** des cas.
-- Complication peropératoire n°1 : **fracture de la malléole médiale** (6 à 8 %) ; vissage préventif si ostéoporose. Cimenter en l'absence de stabilité primaire.
+- Complication peropératoire n°1 : **fracture de la malléole médiale** (6 à 8 % selon l'orateur, 5,5 % dans le registre français des PTC), peropératoire ou secondaire (fracture de fatigue si varus) ; vissage préventif si ostéoporose. Cimenter en l'absence de stabilité primaire.
 
 ## Sémiologie et technique d'imagerie
 - Bilan de planification : scanner/CBCT en charge incluant le genou pour les guides sur mesure.

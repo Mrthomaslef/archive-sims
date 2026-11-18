@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, tibial-posterieur]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "David Petrover (IMPC Bachaumont, Clinique Drouot, Paris)"
 video: https://www.youtube.com/watch?v=7fcWfl1Hxsk
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le tibial postérieur
 
-> [!abstract] En une phrase
-> La dysfonction du tibial postérieur est un continuum fréquent (ténosynovite → épaississement → amincissement → rupture) aboutissant au pied plat valgus acquis : tout tendon pathologique impose un bilan radiographique bilatéral en charge.
+> [!abstract] L'essentiel
+> **Dysfonction du tibial postérieur = première cause de pied plat valgus acquis de l'adulte** : grader le tendon (épaissi → aminci → rompu) et toujours demander des **radios en charge bilatérales**.
+
+> [!success] À retenir
+> 1. Stades : **1** tendon épaissi ± microclivages (± spring ligament) ; **2** tendon **aminci** = rupture partielle « en chewing-gum » ; **3** rupture complète (gouttière vide).
+> 2. En charge : angle de Djian **> 130°** (normal 115-130°), pitch calcanéen **< 25°**, cassure de Méary (normal **0°**), divergence talo-calcanéenne **> 25°**.
+> 3. Pièges : enthèse naviculaire évasée et angle magique ≠ lésion ; **os naviculaire accessoire de type 2** (synchondrose) seul pathogène ; luxation aiguë du sportif prise pour une entorse.
+
+## Images clés
+![Stade 1 : tendon tibial postérieur épaissi avec microclivages longitudinaux (étoile) et lésion partielle du faisceau supéro-médial du spring ligament (flèche)](../../img/2024/7fcWfl1Hxsk-1.jpg) [▶ 5:24](https://www.youtube.com/watch?v=7fcWfl1Hxsk&t=324s)
+![Stade 2 : tendon tibial postérieur aminci en coupes axiales, rupture partielle avancée « en chewing-gum »](../../img/2024/7fcWfl1Hxsk-2.jpg) [▶ 6:04](https://www.youtube.com/watch?v=7fcWfl1Hxsk&t=364s)
+![Bilan radiographique en charge du pied plat valgus : angle de Djian (115-130°), pitch calcanéen (25-45°), Méary (0°), divergence talo-calcanéenne (15-25°) et valgus de l'arrière-pied](../../img/2024/7fcWfl1Hxsk-3.jpg) [▶ 7:18](https://www.youtube.com/watch?v=7fcWfl1Hxsk&t=438s)
 
 ## Points clés
 - Rôle : flexion plantaire, inversion et surtout stabilisation de l'arche médiale → raisonner en statique du pied.

@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Itinéraire diagnostique d'un gros genou du sujet âgé
 
-> [!abstract] En une phrase
-> Le gros genou douloureux du sujet âgé est avant tout un épanchement articulaire, dont l'aspect à la ponction (hémorragique, mécanique, inflammatoire/purulent) oriente l'enquête étiologique et le choix de l'imagerie.
+> [!abstract] L'essentiel
+> **Gros genou du sujet âgé = ponction d'abord : l'aspect du liquide (hémorragique, clair, trouble) dicte l'enquête et l'imagerie** : radiographie systématique, IRM rarement.
+
+> [!success] À retenir
+> 1. **Hémarthrose** : chute, **surdosage AVK**, puis **chondrocalcinose** sévère (première cause articulaire), arthrose évoluée, arthropathie nerveuse.
+> 2. Liquide **clair (< 1 000 éléments/mm³)** = arthrose ou CCA → radiographie ; **IRM seulement si discordance radio-clinique ou douleur brutale** (fissure méniscale, accident sous-chondral).
+> 3. Liquide **trouble (> 2 000/mm³)** = arthrite septique jusqu'à preuve du contraire (souvent abâtardie chez l'âgé) ou microcristalline ; **goutte révélée par le genou dans 10–15 %** des cas.
+
+## Images clés
+![Chondrocalcinose : liserés calciques méniscaux et cartilagineux fémorotibiaux (flèches blanches) et calcifications capsulaires/fémoropatellaires de profil](../../img/2017/Hts8hkYQ9b0-1.jpg) [▶ 5:39](https://www.youtube.com/watch?v=Hts8hkYQ9b0&t=339s)
+![Arthrite septique du sujet âgé au scanner : érosions et effacement des lames sous-chondrales fémorotibiales, apparus en quelques semaines](../../img/2017/Hts8hkYQ9b0-2.jpg) [▶ 9:45](https://www.youtube.com/watch?v=Hts8hkYQ9b0&t=585s)
+![Arthrite goutteuse en IRM coronale T1 et T2 FS : dépôts tophacés intra-articulaires et œdème osseux (flèches)](../../img/2017/Hts8hkYQ9b0-3.jpg) [▶ 11:05](https://www.youtube.com/watch?v=Hts8hkYQ9b0&t=665s)
 
 ## Points clés
 - Interrogatoire : antécédents, ancienneté (récent si moins de 3 mois, ou chronique), atteinte mono- ou pluri-articulaire. Hors sujet : inflammations périarticulaires, atteintes osseuses, SDRC de type 1.

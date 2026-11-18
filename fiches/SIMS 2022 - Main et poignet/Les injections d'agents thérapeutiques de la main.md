@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, infiltrations-produits]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (rhumatologue, prénommé « Hervé » par l'orateur suivant)"
+orateur: "Hervé Bard (Cabinet médical Vaudoyer, Paris)"
 video: https://www.youtube.com/watch?v=reKGdlRWpr0
 duree: 14 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les injections d'agents thérapeutiques de la main
 
-> [!abstract] En une phrase
-> À la main, seuls les corticoïdes sont validés (effet à court terme dans le canal carpien et les ténosynovites sténosantes) ; acide hyaluronique et PRP sont des alternatives non validées, et la balance bénéfice-risque impose prudence (règle « CQFD »).
+> [!abstract] L'essentiel
+> **À la main, seuls les corticoïdes sont validés, avec un effet à court terme** ; acide hyaluronique et PRP restent des alternatives de recours. Règle **CQFD** : Complications, Quantité, Fragilité, Douleur.
+
+> [!success] À retenir
+> 1. **Canal carpien** : corticoïdes > placebo, attelle et anesthésique seul, quel que soit le produit (**92 %** de succès à 1 mois mais **8 %** à 2 ans) ; hydrodissection échoguidée possible.
+> 2. **Acide hyaluronique** dans la **gaine ou le péritendon, jamais en intratendineux** (De Quervain, doigt à ressaut) ; recours si contre-indication, échec ou refus des corticoïdes.
+> 3. Risques : **atrophie et dépigmentation cutanée**, rupture tendineuse ; prudence à la **STT** (communication avec la gaine du FCR).
+
+## Images clés
+![Alternatives aux corticoïdes par indication (ECU, De Quervain, doigt à ressaut, canal carpien, rhizarthrose, arthrose digitale, rhumatismes) : place du PRP et de l'acide hyaluronique](../../img/2022/reKGdlRWpr0-1.jpg) [▶ 12:02](https://www.youtube.com/watch?v=reKGdlRWpr0&t=722s)
+![Cibles échographiques de l'acide hyaluronique : De Quervain type II (gaine du court extenseur isolée), nodule de tendinose du doigt à ressaut, hyperhémie du rétinaculum](../../img/2022/reKGdlRWpr0-2.jpg) [▶ 10:57](https://www.youtube.com/watch?v=reKGdlRWpr0&t=657s)
 
 ## Points clés
 - Définir la **cible** : arthropathie = synoviopathie (épanchement, réaction synoviale), injection strictement intra-articulaire ; tendinopathie = pathologie du péritendon, des gaines, des rétinaculums (le tendon est « victime plus qu'acteur ») ; neuropathie canalaire = nerf symptomatique, cause analysée (intrinsèque, extrinsèque, posturale). Pas de traitement d'anomalies électrophysiologiques asymptomatiques.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, scaphoide]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Jean-Michel Cognet (Médipôle, Bezannes ; SOS Mains) et coll."
 video: https://www.youtube.com/watch?v=YqpHaHAnDEE
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Pseudarthrose du scaphoïde, les possibilités thérapeutiques
 
-> [!abstract] En une phrase
-> Le traitement de la pseudarthrose du scaphoïde est exclusivement chirurgical ; la greffe osseuse arthroscopique, avec environ 95 % de consolidation, tend à devenir le gold standard en France.
+> [!abstract] L'essentiel
+> **Pseudarthrose du scaphoïde (> 6 mois) = chirurgie obligatoire pour éviter le SNAC wrist** ; la greffe arthroscopique (≈ 94 % de consolidation) devient le standard.
+
+> [!success] À retenir
+> 1. Consolidation : greffe **non vascularisée 84 %**, **vascularisée pédiculée 91 %**, vascularisée libre **86 %**, **arthroscopique 94 %** (88-100 %).
+> 2. Le CR oriente la technique : siège **proximal ou corporéal**, perte de substance, **humpback**, vitalité du pôle proximal, ligament scapho-lunaire, stade **SNAC**.
+> 3. Après greffe arthroscopique : **scanner à 3 mois** pour juger l'ostéo-intégration (zone greffée parfois > 1/3 du scaphoïde, ne pas la prendre pour un défect).
+
+## Images clés
+![SNAC wrist : arthrose progressive d'abord radio-styloïdienne puis radio-scaphoïdienne et médiocarpienne, évolution naturelle de la pseudarthrose du scaphoïde](../../img/2022/YqpHaHAnDEE-1.jpg) [▶ 0:45](https://www.youtube.com/watch?v=YqpHaHAnDEE&t=45s)
+![Contrôle après greffe osseuse arthroscopique fixée par deux broches : ostéo-intégration et consolidation du scaphoïde au scanner](../../img/2022/YqpHaHAnDEE-2.jpg) [▶ 7:46](https://www.youtube.com/watch?v=YqpHaHAnDEE&t=466s)
+![Taux de consolidation : greffon non vascularisé 84 %, vascularisé pédiculé 91 %, vascularisé libre 86 %, greffe arthroscopique 94 %](../../img/2022/YqpHaHAnDEE-3.jpg) [▶ 8:07](https://www.youtube.com/watch?v=YqpHaHAnDEE&t=487s)
 
 ## Points clés
 - Définition retenue : absence de consolidation après **6 mois**.
@@ -24,6 +34,8 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **Greffes vascularisées pédiculées** : pour les pseudarthroses proximales, les échecs chirurgicaux ou un doute sur la vascularisation du fragment proximal ; techniquement plus difficiles, incertitude sur la viabilité du pédicule, variations anatomiques. En France : lambeau de Kuhlmann-Mathoulin (palmaire, branche de l'artère radiale) et lambeau de Zaidemberg (styloïde radiale, branche de l'artère radiale, avec périoste).
 - **Greffe libre vascularisée** du condyle fémoral médial (technique américaine) : lourde, anastomose microchirurgicale termino-latérale sur l'artère radiale.
 - **Greffe arthroscopique** (pratiquée depuis une dizaine d'années) : avivement à la curette par voie médio-carpienne jusqu'à l'os vascularisé, comblement par carottes spongieuses prélevées au radius, montage léger par deux broches (« la biologie avant la mécanique ») ; ostéo-intégration au scanner à 3 mois ; consolidation d'environ 95 %.
+- Taux de consolidation présentés (diapo) : greffon non vascularisé 84 % (82-85 %), vascularisé pédiculé 91 % (87-94 %), vascularisé libre 86 % (72-100 %), greffe arthroscopique 94 % (88-100 %).
+- Choix thérapeutique selon l'expérience du chirurgien et le niveau lésionnel : pseudarthrose proximale → arthroscopie ou greffon vascularisé pédiculé ou libre ; pseudarthrose du corps → arthroscopie, greffon non vascularisé ou vascularisé libre.
 
 ## Sémiologie et technique d'imagerie
 - Scanner et IRM identifient la fracture initialement méconnue et son évolution vers la pseudarthrose.

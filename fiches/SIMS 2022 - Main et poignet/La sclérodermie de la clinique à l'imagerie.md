@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, sclerodermie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Éric Hachulla"
 video: https://www.youtube.com/watch?v=UB66FIivq6I
 duree: 3 min
 date: 2026-11-18
@@ -12,13 +12,23 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # La sclérodermie, de la clinique à l'imagerie
 
-> [!abstract] En une phrase
-> Devant une main « connectivite », le radiologue doit d'abord rechercher un phénomène de Raynaud et les petits signes cliniques (télangiectasies, mégacapillaires, ulcérations) qui orientent vers une sclérodermie systémique, y compris dans les formes sans atteinte cutanée.
+> [!abstract] L'essentiel
+> **Main « connectivite » : chercher d'abord un Raynaud (inaugural dans 95 %)**, puis télangiectasies, mégacapillaires et ulcères pulpaires, même sans sclérose cutanée.
+
+> [!success] À retenir
+> 1. Classification **ACR/EULAR** : sclérodermie systémique si score **≥ 9** ; aucun critère radiologique.
+> 2. Forme ***sine scleroderma*** (≈ **10 %**) : main d'aspect normal → Raynaud + capillaroscopie + **AAN**.
+> 3. Mégacapillaires du bord unguéal visibles à l'œil nu (≈ **80 %**) ; ulcères pulpaires ischémiques, **calcinose** sous-cutanée ou mécaniques → à rechercher en radiographie.
+
+## Images clés
+![Phénomène de Raynaud triphasique (phase blanche, cyanique puis érythermalgique), inaugural dans 95 % des sclérodermies systémiques](../../img/2022/UB66FIivq6I-1.jpg) [▶ 0:58](https://www.youtube.com/watch?v=UB66FIivq6I&t=58s)
+![Épaississement cutané : doigts boudinés (forme limitée), sclérodactylie (forme diffuse) puis déformation en flexion](../../img/2022/UB66FIivq6I-2.jpg) [▶ 1:31](https://www.youtube.com/watch?v=UB66FIivq6I&t=91s)
+![Lésions vasculaires cutanées : télangiectasies palmaires et mégacapillaires du bord unguéal visibles à l'œil nu](../../img/2022/UB66FIivq6I-3.jpg) [▶ 2:09](https://www.youtube.com/watch?v=UB66FIivq6I&t=129s)
 
 ## Points clés
-- Maladie rare : prévalence citée d'environ 158 cas par million d'habitants.
-- Critères de classification cutanés, vasculaires, cardio-pulmonaires (hypertension artérielle pulmonaire, fibrose pulmonaire) et biologiques ; un score supérieur à 9 permet de retenir une sclérodermie systémique. **Aucun critère radiologique** dans la classification, ce que l'orateur regrette.
-- Première question face à une main suspecte : existe-t-il un **phénomène de Raynaud** triphasique (phase blanche, cyanique, érythrosique) ? Il est quasi constant dans la sclérodermie.
+- Maladie rare : prévalence de 158 à 228 cas par million d'habitants en France, âge de survenue 45-64 ans, prédominance féminine.
+- Critères de classification cutanés, vasculaires, cardio-pulmonaires (hypertension artérielle pulmonaire, fibrose pulmonaire) et biologiques ; un score supérieur ou égal à 9 permet de retenir une sclérodermie systémique. **Aucun critère radiologique** dans la classification, ce que l'orateur regrette.
+- Première question face à une main suspecte : existe-t-il un **phénomène de Raynaud** triphasique (phase blanche, cyanique, érythrosique) ? Il est quasi constant dans la sclérodermie et inaugural dans 95 % des cas.
 - La peau n'est pas toujours atteinte : doigts boudinés, puis sclérodactylie de plus en plus déformante ; environ 10 % des patients ont une forme *sine scleroderma* avec examen de la main strictement normal.
 - Télangiectasies palmaires et faciales : regarder le visage et les paumes.
 - Microangiopathie organique : mégacapillaires du bord unguéal, visibles à l'œil nu dans environ 80 % des cas sans capillaroscope.

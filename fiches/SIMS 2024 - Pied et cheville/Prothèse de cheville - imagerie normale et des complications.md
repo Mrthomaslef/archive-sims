@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, prothese-cheville]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Jean-Baptiste Pialat (Hospices Civils de Lyon, CHU Lyon Sud) et coll."
 video: https://www.youtube.com/watch?v=k4Q9c3z6Qb4
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prothèse de cheville - imagerie normale et des complications
 
-> [!abstract] En une phrase
-> La prothèse de cheville doit supporter idéalement la charge : bilan préopératoire de tout le membre inférieur, mesures pré- et postopératoires reproductibles pour le suivi, et surveillance attentive des liserés et géodes, complications les plus fréquentes.
+> [!abstract] L'essentiel
+> **Suivre une prothèse de cheville = mesures angulaires reproductibles et comparaison systématique aux clichés antérieurs** : liserés et géodes sont les complications les plus fréquentes.
+
+> [!success] À retenir
+> 1. Mesures de suivi : **angle α** (implant tibial/axe tibial) et **tilt entre implants** de face, **angle β** (pente tibiale) et **γ** (implant talien) de profil → détecter une **migration** lente.
+> 2. **Liseré ≥ 2 mm** = significatif ; convexe = **géode** → localiser en **10 zones** (radio + scanner/CBCT) ; géodes sous l'implant talien = risque d'**effondrement**.
+> 3. Douleur aiguë : **fracture du polyéthylène** ; infection difficile à affirmer parmi les liserés → ponction, écho, scintigraphie aux leucocytes marqués.
+
+## Images clés
+![Mesures postopératoires de référence : angle α et tilt entre implants de face, angle β et angle γ de profil, à reproduire à chaque contrôle](../../img/2024/k4Q9c3z6Qb4-1.jpg) [▶ 7:17](https://www.youtube.com/watch?v=k4Q9c3z6Qb4&t=437s)
+![Liseré périprothétique tibial ≥ 2 mm (flèches blanches) et liseré sous l'implant talien (têtes de flèche)](../../img/2024/k4Q9c3z6Qb4-2.jpg) [▶ 8:55](https://www.youtube.com/watch?v=k4Q9c3z6Qb4&t=535s)
+![Géodes périprothétiques : localisation en 10 zones sur les radiographies de face et de profil, complétée par le scanner](../../img/2024/k4Q9c3z6Qb4-3.jpg) [▶ 9:10](https://www.youtube.com/watch?v=k4Q9c3z6Qb4&t=550s)
 
 ## Points clés
 - **Implants actuels** : polyéthylène solidaire d'un implant (souvent tibial) = deux composants (majoritaires aujourd'hui en France), ou patin mobile intermédiaire = trois composants.
@@ -31,7 +41,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Suivi par radiographies, scanner ponctuel pour les géodes ; le CBCT peut combiner les deux.
 
 ## Sémiologie et technique d'imagerie
-- **Liserés périprothétiques et géodes** : très fréquents ; mécanisme mécanique démontré ; à décrire et surveiller (classification radiographique de Jean-Luc Besse, utilisable au scanner).
+- **Liserés périprothétiques et géodes** : très fréquents ; liseré significatif si ≥ 2 mm, géode quand il devient convexe ; géodes localisées en 10 zones (face : 1-2 versants de la pièce tibiale, 3 malléole fibulaire, 4 malléole tibiale, 5 talus ; profil : 6-7 avant/arrière de l'implant tibial, 8 tête du talus, 9-10 avant/arrière sous la pièce talienne) ; mécanisme mécanique démontré ; à décrire et surveiller (classification radiographique de Jean-Luc Besse, utilisable au scanner).
 - **Migration** lente d'un implant : intérêt du suivi chiffré.
 - **Effondrement** : géodes sous l'implant talien puis enfoncement, menaçant la survie prothétique.
 - **Fracture du polyéthylène** : douleur aiguë, comparer aux clichés antérieurs.

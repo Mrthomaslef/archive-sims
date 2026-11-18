@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, alignement-membre-inferieur]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (chirurgien du pied, directeur du conseil scientifique de l'AFCP)"
+orateur: "Louis Dagneaux (CHU Montpellier)"
 video: https://www.youtube.com/watch?v=qujtzeMBpGk
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Interactions entre le pied et les articulations du membre inférieur - place des nouvelles modalités
 
-> [!abstract] En une phrase
-> Le couplage EOS + scanner en charge (weight-bearing CT) permet une biométrie 3D qui révèle des phénotypes constitutionnels associant alignement du genou et de l'arrière-pied (« valgus dominants » et « varus dominants »), au-delà des limites de l'analyse 2D.
+> [!abstract] L'essentiel
+> **Genou et arrière-pied s'alignent ensemble : EOS + scanner en charge révèlent des phénotypes « valgus dominants » et « varus dominants »** ; à signaler avant chirurgie.
+
+> [!success] À retenir
+> 1. **HKA valgus** corrélé au **valgus d'arrière-pied** (FAO pathologique **> 5,2 %**, rho = 0,53) ; HKA neutre → arrière-pied plutôt neutre.
+> 2. **Valgus dominant** (femme, faillite LCM et tibial postérieur) contre **varus dominant** (homme, tibia vara + varus d'arrière-pied, arthrose rapide).
+> 3. **Varus d'arrière-pied** non corrigé spontanément après PTG : mesurer l'arrière-pied **en charge (WBCT, foot and ankle offset)** avant arthroplastie ; relations **non linéaires**.
+
+## Images clés
+![Corrélation entre HKA (EOS) et valgus d'arrière-pied mesuré par le foot and ankle offset en scanner en charge (FAO pathologique > 5,2 %)](../../img/2024/qujtzeMBpGk-1.jpg) [▶ 6:31](https://www.youtube.com/watch?v=qujtzeMBpGk&t=391s)
+![Distance mapping en scanner en charge : cartographie des distances articulaires talocrurales, cheville saine contre arthrose varisante](../../img/2024/qujtzeMBpGk-2.jpg) [▶ 7:55](https://www.youtube.com/watch?v=qujtzeMBpGk&t=475s)
 
 ## Points clés
 - Historique : Scarpa (1803) décrit l'analogie entre l'articulation talo-naviculo-calcanéenne (« acetabulum pedis ») et la coxo-fémorale ; concept repris plus de 100 ans après (« coxa pedis »).

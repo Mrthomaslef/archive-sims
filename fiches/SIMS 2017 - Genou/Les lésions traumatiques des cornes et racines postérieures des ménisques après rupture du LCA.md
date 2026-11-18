@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, menisque-lca]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé"
+orateur: "Henri Guerini"
 video: https://www.youtube.com/watch?v=KJ2W6Kvus_Y
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les lésions traumatiques des cornes et racines postérieures des ménisques après rupture du LCA
 
-> [!abstract] En une phrase
-> Les lésions postérieures du ménisque latéral associées aux ruptures du LCA sont souvent manquées en IRM ; le repérage des ligaments ménisco-fémoraux sur les coupes sagittales permet de distinguer lésion intraméniscale « en braguette », désinsertion capsulo-méniscale et lésion radiaire de racine.
+> [!abstract] L'essentiel
+> **Devant une rupture du LCA, scruter la corne postérieure du ménisque latéral en se repérant sur les ligaments ménisco-fémoraux** : c'est là que l'IRM manque les lésions.
+
+> [!success] À retenir
+> 1. Sensibilité de l'IRM pour la corne postérieure du ML : **94 % → 65 %**, voire **≈ 50 %** si lésion très périphérique ; ne pas se laisser distraire par l'**œdème osseux**.
+> 2. **Seconde image verticale en hypersignal** distincte du hiatus poplité = lésion : **en avant** des ménisco-fémoraux = longitudinale intraméniscale (« braguette », anse de seau si **> 10 mm**) ; **en arrière** = désinsertion capsulo-méniscale (cicatrise **≈ 72 %**).
+> 3. Lésion radiaire postérieure (**Forkel**) : type 3 = ménisco-fémoraux rompus + **extrusion** du ML → très arthrogène, à signaler.
+
+## Images clés
+![IRM axiale et schéma : fissure verticale longitudinale de la corne postérieure du ménisque latéral ouverte « en braguette » en avant du tendon poplité](../../img/2017/KJ2W6Kvus_Y-1.jpg) [▶ 3:51](https://www.youtube.com/watch?v=KJ2W6Kvus_Y&t=231s)
+![IRM sagittale et schéma : désinsertion capsulo-méniscale postérieure du ménisque latéral (en arrière de la fusion avec le ligament ménisco-fémoral)](../../img/2017/KJ2W6Kvus_Y-2.jpg) [▶ 8:22](https://www.youtube.com/watch?v=KJ2W6Kvus_Y&t=502s)
+![IRM coronales : lésion radiaire de la corne postérieure / racine du ménisque latéral (flèches) associée à la rupture du LCA](../../img/2017/KJ2W6Kvus_Y-3.jpg) [▶ 9:59](https://www.youtube.com/watch?v=KJ2W6Kvus_Y&t=599s)
 
 ## Points clés
 - Mécanisme rotatoire ou compression par tiroir antérieur : c'est la partie postérieure des ménisques qui est atteinte. La présentation se limite au **ménisque latéral**, atteint dans près de 69 % des lésions méniscales associées au LCA.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, acetabulum, anatomie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Bertrand Bordet (Clinique du Parc, Centre Médical Créqui, Lyon) et coll."
 video: https://www.youtube.com/watch?v=3ozraALQQaY
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Anatomie et orientation de l'acétabulum
 
-> [!abstract] En une phrase
-> L'acétabulum n'est pas un hémisphère. Il est asymétrique et « twisté », plus rétroversé en haut qu'en bas, et son antéversion varie avec la version pelvienne. Il faut donc mesurer l'antéversion à plusieurs niveaux, raisonner en antéversion fonctionnelle et se méfier du signe du croisement.
+> [!abstract] L'essentiel
+> **L'acétabulum est « twisté » : plus rétroversé en haut qu'en bas, et son antéversion dépend de la version pelvienne** → une seule mesure d'antéversion ne suffit pas.
+
+> [!success] À retenir
+> 1. Valeurs normales : **antéversion 16–23°**, **inclinaison 50–56°** ; couverture **postéro-supérieure** prédominante.
+> 2. Au scanner, mesurer l'antéversion en **zone supérieure ET moyenne** ; rétroversion isolée du toit = **pince**.
+> 3. **Signe du croisement** variable avec la bascule du bassin → ne pas conclure à une rétroversion sans contrôler la version pelvienne (antéversion **fonctionnelle** via la pente sacrée).
+
+## Images clés
+![Twist acétabulaire : l'antéversion mesurée diffère selon le niveau de coupe (torsion supérieure, antéversion moyenne, torsion inférieure)](../../img/2019/3ozraALQQaY-1.jpg) [▶ 3:55](https://www.youtube.com/watch?v=3ozraALQQaY&t=235s)
+![Relation linéaire inverse entre flexion du bassin et antéversion acétabulaire : la bascule antérieure du bassin rétroverse l'acétabulum](../../img/2019/3ozraALQQaY-2.jpg) [▶ 4:31](https://www.youtube.com/watch?v=3ozraALQQaY&t=271s)
+![Le signe du croisement apparaît ou disparaît selon la version pelvienne : piège de la rétroversion « radiographique »](../../img/2019/3ozraALQQaY-3.jpg) [▶ 7:41](https://www.youtube.com/watch?v=3ozraALQQaY&t=461s)
 
 ## Points clés
 - Pourtour (limbus, sourcil) marqué par des échancrures, reliquats de la fusion du cartilage en Y :

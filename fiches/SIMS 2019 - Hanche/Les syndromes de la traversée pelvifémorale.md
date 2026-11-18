@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, nerf-sciatique, syndrome-canalaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Jean-Marie Berthelot (Rhumatologie, CHU Nantes) et coll."
 video: https://www.youtube.com/watch?v=x646HNnFoBU
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les syndromes de la traversée pelvifémorale
 
-> [!abstract] En une phrase
-> Le syndrome de la traversée pelvifémorale est une pathologie de glissement du nerf sciatique (et du nerf cutané postérieur de la cuisse) entravé par de multiples adhérences fibrovasculaires ; c'est un diagnostic clinique à imagerie normale.
+> [!abstract] L'essentiel
+> **Sciatique ou pygalgie traînante à imagerie normale, déclenchée par la position assise : penser traversée pelvifémorale** ; diagnostic clinique, l'imagerie sert au différentiel.
+
+> [!success] À retenir
+> 1. Mécanisme = **traction** sur un nerf sciatique fixé par des **adhérences fibreuses** (souvent 2 sites : rachis + fesse), invisibles en IRM.
+> 2. Y penser si : **imagerie normale**, pas de rachialgie, **position assise ++** (conduite > 30 min → improbable), soulagement à la marche en rotation externe, Lasègue pauvre.
+> 3. IRM : éliminer schwannome, fibromatose, hématome, myosite, hernie ; neurographie IRM (Se **86 %**, Sp **93 %**) peu contributive ; neurolyse endoscopique ≈ **80 %** de bons résultats.
+
+## Images clés
+![L'imagerie sert surtout au diagnostic différentiel des pygalgies : hématome simulant un schwannome, fibromatose, myosite infectieuse, hernie avec volvulus](../../img/2019/x646HNnFoBU-1.jpg) [▶ 5:02](https://www.youtube.com/watch?v=x646HNnFoBU&t=302s)
+![Neurographie IRM : épaississement et hypersignal du nerf sciatique droit (flèches), sensibilité 86 % et spécificité 93 % rapportées, intérêt discuté](../../img/2019/x646HNnFoBU-2.jpg) [▶ 5:25](https://www.youtube.com/watch?v=x646HNnFoBU&t=325s)
+![Critères cliniques de la traversée fessière : sciatique traînante à imagerie normale, déclenchement par la position assise, amélioration à la marche](../../img/2019/x646HNnFoBU-3.jpg) [▶ 6:02](https://www.youtube.com/watch?v=x646HNnFoBU&t=362s)
 
 ## Points clés
 - Analogue fessier du syndrome du défilé thoracobrachial ; pathologie des nerfs et parfois des vaisseaux, liée à des **adhérences** et pas seulement au piriforme (terme « syndrome du piriforme » trop restrictif).
@@ -26,7 +36,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **Traitement** : faciliter le glissement nerveux — techniques rachidiennes (inspirées de McKenzie), étirements musculaires (insuffisants seuls), infiltrations et toxine botulique ; en échec, libération endoscopique (≈ **80 % de bons résultats** selon les équipes publiées).
 
 ## Sémiologie et technique d'imagerie
-- Imagerie normale dans plus des trois quarts des cas des séries chirurgicales ; sensibilité de 86 % rapportée pour la neurographie IRM mais peu contributive en pratique quotidienne.
+- Imagerie normale dans plus des trois quarts des cas des séries chirurgicales ; sensibilité de 86 % et spécificité de 93 % rapportées pour la neurographie IRM (Lewis, Arch Neurol 2006) mais peu contributive en pratique quotidienne.
 - Utilité principale : **diagnostics différentiels** (schwannome, fibromatose, autres) et éventuellement guider la hauteur d'intervention ; coupes adaptées au piriforme et au trajet du nerf sciatique.
 - L'échographie dynamique pourrait à l'avenir évaluer le glissement.
 

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, pied-plat-pcfd]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Carlos Maynou (CHU de Lille)"
 video: https://www.youtube.com/watch?v=yvoPjKb13Yo
 duree: 14 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Pied plat - éléments cliniques et paracliniques orientant le geste chirurgical
 
-> [!abstract] En une phrase
-> Le pied plat de l'adulte (PCFD) est une déformation tridimensionnelle dont la réductibilité (souple vs rigide) est le critère décisionnel majeur : chirurgie conservatrice si souple, arthrodèse si fixé.
+> [!abstract] L'essentiel
+> **Pied plat de l'adulte (PCFD) : la réductibilité décide du geste** ; souple → chirurgie conservatrice, rigide ou arthrosique → **double arthrodèse**.
+
+> [!success] À retenir
+> 1. Radios **en charge** chiffrées : couverture talonaviculaire (significative **> 10°**, abduction marquée si découverture **> 30 %**), Djian-Annonier (normal **> 130°**), Méary, valgus de l'arrière-pied (≈ **5°**).
+> 2. Préciser la composante dominante : **valgus** → ostéotomie calcanéenne de varisation ; **abduction** → allongement de la colonne latérale.
+> 3. Chercher les lésions associées qui changent le geste : **supination fixée / instabilité du rayon médial**, conflit latéral (Gissane, fibulocalcanéen), spring ligament, rétraction tricipitale.
+
+## Images clés
+![Pied plat valgus souple : supination résiduelle fixée ou instabilité du rayon médial (cassure plantaire cunéo-métatarsienne en charge) imposant un abaissement (Cotton) ou une arthrodèse du rayon médial](../../img/2024/yvoPjKb13Yo-1.jpg) [▶ 10:47](https://www.youtube.com/watch?v=yvoPjKb13Yo&t=647s)
+![Lésions associées au pied plat souple à rechercher : rétraction achilléenne, hallux valgus, contracture des fibulaires, rupture du spring ligament](../../img/2024/yvoPjKb13Yo-2.jpg) [▶ 11:09](https://www.youtube.com/watch?v=yvoPjKb13Yo&t=669s)
 
 ## Points clés
 - Terminologie : **PCFD** (*progressive collapsing foot deformity*). Déformation 3D : affaissement de l'arche médiale, valgus calcanéen, ± abduction de l'avant-pied.

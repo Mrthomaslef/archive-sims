@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, conflit-ulnocarpien]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Xavier Demondion (CHRU de Lille) et coll."
 video: https://www.youtube.com/watch?v=R_8mwl9GfuM
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit ulnocarpien et le conflit styloïdo-triquétral
 
-> [!abstract] En une phrase
-> Deux conflits mécaniques du bord ulnaire du poignet : l'ulnocarpien (tête ulnaire, disque articulaire, versant ulnaire du lunatum et triquetrum) se dépiste par la variance ulnaire et l'IRM précoce ; le styloïdo-triquétral par une styloïde ulnaire longue.
+> [!abstract] L'essentiel
+> **Douleur mécanique du bord ulnaire : chercher une variance ulnaire positive (conflit ulnocarpien) ou une styloïde ulnaire longue (conflit styloïdo-triquétral)** ; l'IRM voit l'œdème avant la radio.
+
+> [!success] À retenir
+> 1. **Variance ulnaire** sur face paume à plat (± 1–2 mm normal) ; elle **augmente en pronation** et en prise de force — conflit possible même à variance nulle.
+> 2. Signes : condensation/géodes du **versant ulnaire (supéro-médial) du lunatum**, du triquetrum et de la tête ulnaire ; **œdème sous-chondral en IRM T2 FS** au stade précoce ; arthroscanner pour disque, cartilage et LLT.
+> 3. Styloïde ulnaire **> 6 mm** → conflit styloïdo-triquétral (clichés dynamiques en inclinaison) ; Kienböck = atteinte du versant **radial** du lunatum ; penser **Madelung**.
+
+## Images clés
+![Conflit ulnocarpien en radiographie : variance ulnaire positive, condensation et géodes de la partie supéro-médiale du lunatum et de la tête ulnaire](../../img/2022/R_8mwl9GfuM-1.jpg) [▶ 5:56](https://www.youtube.com/watch?v=R_8mwl9GfuM&t=356s)
+![Conflit ulnocarpien débutant : radiographie peu parlante, IRM T2 FS montrant les anomalies de signal sous-chondrales de la tête ulnaire, du lunatum et du triquetrum](../../img/2022/R_8mwl9GfuM-2.jpg) [▶ 8:39](https://www.youtube.com/watch?v=R_8mwl9GfuM&t=519s)
+![Conflit ulno-triquétral : processus styloïde ulnaire long au contact du triquetrum, avec remaniements condensants et géodiques](../../img/2022/R_8mwl9GfuM-3.jpg) [▶ 11:30](https://www.youtube.com/watch?v=R_8mwl9GfuM&t=690s)
 
 ## Points clés
 - Transmission des forces de compression : environ 50 % par la fossette scaphoïdienne du radius, 35 % par la fossette lunarienne, 15 % par le disque articulaire (TFCC). Toute modification de longueur de l'ulna modifie fortement cette répartition.

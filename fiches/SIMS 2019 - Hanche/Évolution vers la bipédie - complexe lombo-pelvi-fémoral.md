@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, anatomie-comparee, bipedie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Jean-Marie Le Minor (Faculté de médecine, Hôpitaux universitaires de Strasbourg)"
 video: https://www.youtube.com/watch?v=Kj-xEwzi-so
 duree: 16 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Évolution vers la bipédie : complexe lombo-pelvi-fémoral
 
-> [!abstract] En une phrase
-> La bipédie humaine repose sur trois adaptations du complexe lombo-pelvi-fémoral : hyperextension du tronc sur le membre inférieur, extension intra-coxale et lordose lombaire. Elles expliquent plusieurs particularités anatomiques et pathologiques de la hanche (ligaments antérieurs, ilio-psoas, piriforme).
+> [!abstract] L'essentiel
+> **La bipédie humaine = hyperextension tronc/membre inférieur, extension intra-coxale et lordose lombaire** : clés des conflits antérieurs de hanche (ilio-psoas, ligaments) et des variantes du piriforme.
+
+> [!success] À retenir
+> 1. Centre de gravité **en arrière de la hanche** → stabilité antérieure assurée par les **ligaments spiralés** et l'**ilio-psoas**, réfléchi sur le bord antérieur de l'os coxal (frottements, tendinopathie).
+> 2. Extension intra-coxale = **grande incisure et épine ischiatiques** → variantes du **piriforme** et compressions nerveuses ; **EIAI** spécifiquement humaine.
+> 3. **Lordose lombaire** très variable (≈ **26 à 61°**) : variante morphologique à ne pas surinterpréter ; épaississement cortical **inféro-médial du col** = marqueur de charge bipède.
+
+## Images clés
+![Bassin de grand singe (long, « en tension ») vs bassin humain (court, en cuvette, ailes iliaques recourbées) : adaptation à l'appui monopodal](../../img/2019/Kj-xEwzi-so-1.jpg) [▶ 10:59](https://www.youtube.com/watch?v=Kj-xEwzi-so&t=659s)
+![Variabilité de la lordose lombaire humaine, de 26° à 61° : spectre morphologique normal](../../img/2019/Kj-xEwzi-so-2.jpg) [▶ 14:15](https://www.youtube.com/watch?v=Kj-xEwzi-so&t=855s)
+![Coupes sagittales passant par la tête fémorale : l'ilio-psoas se réfléchit contre le bord antérieur de l'os coxal, zone de conflit propre à la hanche en extension](../../img/2019/Kj-xEwzi-so-3.jpg) [▶ 14:48](https://www.youtube.com/watch?v=Kj-xEwzi-so&t=888s)
 
 ## Points clés
 - Il faut distinguer :

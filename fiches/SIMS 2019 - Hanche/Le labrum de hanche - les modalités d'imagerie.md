@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, labrum, arthrographie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Anne-Sophie Billard (Hôpital Pitié-Salpêtrière, Paris) et coll."
 video: https://www.youtube.com/watch?v=_4vIiKMJfR4
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le labrum de hanche : les modalités d'imagerie
 
-> [!abstract] En une phrase
-> L'imagerie du labrum repose sur l'arthrographie (arthroscanner, arthro-IRM). Les lésions siègent surtout en antéro-supérieur sur le versant articulaire. Elles s'authentifient par leur environnement (cartilage, kyste paralabral, récessus périlabral) et doivent être distinguées de nombreuses variantes.
+> [!abstract] L'essentiel
+> **Labrum de hanche = arthrographie (arthroscanner ou arthro-IRM), lésion antéro-supérieure 12 h-3 h sur le versant articulaire** : une lésion s'authentifie par son environnement, pas par son signal seul.
+
+> [!success] À retenir
+> 1. **Désinsertion ostéo-labrale** largement prédominante ; signes : contraste profond et irrégulier, labrum globuleux, **récessus périlabral effacé**.
+> 2. Toujours chercher la **lésion cartilagineuse en regard** (mieux vue en arthroscanner) et le **kyste paralabral** (lésion sentinelle, parfois non opacifié).
+> 3. Pièges : jonction chondro-labrale, sillons du ligament transverse, **récessus sous-labral** (postéro-inférieur **48 %**, antéro-supérieur **44 %** ; peu profond, régulier, labrum normal).
+
+## Images clés
+![Arthroscanner coronal : passage de contraste à la jonction ostéo-labrale supérieure, désinsertion du labrum avec effacement du récessus périlabral](../../img/2019/_4vIiKMJfR4-1.jpg) [▶ 2:13](https://www.youtube.com/watch?v=_4vIiKMJfR4&t=133s)
+![Kyste paralabral antéro-supérieur en arthro-IRM T1 FS et arthroscanner : lésion sentinelle d'une lésion labrale, contenu épais parfois non opacifié](../../img/2019/_4vIiKMJfR4-2.jpg) [▶ 5:10](https://www.youtube.com/watch?v=_4vIiKMJfR4&t=310s)
+![Arthroscanner coronal : lésion cartilagineuse acétabulaire associée, à rechercher systématiquement en regard d'une lésion labrale](../../img/2019/_4vIiKMJfR4-3.jpg) [▶ 3:52](https://www.youtube.com/watch?v=_4vIiKMJfR4&t=232s)
 
 ## Points clés
 - Anatomie :
@@ -43,7 +53,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **Jonction chondro-labrale** : interposition de cartilage de signal intermédiaire, sans irrégularité.
 - Sillons du ligament transverse à ses attaches antérieure et postérieure.
 - Récessus périlabral : physiologique, il doit alerter s'il est **absent**.
-- **Récessus sous-labral** : existence débattue, surtout postéro-inférieur. Critères : peu profond, contours réguliers, sans anomalie péri- ou intra-labrale (comme pour le labrum glénoïdien).
+- **Récessus sous-labral** : existence débattue, surtout postéro-inférieur (48 % ; antéro-supérieur 44 %, Saddik AJR 2006), large et linéaire, habituellement sur le rayon de 4 h. Critères : peu profond, contours réguliers, sans anomalie péri- ou intra-labrale (comme pour le labrum glénoïdien).
 
 > [!WARNING] À ne pas manquer
 > Une lésion labrale antéro-supérieure va souvent de pair avec une lésion cartilagineuse en regard. Il faut la rechercher, car elle conditionne la prise en charge.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, gros-doigt-dactylite]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (prénommée « Valérie » par le modérateur)"
+orateur: "Valérie Bousson (Hôpital Lariboisière, AP-HP Nord, Université de Paris) et coll."
 video: https://www.youtube.com/watch?v=P09ERySLV7Y
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Algorithme diagnostique à propos du gros doigt
 
-> [!abstract] En une phrase
-> Le gros doigt se classe cliniquement en trois chapitres — congénital, dysharmonieux acquis (tuméfaction localisée) et dactylite (gonflement global, six étiologies) — l'imagerie précisant ensuite les composants en cause.
+> [!abstract] L'essentiel
+> **Gros doigt = diagnostic clinique à classer d'emblée : congénital, tuméfaction localisée (dysharmonieux) ou dactylite globale** ; l'imagerie identifie ensuite les composants atteints.
+
+> [!success] À retenir
+> 1. Congénital : penser **spectre PROS (*PIK3CA*)** ; macrodystrophie lipomateuse = hypertrophie graisseuse des **2e-3e rayons**, **fibrolipome du nerf** associé dans **30-50 %**.
+> 2. Tuméfaction localisée au contact d'un tendon en **hyposignal T1 et T2** avec encoche osseuse = **tumeur ténosynoviale à cellules géantes**.
+> 3. Dactylite : **6 causes** (infection, **rhumatisme psoriasique** = 1re cause, sarcoïdose, crise d'hydroxyapatite, ostéome ostéoïde, drépanocytose) ; éliminer d'abord le **phlegmon/abcès**.
+
+## Images clés
+![Macrodactylie (homme de 30 ans) : IRM T1 montrant une hypertrophie graisseuse prédominant à la face palmaire des doigts atteints](../../img/2022/P09ERySLV7Y-1.jpg) [▶ 4:20](https://www.youtube.com/watch?v=P09ERySLV7Y&t=260s)
+![Tumeur ténosynoviale à cellules géantes (femme de 66 ans) : masse en hyposignal T1/T2 au contact des tendons, rehaussée après gadolinium](../../img/2022/P09ERySLV7Y-2.jpg) [▶ 7:07](https://www.youtube.com/watch?v=P09ERySLV7Y&t=427s)
+![Dactylite du rhumatisme psoriasique (femme de 34 ans) : tuméfaction globale du doigt, érosions et appositions périostées (flèches), ténosynovite en IRM](../../img/2022/P09ERySLV7Y-3.jpg) [▶ 9:38](https://www.youtube.com/watch?v=P09ERySLV7Y&t=578s)
 
 ## Points clés
 - **Gros doigt congénital** (rare), classé grâce à la génétique :
@@ -24,7 +34,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Thérapeutiques ciblées de la voie de signalisation en essai, porteuses d'espoir.
 - **Gros doigt dysharmonieux** (tuméfaction localisée, tumeurs osseuses ou des parties molles) : tumeur ténosynoviale à cellules géantes (signal bas T1 et T2, contact des tendons — extenseurs à la main —, encoche osseuse, parfois agressive) ; malformation vasculaire à haut débit ; prolifération ostéochondromateuse paraostéale bizarre (coiffe cartilagineuse sans continuité corticomédullaire) ; kyste anévrismal primitif (niveaux liquides pas toujours présents) ; goutte avec tophus destructeurs.
 - **Dactylite** : six étiologies : infection, rhumatismes (surtout psoriasique), sarcoïdose, crise de résorption microcristalline aiguë (hydroxyapatite), ostéome ostéoïde, drépanocytose.
-- Rhumatisme psoriasique : première cause de dactylite, chaude ou froide, souvent inaugurale ; inflammation des parties molles, ténosynovite, enthésite, arthrites, érosions et proliférations osseuses, atteinte d'un seul rayon.
+- Rhumatisme psoriasique : première cause de dactylite (survient chez 1 patient sur 2 au cours de la maladie ; pied 2/3, main 1/4 ; récidive 1 fois sur 2), chaude ou froide, souvent inaugurale ; inflammation des parties molles, ténosynovite, enthésite, arthrites, érosions et proliférations osseuses, atteinte d'un seul rayon.
 - Sarcoïdose : atteinte conjointe os, tissus mous, peau, ongle ; infiltration granulomateuse médullaire des phalanges, lyse partielle spongieuse et corticale, ténosynovite floride.
 - Ostéome ostéoïde phalangien : sujets plus âgés, peu douloureux, nidus souvent non vu en IRM et très minéralisé aux phalanges.
 - Drépanocytose : tout-petits, syndrome pied-main par crise vaso-occlusive, apposition périostée.

@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # La prothèse douloureuse : que rechercher sur les radiographies
 
-> [!abstract] En une phrase
-> Des radiographies de qualité, reproductibles, en charge et dynamiques permettent d'analyser six points (axes, patella, implant, interligne et polyéthylène, interface, parties molles) ; le scanner, l'échographie et l'IRM complètent.
+> [!abstract] L'essentiel
+> **Prothèse douloureuse : clichés de qualité, en charge, dynamiques et comparés aux antérieurs, lus en 6 points** : axes, patella, implant, interligne/polyéthylène, interface, os et parties molles.
+
+> [!success] À retenir
+> 1. **Malposition initiale** = 1re cause de descellement (**27 %** des douleurs) : vérifier axes en charge, pente tibiale **0-7°**, rotation au scanner.
+> 2. Liseré **< 2 mm, régulier, non évolutif** = physiologique ; liseré évolutif, flou, multi-compartimental ou apposition périostée → **infection / descellement**, toujours en **rayon tangent** (3/4 de Miura, scopie).
+> 3. Laxité = **clichés en stress en extension et en flexion** ; fracture de contrainte périprothétique visible seulement sur clichés à **3 puis 6 semaines**.
+
+## Images clés
+![Liseré clair périprothétique tibial physiologique : fin (< 2 mm), régulier et non évolutif entre 2013 et 2017](../../img/2017/K2nqqe7unDQ-1.jpg) [▶ 6:15](https://www.youtube.com/watch?v=K2nqqe7unDQ&t=375s)
+![Interface os-prothèse : liseré large et évolutif sous le plateau tibial avec enfoncement de l'implant, signant un descellement](../../img/2017/K2nqqe7unDQ-2.jpg) [▶ 7:19](https://www.youtube.com/watch?v=K2nqqe7unDQ&t=439s)
+![Os périprothétique : fracture de contrainte du plateau tibial médial apparaissant à 3 puis 6 semaines (flèche), invisible à J1](../../img/2017/K2nqqe7unDQ-3.jpg) [▶ 8:35](https://www.youtube.com/watch?v=K2nqqe7unDQ&t=515s)
 
 ## Points clés
 - **Objectifs chirurgicaux** : prothèse unicompartimentale = ne pas surcorriger (usure du compartiment opposé) ; PTG = axe proche de la normale et équilibre ligamentaire en flexion et en extension.

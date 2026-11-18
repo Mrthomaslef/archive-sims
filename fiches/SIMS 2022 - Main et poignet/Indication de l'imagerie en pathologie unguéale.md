@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ongle-indications]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (dermatologue, prénommée « Sophie » par les orateurs suivants)"
+orateur: "Sophie Goettmann-Bonvallot"
 video: https://www.youtube.com/watch?v=21FIzmGtDvE
 duree: 14 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Indication de l'imagerie en pathologie unguéale
 
-> [!abstract] En une phrase
-> La pathologie unguéale est clinique dans 90 % des cas ; l'imagerie (radiographie d'abord, IRM et échographie de façon sélective) sert au doute diagnostique devant un processus expansif sous-unguéal, au bilan préopératoire des grosses tumeurs, au carcinome épidermoïde, aux séquelles traumatiques réparables, aux malformations et au psoriasis.
+> [!abstract] L'essentiel
+> **L'ongle est clinique à 90 % : radiographie d'abord, IRM sélective (≥ 1,5 T, antenne dédiée) pour un processus expansif sous-unguéal douteux** ou un bilan préopératoire.
+
+> [!success] À retenir
+> 1. Signes de **processus expansif sous-unguéal** : macrolunule, ongle en pince, hypercourbure, gouttière longitudinale → imagerie si diagnostic incertain.
+> 2. **Radiographie** suffisante pour l'**exostose sous-unguéale** (ado, gros orteil) et **indispensable** dans le **carcinome épidermoïde** (os normal → exérèse sans amputation).
+> 3. IRM : **glomique** atypique ou volumineuse, **kyste mucoïde sous-matriciel**, **onychomatricome**, kyste épidermique (exérèse complète), séquelles traumatiques réparables ; ligne rouge sans kératose distale → mélanome achromique.
+
+## Images clés
+![Tumeur glomique sous-unguéale : nodule de 2 mm en hypersignal du lit unguéal en IRM, diagnostic d'abord clinique (douleur au froid et à la pression)](../../img/2022/21FIzmGtDvE-1.jpg) [▶ 5:48](https://www.youtube.com/watch?v=21FIzmGtDvE&t=348s)
+![Onychomatricome : tablette épaissie et IRM montrant les digitations de la tumeur logées dans les logettes de la tablette](../../img/2022/21FIzmGtDvE-2.jpg) [▶ 7:28](https://www.youtube.com/watch?v=21FIzmGtDvE&t=448s)
+![Conclusion : indications sélectives, radiographie standard d'abord, pas d'IRM systématique, IRM ≥ 1,5 T avec antenne de qualité](../../img/2022/21FIzmGtDvE-3.jpg) [▶ 13:15](https://www.youtube.com/watch?v=21FIzmGtDvE&t=795s)
 
 ## Points clés
 - Matrice et lit reposent directement sur la phalange : clé de l'interprétation des signes cliniques.

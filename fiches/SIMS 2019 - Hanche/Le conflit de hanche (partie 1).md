@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, conflit-femoro-acetabulaire, clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Pierre-Alain Buchard (Clinique romande de réadaptation, Sion)"
 video: https://www.youtube.com/watch?v=eKYUou2B5PI
 duree: 5 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit de hanche (partie 1)
 
-> [!abstract] En une phrase
-> Volet clinique : le conflit fémoro-acétabulaire (came, pince, souvent associés) touche l'adulte jeune exposé à des flexions-rotations forcées. Il se manifeste par des douleurs antérieures insidieuses, qu'un test FADIR très sensible reproduit.
+> [!abstract] L'essentiel
+> **Conflit fémoro-acétabulaire = adulte jeune (20-45 ans), douleur antérieure insidieuse en flexion-rotation** : came, pince, souvent associées.
+
+> [!success] À retenir
+> 1. Topographie : douleur **inguinale dans 88 %** des cas, mais aussi latérale (**67 %**), fessière, cuisse ou genou → ne pas l'écarter sur une douleur atypique.
+> 2. **FADIR** (flexion-adduction-rotation interne) : très **sensible** mais peu spécifique ; **FABER** : asymétrie significative si ≈ **3 cm**.
+> 3. Terrain : sports en flexion-rotation forcée (arts martiaux, escrime, hockey, tennis), douleur au relever du canapé et en position assise prolongée.
+
+## Images clés
+![Topographie de la douleur du conflit fémoro-acétabulaire : aine 88 %, face latérale de hanche 67 %, cuisse antérieure 35 %, genou 27 % (Clohisy 2009)](../../img/2019/eKYUou2B5PI-1.jpg) [▶ 2:18](https://www.youtube.com/watch?v=eKYUou2B5PI&t=138s)
+![Test FABER (position du 4) : provocation de la douleur et mesure de la limitation fonctionnelle par rapport au côté sain](../../img/2019/eKYUou2B5PI-2.jpg) [▶ 3:20](https://www.youtube.com/watch?v=eKYUou2B5PI&t=200s)
 
 ## Points clés
 - Définition : empiètement d'une structure anatomique sur une autre. À la hanche, le conflit se développe à la partie **antérieure** de l'articulation.

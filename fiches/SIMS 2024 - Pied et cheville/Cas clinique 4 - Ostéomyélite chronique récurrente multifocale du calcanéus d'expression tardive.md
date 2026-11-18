@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, ocrm-sapho, cas-clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Thibault Willaume"
 video: https://www.youtube.com/watch?v=yFnclpcsqaM
 duree: 7 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Cas clinique 4 - Ostéomyélite chronique récurrente multifocale du calcanéus d'expression tardive
 
-> [!abstract] En une phrase
-> Talalgie chronique d'un adulte jeune avec œdème calcanéen étendu, ostéosclérose floue, hyperostose et hypertrophie osseuse : spectre OCRM/SAPHO, ici une OCRM d'expression tardive confirmée par biopsie.
+> [!abstract] L'essentiel
+> **Œdème calcanéen extensif + ostéosclérose floue + hyperostose + hypertrophie osseuse d'évolution lente : penser OCRM/SAPHO**, même chez l'adulte jeune.
+
+> [!success] À retenir
+> 1. Triade : **ostéite** (œdème extensif, sclérose « floue »), **hyperostose** (enthésophyte de l'aponévrose plantaire, périostite floue), **hypertrophie osseuse** vs controlatéral.
+> 2. Pas de **nidus**, pas d'**abcès** ni de collection → éliminer ostéome ostéoïde et ostéomyélite ; **scintigraphie corps entier** pour d'autres foyers.
+> 3. Rechercher acné sévère / pustulose palmoplantaire ; site unique → **biopsie** (ostéite aseptique) avant de conclure.
+
+## Images clés
+![IRM T2 FS et T1 : œdème osseux étendu du calcanéus sans lésion ligamentaire ni collection des parties molles](../../img/2024/yFnclpcsqaM-1.jpg) [▶ 0:24](https://www.youtube.com/watch?v=yFnclpcsqaM&t=24s)
+![Scintigraphie et TEMP-TDM : hyperfixation isolée et intense du calcanéus avec ostéosclérose floue et hypertrophie osseuse par rapport au côté sain](../../img/2024/yFnclpcsqaM-2.jpg) [▶ 2:19](https://www.youtube.com/watch?v=yFnclpcsqaM&t=139s)
+![Sémiologie OCRM/SAPHO : ostéite (œdème, sclérose floue), hyperostose (enthésophyte de l'aponévrose plantaire, périostite floue) et hypertrophie osseuse d'évolution lente](../../img/2024/yFnclpcsqaM-3.jpg) [▶ 4:52](https://www.youtube.com/watch?v=yFnclpcsqaM&t=292s)
 
 ## Points clés
 - **Cas** : homme de 27 ans, talalgie d'horaire mixte depuis 6 mois. Antécédents : entorse de cheville un an plus tôt, traitement pour acné sévère.

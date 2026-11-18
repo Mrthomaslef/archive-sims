@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, mpr, inegalite-longueur]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (médecin de médecine physique et de réadaptation)"
+orateur: "François Segretin (Médecine physique et de réadaptation, Hôpital Cochin, Paris)"
 video: https://www.youtube.com/watch?v=LnkaKo3j0oo
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prise en charge médicale des déséquilibres pelviens
 
-> [!abstract] En une phrase
-> Le médecin de MPR aborde un déséquilibre pelvien par une démarche standardisée : contexte, plan, cause haute, pelvienne ou basse, caractère statique ou dynamique. Le traitement est individualisé et réévalué : rééducation, appareillage, compensation progressive d'une inégalité de longueur, surtout au-delà de 2 cm.
+> [!abstract] L'essentiel
+> **Bassin oblique : toujours préciser la cause, haute (rachis), articulaire (hanche) ou basse (inégalité de longueur)** ; un bassin de face seul est **insuffisant**, l'EOS tranche.
+
+> [!success] À retenir
+> 1. **EOS rachis + membres inférieurs** : distinguer inégalité **anatomique** (mesure segmentaire) et **fonctionnelle**, et une fausse inégalité de scoliose primitive.
+> 2. Compensation : quasi systématique **> 2 cm**, toujours chez l'enfant, avis chirurgical **> 6 cm** ; progressive (≈ **50 %** de la perte), puis réévaluer.
+> 3. Conflit fémoro-acétabulaire : **tilt pelvien antérieur dynamique** → rééducation en rétroversion (abdominaux, ischio-jambiers, fessiers).
+
+## Images clés
+![Causes de bassin oblique (hanche, rachis, inégalité de longueur anatomique ou fonctionnelle) : intérêt de l'EOS rachis et membres inférieurs, le bassin de face seul est insuffisant](../../img/2019/LnkaKo3j0oo-1.jpg) [▶ 7:15](https://www.youtube.com/watch?v=LnkaKo3j0oo&t=435s)
+![Inégalité vraie de 23 mm après fracture du fémur droit : obliquité pelvienne avec scoliose lombaire secondairement structuralisée (cause basse)](../../img/2019/LnkaKo3j0oo-2.jpg) [▶ 8:28](https://www.youtube.com/watch?v=LnkaKo3j0oo&t=508s)
 
 ## Points clés
 - Le pelvis est un carrefour de transmission des contraintes. Pour un coût énergétique minimal à la marche, le centre de gravité doit se projeter entre le centre des têtes fémorales et le milieu du plateau sacré.
@@ -26,7 +35,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
   5. objectifs individualisés et réévalués, ou abstention.
 - **Conflit fémoro-acétabulaire** : à l'antéflexion du tronc, ces patients fléchissent davantage la hanche que le rachis lombaire (tilt pelvien antérieur dynamique). La rééducation vise la proprioception et le contrôle neuromoteur du bassin, l'assouplissement des fléchisseurs de hanche et le recrutement des muscles rétroverseurs (abdominaux, ischio-jambiers, fessiers) pour diminuer le conflit antérieur.
 - Cas d'une scoliose thoraco-lombaire droite (gibbosité) : le bassin oblique relève d'une cause haute avec **fausse inégalité de longueur**. On propose une rééducation lombaire et, si besoin, un appareillage du tronc plutôt que des semelles.
-- Cas d'une femme de 71 ans, lombalgique, aux antécédents d'accident de la voie publique avec perte de substance osseuse : inégalité vraie de 23 mm et scoliose secondairement structuralisée. La cause est basse ; une correction au-delà de 5 mm a été mal tolérée.
+- Cas d'une femme de 71 ans, lombalgique, aux antécédents de fracture du fémur droit à 23 ans (accident de la voie publique) : inégalité vraie de 23 mm et scoliose secondairement structuralisée. La cause est basse ; une correction au-delà de 5 mm a été mal tolérée.
 
 ## Sémiologie et technique d'imagerie
 - Le clinicien mesure mal l'antéversion pelvienne : les paramètres pelviens radiologiques (pente sacrée, version pelvienne, bascule acétabulaire) sont précieux.

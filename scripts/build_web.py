@@ -48,9 +48,10 @@ for d in sorted(p for p in FICHES.iterdir() if p.is_dir()):
             "duree": meta.get("duree", ""),
             "video": meta.get("video", "").split()[0] if meta.get("video") else "",
             "videos": list(dict.fromkeys(doublon)),
-            "resume": resume.group(1).strip() if resume else "",
+            "resume": resume.group(1).replace("**", "").strip() if resume else "",
             "tags": [t for t in tags if t not in ("sims", "congres-sims")],
             "voir": [v for v in voir if not v.endswith("- Index")],
+            "thumb": (re.search(r"!\[[^\]]*\]\((?:\.\./)*(img/[^)\s]+)\)", body) or [None, ""])[1],
             "md": body,
         })
     congres.append({"annee": year, "theme": theme, "fiches": items})

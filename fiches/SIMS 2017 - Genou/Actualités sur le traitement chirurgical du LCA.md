@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, chirurgie-lca]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Eric Choudja Ouabo (Centre Orthopédique Santy, Lyon)"
 video: https://www.youtube.com/watch?v=3Jn0mMXbmhw
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Actualités sur le traitement chirurgical du LCA
 
-> [!abstract] En une phrase
-> La chirurgie du LCA évolue vers la préservation du moignon, la réparation systématique des lésions de la rampe méniscale et la reconstruction combinée LCA + ligament antérolatéral chez les patients à risque, qui divise le taux de re-rupture.
+> [!abstract] L'essentiel
+> **Chez le jeune pivoteur, LCA + ligament antérolatéral divise par 2,5 à 3 le risque de re-rupture** : et toute lésion de la rampe méniscale doit être cherchée puis suturée.
+
+> [!success] À retenir
+> 1. **Lésion de la rampe** (corne postérieure du ménisque médial) dans **9 à 17 %** des ruptures du LCA, **≈ 20 % cachées** à l'arthroscopie antérieure → la chercher activement en IRM.
+> 2. Facteurs de risque de re-rupture à signaler : **âge < 20 ans**, sport pivot en compétition, **encoche condylienne latérale profonde** (*lateral notch sign*), ressaut explosif → indication de **LCA + LAL**.
+> 3. **Moignon du LCA** (vascularisé, mécanorécepteurs) préservable (technique SAMBA) : décrire sa présence et son aspect.
+
+## Images clés
+![Lésion de la rampe en IRM : hypersignal liquidien à la jonction ménisco-capsulaire de la corne postérieure du ménisque médial, sagittal et axial DP FS](../../img/2017/3Jn0mMXbmhw-1.jpg) [▶ 6:23](https://www.youtube.com/watch?v=3Jn0mMXbmhw&t=383s)
+![Lésion de la rampe en arthroscopie (« Bankart du genou ») : désinsertion ménisco-capsulaire postéro-médiale visible seulement par exploration de la gouttière postérieure](../../img/2017/3Jn0mMXbmhw-2.jpg) [▶ 7:37](https://www.youtube.com/watch?v=3Jn0mMXbmhw&t=457s)
+![Ligament antérolatéral : dissection anatomique et principe de la reconstruction combinée LCA + LAL](../../img/2017/3Jn0mMXbmhw-3.jpg) [▶ 4:33](https://www.youtube.com/watch?v=3Jn0mMXbmhw&t=273s)
 
 ## Points clés
 - Les progrès en anatomie, biomécanique et biologie du LCA ont conduit au double faisceau, aux reconstructions sélectives d'un faisceau puis à la **préservation complète du moignon**.

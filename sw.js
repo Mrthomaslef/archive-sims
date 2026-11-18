@@ -1,5 +1,5 @@
 // Réseau d'abord (mises à jour visibles immédiatement), cache en secours hors-ligne.
-const CACHE = 'archive-sims-v2';
+const CACHE = 'archive-sims-v3';
 const CORE = ['./', 'index.html', 'app/embedded_data.js', 'manifest.webmanifest', 'assets/icon.svg', 'assets/icon-192.png', 'assets/icon-512.png'];
 self.addEventListener('install', e => { self.skipWaiting(); e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE))); });
 self.addEventListener('activate', e => e.waitUntil(

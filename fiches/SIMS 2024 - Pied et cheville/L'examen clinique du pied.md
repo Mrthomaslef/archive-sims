@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, examen-clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "Dr Nazim Mehdi (chirurgien orthopédiste, Toulouse)"
+orateur: "Nazim Mehdi (Clinique de l'Union, Toulouse) et coll."
 video: https://www.youtube.com/watch?v=YHP7cY3INbQ
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # L'examen clinique du pied
 
-> [!abstract] En une phrase
-> Inspection, interrogatoire, palpation et mobilisation guidés par le bon sens suffisent à orienter la plupart des pathologies du pied ; une anomalie indolore n'est qu'un particularisme, seule l'anomalie douloureuse est pathologique.
+> [!abstract] L'essentiel
+> **Une anomalie indolore n'est qu'un particularisme, seule l'anomalie douloureuse est pathologique** : l'imagerie doit répondre à la question clinique, pas décrire des angles.
+
+> [!success] À retenir
+> 1. **Morton = 3e espace** (99 %) : palper bidigital + manœuvre de **Mulder** ; douleur de MTP2 avec hallux valgus = **bursite ou plaque plantaire**, pas un Morton.
+> 2. Rupture du tendon calcanéen = **triade** (perte de l'équin physiologique, **Thompson**, perte du relief) ; les ruptures partielles « n'existent pas » pour l'orateur.
+> 3. Toute arthropathie **sous-talienne** fait mal au **sinus du tarse** : sinus indolore → douter du diagnostic ; exception à la règle : pied neurologique (**Charcot**).
+
+## Images clés
+![Rayons latéraux : palper bidigital de l'espace intercapitométatarsien et manœuvre de Mulder pour le névrome de Morton (3e espace)](../../img/2024/YHP7cY3INbQ-1.jpg) [▶ 4:34](https://www.youtube.com/watch?v=YHP7cY3INbQ&t=274s)
+![Tendon calcanéen : rupture (perte de l'équin physiologique, triade avec Thompson et relief) vs tendinopathie corporéale (empâtement douloureux)](../../img/2024/YHP7cY3INbQ-2.jpg) [▶ 7:56](https://www.youtube.com/watch?v=YHP7cY3INbQ&t=476s)
 
 ## Points clés
 - L'examen clinique fait économiser du temps et des examens inutiles (piles d'IRM, scintigraphies, échographies parfois nuisibles).

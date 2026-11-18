@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, entorses-doigt]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (chirurgien de la main)"
+orateur: "Jean-Claude Rouzaud"
 video: https://www.youtube.com/watch?v=YIZ1XeAHcIU
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prise en charge médicale des entorses du doigt
 
-> [!abstract] En une phrase
-> Il n'y a pas d'entorse bénigne du doigt : l'équipe de l'orateur immobilise brièvement les MCP et IPP en extension stricte avec mobilisation précoce, l'échographie étant l'examen clé pour l'effet Stener du pouce, indication chirurgicale formelle.
+> [!abstract] L'essentiel
+> **Pas d'entorse bénigne du doigt : radio pour l'arrachement, échographie pour l'effet Stener du pouce, immobilisation courte en extension puis mobilisation précoce.**
+
+> [!success] À retenir
+> 1. Pouce du skieur : **effet Stener** (LCU interposé sous l'aponévrose de l'adducteur) → **échographie** = examen de choix, **indication chirurgicale**.
+> 2. IPP : attelle en **extension stricte ≤ 10 jours** (nocturne la 2e semaine), suivi radiographique hebdomadaire ; défaut d'extension **> 30°** persistant → orthèse dynamique (Capener).
+> 3. **Luxation palmaire de l'IPP** = arrachement de la **bandelette médiane** (base de P2) : pas une entorse, **chirurgie obligatoire** ; arrachement de la plaque palmaire à chercher sur le profil strict.
+
+## Images clés
+![Effet Stener : le ligament collatéral ulnaire de la MCP du pouce, rompu, s'interpose au-dessus de l'aponévrose de l'adducteur — diagnostic échographique, indication opératoire](../../img/2022/YIZ1XeAHcIU-1.jpg) [▶ 3:21](https://www.youtube.com/watch?v=YIZ1XeAHcIU&t=201s)
+![Profil de l'IPP : petit arrachement osseux palmaire de la base de P2 (flèche) témoignant d'une avulsion de la plaque palmaire](../../img/2022/YIZ1XeAHcIU-2.jpg) [▶ 10:46](https://www.youtube.com/watch?v=YIZ1XeAHcIU&t=646s)
+![Luxation palmaire de l'IPP : arrachement de la bandelette médiane de l'extenseur à la base de P2, traitement chirurgical obligatoire](../../img/2022/YIZ1XeAHcIU-3.jpg) [▶ 11:58](https://www.youtube.com/watch?v=YIZ1XeAHcIU&t=718s)
 
 ## Points clés
 - **MCP** : flexion-extension et rotation ; en flexion, le faisceau principal du ligament collatéral se tend et verrouille la rotation ; en extension, latéralités plus importantes côté ulnaire que radial. Plaque palmaire épaisse ; verrouillage tendineux dorsal par les **bandelettes sagittales**, dont la rupture peut se réparer chirurgicalement.

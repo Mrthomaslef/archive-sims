@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, turf-toe, cas-clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Paul-Alexis Ranc (CHU de Nice) et coll."
 video: https://www.youtube.com/watch?v=lUchloH6tck
 duree: 5 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Cas clinique 3 - Turf toe et instabilité métatarsophalangienne du premier rayon chez un adolescent
 
-> [!abstract] En une phrase
-> Un turf toe de grade 2 associé à une rupture du ligament collatéral médial, insuffisamment immobilisé chez un adolescent sportif, a évolué vers une instabilité chronique de la première MTP avec géodes : l'immobilisation doit être adaptée au bilan lésionnel initial.
+> [!abstract] L'essentiel
+> **Turf toe + rupture du collatéral médial sous-traités = instabilité chronique de la 1re MTP et arthropathie précoce** : le bilan lésionnel initial doit dicter l'immobilisation.
+
+> [!success] À retenir
+> 1. IRM après hyperextension de la 1re MTP : analyser **séparément** plaque plantaire, ligaments **sésamoïdo-phalangiens**, sésamoïdo-métatarsiens, **collatéraux** et œdème sésamoïdien/céphalique → grader le turf toe.
+> 2. Un ligament cicatrisé **épais et hypertrophique ≠ ligament compétent** ; lésion plantaire moins visible ≠ guérie.
+> 3. Contrôle : **échographie dynamique comparative** pour démasquer la **laxité** ; chercher géodes et amincissement cartilagineux de la tête de M1.
+
+## Images clés
+![IRM initiale (T2 FS sagittal, coronal, axial) : lésion du complexe plantaire et du ligament sésamoïdo-phalangien médial, rupture du collatéral médial et œdème du sésamoïde médial (flèches)](../../img/2024/lUchloH6tck-1.jpg) [▶ 1:10](https://www.youtube.com/watch?v=lUchloH6tck&t=70s)
+![IRM à un an : géodes de la tête de M1, collatéral médial cicatrisé de façon hypertrophique avec hypersignal persistant à l'insertion (flèches)](../../img/2024/lUchloH6tck-2.jpg) [▶ 2:45](https://www.youtube.com/watch?v=lUchloH6tck&t=165s)
+![Échographie à un an : collatéral médial épaissi et hétérogène, séquelle d'arrachement de la tête de M1 et solution de continuité persistante du fibrocartilage plantaire (flèches)](../../img/2024/lUchloH6tck-3.jpg) [▶ 3:23](https://www.youtube.com/watch?v=lUchloH6tck&t=203s)
 
 ## Points clés
 - **Cas** : adolescent de 14 ans, judoka de haut niveau, sans antécédent. Douleur de la base de l'hallux après propulsion sur le pied en **hyperextension de la 1re métatarsophalangienne** lors d'un combat. Adressé pour IRM par les médecins du sport.

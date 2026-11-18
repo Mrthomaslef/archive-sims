@@ -12,8 +12,13 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les pathologies épiphysaires du genou : œdème extensif du condyle fémoral
 
-> [!abstract] En une phrase
-> Derrière un œdème extensif du condyle fémoral se cachent quatre entités formant un continuum (œdème régional transitoire, fissure sous-chondrale, lésion intermédiaire, nécrose focale) que l'IRM distingue par l'analyse de la plaque sous-chondrale, afin de mettre l'os en décharge avant l'irréversibilité.
+> [!abstract] L'essentiel
+> **Œdème extensif du condyle : c'est la plaque sous-chondrale qui fait le diagnostic et le pronostic** : continuum œdème transitoire → fissure → lésion intermédiaire → nécrose, à mettre en décharge avant l'irréversible.
+
+> [!success] À retenir
+> 1. **Plaque vierge** = œdème régional transitoire ; **ligne hypoT2 cernée d'œdème** = fissure sous-chondrale (chercher **fissure radiaire de la corne postérieure + extrusion**).
+> 2. Lésion intermédiaire : épaisseur sagittale **> 4 mm = défavorable**, **< 4 mm = potentiellement réversible**.
+> 3. **Perte de sphéricité** condylienne = nécrose focale irréversible → dissection, arthrose ; sinon **décharge partielle**.
 
 ## Points clés
 - Point commun : œdème de tout le condyle dans le plan frontal, de la plaque sous-chondrale à la métaphyse ; c'est la **plaque sous-chondrale** qui fait le diagnostic et le pronostic.

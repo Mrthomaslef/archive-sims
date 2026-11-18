@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, cbct-en-charge]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (chirurgien orthopédiste ; prénom « François » cité par un autre orateur)"
+orateur: "François Lintz (Union Cheville Pied, Clinique de l'Union, Toulouse) et coll."
 video: https://www.youtube.com/watch?v=-TzkhSZEkxc
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Apports du cone beam en charge dans le pied et la cheville
 
-> [!abstract] En une phrase
-> Le CBCT orthopédique n'est pas un « scanner en charge » de niche mais une radiographie 3D isotrope, appelée à remplacer la radiographie 2D, y compris en traumatologie, et que les radiologues doivent s'approprier.
+> [!abstract] L'essentiel
+> **Le cone beam en charge est une radiographie 3D isotrope à dose de radio standard** : il a vocation à remplacer la radio 2D en première ligne, y compris aux urgences.
+
+> [!success] À retenir
+> 1. Résolution **0,25-0,37 mm**, acquisition **≈ 30 s**, dose ≈ bilan radiographique ; os oui, parties molles non (IRM/écho restent nécessaires).
+> 2. **Pied plat** : seule imagerie montrant la **subluxation péritalienne** (facette médiale sous-talienne) et les conflits sinusien/sous-fibulaire en charge → à écrire dans le CR.
+> 3. Traumatologie : CBCT d'emblée = **−25 % de temps** aux urgences et **−50 % d'irradiation** vs radio puis scanner ; seuils 3D ≠ seuils 2D.
+
+## Images clés
+![Cone beam en charge, coupe coronale : subluxation de la facette médiale de la sous-talienne (flèche), marqueur de subluxation péritalienne du pied plat ; acquisition statique ou en stress](../../img/2024/-TzkhSZEkxc-1.jpg) [▶ 4:52](https://www.youtube.com/watch?v=-TzkhSZEkxc&t=292s)
+![Traumatologie en cone beam d'emblée : fracture de la malléole postérieure (flèche) visible en reconstruction sagittale](../../img/2024/-TzkhSZEkxc-2.jpg) [▶ 8:09](https://www.youtube.com/watch?v=-TzkhSZEkxc&t=489s)
 
 ## Points clés
 - Évolution comparable au dentaire (CBCT fin des années 1990, essor dans les années 2000).

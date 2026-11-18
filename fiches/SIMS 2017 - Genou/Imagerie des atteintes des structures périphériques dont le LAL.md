@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie des atteintes des structures périphériques dont le LAL
 
-> [!abstract] En une phrase
-> Les lésions des structures périphériques médiales et latérales du genou, souvent associées au pivot central, doivent être identifiées précocement pour limiter l'instabilité résiduelle et planifier une reconstruction spécifique ; l'IRM en fait le bilan exhaustif.
+> [!abstract] L'essentiel
+> **Toute entorse grave du genou = bilan périphérique structure par structure, pas seulement le pivot central** : une lésion périphérique méconnue fait l'instabilité résiduelle et la gonarthrose.
+
+> [!success] À retenir
+> 1. **LCT** : grade 1 œdème sans interruption, 2 rupture partielle (plan profond), 3 rupture complète ; rechercher **semi-membraneux distal** et **ligament oblique postérieur** (point d'angle postéro-médial).
+> 2. Atteinte du **LCF** ou **avulsion de la styloïde fibulaire** → lésion étendue du **point d'angle postérolatéral** (poplité, poplitéo-fibulaire) : haut risque d'instabilité.
+> 3. **LAL** : rompu dans jusqu'à **1/3** des ruptures aiguës du LCA (avulsion tibiale type Segond ou lésion ligamentaire) ; ne pas confondre la **bourse du poplité** avec une lésion capsulaire.
+
+## Images clés
+![Ligament collatéral tibial en IRM DP FS coronale : grades I (œdème périligamentaire), II (rupture partielle) et III (rupture complète)](../../img/2017/-7gnXo164uw-1.jpg) [▶ 1:45](https://www.youtube.com/watch?v=-7gnXo164uw&t=105s)
+![Complexe musculo-tendineux poplité en IRM : œdème et lésion à la jonction myotendineuse, à rechercher systématiquement en cas d'atteinte du LCF ou du LCA](../../img/2017/-7gnXo164uw-2.jpg) [▶ 5:42](https://www.youtube.com/watch?v=-7gnXo164uw&t=342s)
+![Ligament antérolatéral en IRM coronale : avulsion tibiale (tête de flèche) et atteinte ligamentaire, associées à la rupture du LCA](../../img/2017/-7gnXo164uw-3.jpg) [▶ 7:38](https://www.youtube.com/watch?v=-7gnXo164uw&t=458s)
 
 ## Points clés
 - Région **médiale** : s'oppose au valgus, participe au contrôle rotatoire et limite la translation tibiale sagittale.

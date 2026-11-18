@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, hernie-inguinale, échographie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (équipe de la Pitié-Salpêtrière)"
+orateur: "Quentin Monzani (Hôpital Pitié-Salpêtrière, Paris) et coll."
 video: https://www.youtube.com/watch?v=o4VSEBU68OM
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Échographie des hernies de l'aine
 
-> [!abstract] En une phrase
-> Devant une douleur inguinale inexpliquée à radiographies normales, explorer systématiquement les orifices herniaires en échographie sur deux coupes de référence avec manœuvre de poussée, en distinguant hernie vraie et insuffisance pariétale du sportif.
+> [!abstract] L'essentiel
+> **Douleur inguinale à radiographies normales = échographie dynamique des orifices herniaires en poussée** : situer la hernie par rapport à l'artère épigastrique inférieure et au ligament inguinal.
+
+> [!success] À retenir
+> 1. **2 coupes de référence** : orifice fémoral (artère, veine, pectiné) et orifice inguinal (vaisseaux fémoraux, **artère épigastrique inférieure**, droit de l'abdomen), toujours **en poussée**.
+> 2. Latérale à l'artère épigastrique = **indirecte** ; médiale = **directe** ; sous le ligament inguinal, médiale à la veine fémorale qu'elle comprime = **fémorale** ; mesurer le **collet**.
+> 3. Pubalgie pariétale du sportif : **orifice inguinal > 2 cm** et protrusion du **tissu prépéritonéal** en poussée, sans péritoine = **pas une hernie**.
+
+## Images clés
+![Coupe de référence de l'orifice inguinal : vaisseaux fémoraux, artère épigastrique inférieure (flèche) et droit de l'abdomen alignés](../../img/2019/o4VSEBU68OM-1.jpg) [▶ 4:12](https://www.youtube.com/watch?v=o4VSEBU68OM&t=252s)
+![Hernie fémorale : sac herniaire sous le ligament inguinal, médial à la veine fémorale qu'il refoule](../../img/2019/o4VSEBU68OM-2.jpg) [▶ 5:20](https://www.youtube.com/watch?v=o4VSEBU68OM&t=320s)
+![Insuffisance pariétale du sportif : orifice inguinal élargi > 2 cm et protrusion en poussée du tissu prépéritonéal (TPP) médialement aux vaisseaux épigastriques](../../img/2019/o4VSEBU68OM-3.jpg) [▶ 7:39](https://www.youtube.com/watch?v=o4VSEBU68OM&t=459s)
 
 ## Points clés
 - **Hernie** : issue d'un contenu abdominal recouvert de péritoine par un orifice naturel.

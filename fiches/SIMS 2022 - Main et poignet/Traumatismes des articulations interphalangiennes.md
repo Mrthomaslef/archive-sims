@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, interphalangiennes]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Catherine Cyteval"
 video: https://www.youtube.com/watch?v=j7seCBe-JTw
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Traumatismes des articulations interphalangiennes
 
-> [!abstract] En une phrase
-> Pour les traumatismes des IPP et IPD, la radiographie en trois incidences reste centrale (arrachements, subluxations, rotation) ; l'échographie explore les appareils extenseur et fléchisseur, l'IRM est réservée aux cas difficiles, notamment pour situer la rétraction d'un jersey finger.
+> [!abstract] L'essentiel
+> **Traumatisme IP : radiographies face + profil + 3/4 d'abord (arrachement, subluxation, rotation), échographie pour extenseur et fléchisseur, IRM pour les cas difficiles** ; ne pas rater le jersey finger.
+
+> [!success] À retenir
+> 1. Fracture-luxation de l'IPP : chirurgie si **fragment articulaire > 30 %** avec incongruence ; chercher le **signe du V** (réduction imparfaite).
+> 2. **Mallet finger** : chirurgie si fragment **> 1/3** de la surface articulaire avec subluxation ; sinon attelle en extension (risque de **col de cygne**).
+> 3. **Jersey finger** méconnu dans **50 %** des cas, traitement toujours chirurgical : préciser le **niveau de rétraction du fléchisseur profond** (IRM si zone 2) et la taille du fragment.
+
+## Images clés
+![Fracture-luxation dorsale de l'IPP : arrachement du rebord palmaire de P2 (flèche) ; chirurgie si fragment > 30 % avec incongruence](../../img/2022/j7seCBe-JTw-1.jpg) [▶ 5:03](https://www.youtube.com/watch?v=j7seCBe-JTw&t=303s)
+![Mallet finger en échographie : rupture du tendon terminal de l'appareil extenseur à l'IPD, avec hyperhémie Doppler](../../img/2022/j7seCBe-JTw-2.jpg) [▶ 7:47](https://www.youtube.com/watch?v=j7seCBe-JTw&t=467s)
+![Jersey finger en IRM : rétraction du fléchisseur profond en zone 2, absent entre les languettes du fléchisseur superficiel sur les coupes axiales](../../img/2022/j7seCBe-JTw-3.jpg) [▶ 10:22](https://www.youtube.com/watch?v=j7seCBe-JTw&t=622s)
 
 ## Points clés
 - IPP et IPD : un seul degré de liberté (flexion-extension) ; l'IPP assure à elle seule environ 40 % de la flexion du doigt.
@@ -21,7 +31,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Appareil extenseur : bandelette médiane insérée sur la base de P2, bandelettes latérales réunies en tendon terminal sur la base de P3.
 - Fléchisseurs : fléchisseur profond sur P3, maintenu par les vincula courte et longue (rôle vasculaire) ; fléchisseur superficiel en deux languettes sur P2, laissant passer le profond.
 - **Entorses latérales** : 3e à 5e doigts, choc latéral indirect (ballon) doigt en extension ; traitement fonctionnel le plus souvent ; attention à un fragment d'arrachement volumineux. Angulation > 20° = rupture totale du ligament collatéral ; 15-20° : ruptures souvent partielles.
-- **Luxations** (surtout IPP dorsales, hyperextension + compression axiale) : réduction et immobilisation ; vigilance sur une réduction incomplète (incarcération d'une bandelette latérale) et sur le **signe du V** (réduction imparfaite). Fragment articulaire important ou incongruence = chirurgie.
+- **Luxations** (surtout IPP dorsales, hyperextension + compression axiale) : réduction et immobilisation ; vigilance sur une réduction incomplète (incarcération d'une bandelette latérale) et sur le **signe du V** (réduction imparfaite). Fragment articulaire > 30 % avec incongruence = chirurgie.
 - **Fractures** : 3 incidences obligatoires pour juger la rotation ; fractures instables souvent déplacées et chirurgicales ; scanner pour les fractures complexes de la base.
 - **Boutonnière** : choc dorsal sur P2, rupture de la bandelette médiane, hyperextension de l'IPD ; le chirurgien a besoin de l'imagerie surtout pour un fragment de la base de P2 ; sinon immobilisation de l'IPP avec exercices de flexion de l'IPD.
 - **Mallet finger** : choc axial au bout du doigt, rupture du tendon terminal ; forme tendineuse (interruption ou simple hyperhémie) ou osseuse ; chirurgie si fragment > 1/3 de la surface articulaire et subluxation ; sans traitement, évolution en col de cygne avec arthrose précoce.

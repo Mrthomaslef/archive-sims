@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, conflit-ischiofémoral, carré-fémoral]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Guillaume Lefebvre (CHRU de Lille)"
 video: https://www.youtube.com/watch?v=4IwUF8F2b0s
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,19 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit ischiofémoral en 2019
 
-> [!abstract] En une phrase
-> Le conflit ischiofémoral associe pincement de l'espace ischiofémoral et souffrance du carré fémoral, mais mesures et œdème sont peu spécifiques : il faut maîtriser la rotation à l'acquisition, être rigoureux, moins segmentaire, plus dynamique et toujours confronter à la clinique.
+> [!abstract] L'essentiel
+> **Conflit ischiofémoral = espace ischiofémoral rétréci + œdème du carré fémoral + clinique compatible** : jamais sur une mesure isolée.
+
+> [!success] À retenir
+> 1. IRM **axiale + sagittale** : œdème/bursite puis involution graisseuse du **carré fémoral**, rapport au **nerf sciatique** ; comparer au côté sain.
+> 2. Mesures (espace ischiofémoral, espace du carré fémoral) très dépendantes de la **rotation du membre** à l'acquisition → préciser la position.
+> 3. Chercher une cause : **ostéochondrome, lipome, enthésopathie ischio-jambière, coxa valga** ; infiltration scanno/écho-guidée **diagnostique et thérapeutique**.
+
+## Images clés
+![IRM axiale T2 FS : œdème du muscle carré fémoral droit entre ischion et petit trochanter](../../img/2019/4IwUF8F2b0s-1.jpg) [▶ 2:23](https://www.youtube.com/watch?v=4IwUF8F2b0s&t=143s)
+![IRM axiale T1 : rétrécissement de l'espace ischiofémoral avec carré fémoral pincé entre ischion et petit trochanter](../../img/2019/4IwUF8F2b0s-2.jpg) [▶ 2:56](https://www.youtube.com/watch?v=4IwUF8F2b0s&t=176s)
+![Orientation étiologique : processus expansif des parties molles ou osseux (flèches) réduisant l'espace ischiofémoral](../../img/2019/4IwUF8F2b0s-3.jpg) [▶ 5:58](https://www.youtube.com/watch?v=4IwUF8F2b0s&t=358s)
+![Autres modalités : ostéochondrome sessile (radiographie, TDM) et repérage échographique du carré fémoral (CF) sous le grand glutéal, près du nerf sciatique](../../img/2019/4IwUF8F2b0s-4.jpg) [▶ 6:59](https://www.youtube.com/watch?v=4IwUF8F2b0s&t=419s)
 
 ## Points clés
 - **Définition** : réduction de l'espace entre le bord latéral de l'ischion et le petit trochanter, exposant le **carré fémoral** (qui l'occupe transversalement) et le **nerf sciatique** (qui le traverse verticalement).

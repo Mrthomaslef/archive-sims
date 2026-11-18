@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie des atteintes du pivot central
 
-> [!abstract] En une phrase
-> Le diagnostic de rupture du LCA est en général aisé en IRM, mais la caractérisation des ruptures partielles et des cicatrisations exige une technique optimisée (coupes obliques, 3D) et parfois une analyse fonctionnelle associée.
+> [!abstract] L'essentiel
+> **LCA rompu ou non : facile ; rupture partielle et cicatrisation : le vrai défi** → coupes sagittales obliques ou 3D, et corrélation laximétrique (GNRB).
+
+> [!success] À retenir
+> 1. Radio : **encoche condylienne latérale > 1,5 mm** ou **double encoche** = rupture du LCA (**spécificité 100 %**, sensibilité 17 %).
+> 2. **Signes indirects** (tiroir antérieur spontané, ménisque latéral découvert) = rupture **complète** ; horizontalisation/bombement distal évoquent plutôt une partielle.
+> 3. Pièges : **kyste mucoïde** « en tige de céleri » et ligament méniscofémoral antéromédial ; cicatrisation à typer selon **Crain** (type 1 sur le LCP **64 %**).
+
+## Images clés
+![Double encoche du condyle fémoral latéral (radio et IRM, flèche et tête de flèche) : signe de rupture du LCA, sensibilité 17 %, spécificité 100 %](../../img/2017/zUYVrGV8DQU-1.jpg) [▶ 2:58](https://www.youtube.com/watch?v=zUYVrGV8DQU&t=178s)
+![Kyste mucoïde du LCA : ligament épaissi en « tige de céleri » avec extension intra-osseuse, à ne pas confondre avec une rupture](../../img/2017/zUYVrGV8DQU-2.jpg) [▶ 6:46](https://www.youtube.com/watch?v=zUYVrGV8DQU&t=406s)
+![Cicatrisation de type 3 de Crain : moignon du LCA fixé sur la face médiale du condyle latéral (flèches), à décrire avant chirurgie de préservation](../../img/2017/zUYVrGV8DQU-3.jpg) [▶ 12:23](https://www.youtube.com/watch?v=zUYVrGV8DQU&t=743s)
 
 ## Points clés
 - LCA : faisceaux **antéromédial** et **postérolatéral** (nommés d'après leur insertion tibiale) ; insertion du postérolatéral près de la corne antérieure du ménisque latéral, en arrière du **tubercule de Parsons** (petite crête sous le ligament intermeniscal). Parallèles en extension, enroulés en flexion.

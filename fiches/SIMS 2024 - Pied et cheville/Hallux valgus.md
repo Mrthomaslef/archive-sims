@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, hallux-valgus]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "Mathieu Lalevée (chirurgien orthopédiste, CHU de Rouen ; nom transcrit « Mathieu Lal », orthographe à vérifier)"
+orateur: "Matthieu Lalevée (CHU Rouen Normandie) et coll."
 video: https://www.youtube.com/watch?v=Ip9Feb3Xhrw
 duree: 12 min
 date: 2026-11-18
@@ -12,15 +12,25 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Hallux valgus
 
-> [!abstract] En une phrase
-> La pronation du 1er métatarsien, issue d'une torsion intrinsèque de M1 et d'une malposition de la 1re cunéo-métatarsienne, fausse le DMAA et l'évaluation sésamoïdienne en radiographie dorso-plantaire et pourrait être à l'origine de la subluxation métatarso-sésamoïdienne de l'hallux valgus.
+> [!abstract] L'essentiel
+> **La pronation de M1 fausse la radio dorso-plantaire : DMAA surestimé et fausse subluxation sésamoïdienne** ; elle vient d'une torsion intrinsèque de M1 et de la TMT1.
+
+> [!success] À retenir
+> 1. Récidive après chirurgie fréquente : **HVA > 15° dans 44 %** à plus de 5 ans, souvent asymptomatique.
+> 2. **DMAA** : **25,9°** en radio vs **11,9°** en WBCT corrigé de la pronation (témoins **7,6° / 3,3°**) → rester prudent sur le DMAA radiographique.
+> 3. **Bord latéral arrondi de la tête de M1** = marqueur de pronation (≈ **90 %** des HV) ; vérifier le centrage réel des sésamoïdes en **incidence coronale ou WBCT**.
+
+## Images clés
+![Hallux valgus en charge de face : aspect arrondi du bord latéral de la tête de M1 et sésamoïdes apparemment subluxés, en réalité marqueurs de la pronation de M1](../../img/2024/Ip9Feb3Xhrw-1.jpg) [▶ 4:27](https://www.youtube.com/watch?v=Ip9Feb3Xhrw&t=267s)
+![DMAA surestimé en radiographie (25,9°) par rapport au WBCT corrigé de la pronation (11,9°) dans l'hallux valgus](../../img/2024/Ip9Feb3Xhrw-2.jpg) [▶ 6:02](https://www.youtube.com/watch?v=Ip9Feb3Xhrw&t=362s)
+![Rotation coronale de la colonne médiale en WBCT : la pronation de la tête de M1 vient d'une torsion intrinsèque de M1 (+8,3°) et de la TMT1 (+4,7°)](../../img/2024/Ip9Feb3Xhrw-3.jpg) [▶ 7:13](https://www.youtube.com/watch?v=Ip9Feb3Xhrw&t=433s)
 
 ## Points clés
 - Plus d'une centaine de techniques chirurgicales ; revue de la littérature à plus de 5 ans de recul : HVA moyen à 15,6° (seuil de définition 15°), récidive de 44 % avec ce seuil, sans différence entre techniques — récidives fréquentes mais souvent asymptomatiques.
 - Dysmorphies/dysplasies du 1er rayon comme facteur pathogénique (revue de M. Stephens, JBJS Am).
 - **DMAA** (angle articulaire distal de M1) : peu reproductible. Okuda : plus le bord latéral de la tête est rond, plus la déformation est avancée et plus la récidive est fréquente ; la tête « ronde » correspond à la superposition du condyle plantaire-latéral due à la pronation (artefact).
 - **Pronation de M1** : Kim (2015) la retrouve dans ~90 % des hallux valgus ; la subluxation sésamoïdienne (score de Hardy et Clapham) apparaît sévère en dorso-plantaire alors que, sur une incidence coronale, les sésamoïdes restent centrés sur la crête → l'incidence dorso-plantaire est biaisée. Selon Saltzman, le DMAA pourrait ne pas exister.
-- Étude en WBCT (cone beam en charge) avec correction virtuelle de la pronation : la bascule en valgus de la surface articulaire distale existe mais est surestimée (écart hallux valgus/témoins d'environ 20° en radiographie, environ 8° après correction).
+- Étude en WBCT (cone beam en charge) avec correction virtuelle de la pronation : la bascule en valgus de la surface articulaire distale existe mais est surestimée (DMAA 25,9° vs 7,6° chez les témoins en radiographie, 11,9° vs 3,3° en WBCT corrigé de la pronation).
 - Mesures de rotation de la colonne médiale (validées sur cadavre) : la pronation de la tête de M1 par rapport au sol provient d'une torsion intrinsèque en pronation de M1 et d'une malposition en pronation de la TMT1.
 - Étude biomécanique cadavérique (pieds normaux, charge + tensions tendineuses) : une ostéotomie de pronation de M1 seule ne crée pas d'hallux valgus ; sous charge et traction du long fléchisseur de l'hallux, la tête s'éjecte latéralement des sésamoïdes (restés en place) → HVA de 45°.
 - Analogie inversée avec le J-sign fémoro-patellaire : ce sont les sésamoïdes qui restent fixes (rôle du fémur) et la tête qui se centre ou s'éjecte.

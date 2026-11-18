@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, locked-finger]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Wassef Khaled (Hôpital Cochin Port-Royal, AP-HP ; Imagerie médicale Léonard de Vinci) et coll."
 video: https://www.youtube.com/watch?v=5pyFs-bBuGE
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le locked finger
 
-> [!abstract] En une phrase
-> Le *locked finger* de type 1 est un blocage de la MCP en flexion qui repose sur une triade : saillie osseuse palmo-radiale de la tête métacarpienne, incarcération du ligament collatéral accessoire et désinsertion de la plaque palmaire ; le traitement de choix est chirurgical.
+> [!abstract] L'essentiel
+> **MCP bloquée en flexion (index) = triade saillie osseuse palmo-radiale + incarcération du collatéral accessoire + désinsertion de la plaque palmaire** : traitement chirurgical.
+
+> [!success] À retenir
+> 1. Clinique opposée au doigt à ressaut : blocage de la **MCP en flexion ≈ 25-40°**, extension impossible, IPP libre.
+> 2. **Radio** : saillie osseuse de la tête métacarpienne (ostéophyte, exostose, frottement, tophus…) ; **écho** : désinsertion de la **plaque palmaire** + saillie → suspecter l'incarcération.
+> 3. **IRM** (axial ++) : collatéral accessoire tendu, incarcéré palmairement à la saillie, jonction plaque-LCA rétractée « en boule » ; préciser le côté pour le chirurgien.
+
+## Images clés
+![Saillie osseuse palmo-radiale de la tête métacarpienne (têtes de flèche) sur schéma, radiographie et IRM axiale : premier élément de la triade](../../img/2022/5pyFs-bBuGE-1.jpg) [▶ 3:18](https://www.youtube.com/watch?v=5pyFs-bBuGE&t=198s)
+![IRM axiale et coronale : désinsertion de la plaque palmaire et incarcération du collatéral accessoire (têtes de flèche), corrélées à la dissection](../../img/2022/5pyFs-bBuGE-2.jpg) [▶ 6:15](https://www.youtube.com/watch?v=5pyFs-bBuGE&t=375s)
+![Échographie : désinsertion de la plaque palmaire et saillie osseuse (*) en contexte de blocage MCP, qui doivent faire suspecter une incarcération du collatéral accessoire](../../img/2022/5pyFs-bBuGE-3.jpg) [▶ 7:31](https://www.youtube.com/watch?v=5pyFs-bBuGE&t=451s)
 
 ## Points clés
 - À distinguer du doigt à ressaut (très fréquent) : blocage de l'IPP, réductible au début, MCP mobile.

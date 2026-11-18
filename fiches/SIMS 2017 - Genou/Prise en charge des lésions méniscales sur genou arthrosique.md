@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, lesion-meniscale-degenerative]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (consensus ESSKA coordonné avec Roland Becker ; vraisemblablement Philippe Beaufils, cité par un autre orateur)"
+orateur: "Ph. Beaufils (Centre Hospitalier de Versailles) et coll."
 video: https://www.youtube.com/watch?v=fkN6q6AxyTQ
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Prise en charge des lésions méniscales sur genou arthrosique
 
-> [!abstract] En une phrase
-> La lésion méniscale dégénérative est un processus de vieillissement, souvent asymptomatique et intimement liée à l'arthrose : traitement non opératoire d'au moins 3 mois en première ligne, radiographies (avec schuss) et non IRM d'emblée, méniscectomie réservée aux échecs sans arthrose.
+> [!abstract] L'essentiel
+> **Lésion méniscale dégénérative = étape du continuum arthrosique, pas une indication chirurgicale** : radiographies avec schuss d'abord, pas d'IRM d'emblée, traitement médical ≥ 3 mois.
+
+> [!success] À retenir
+> 1. **60 %** des LMD sont asymptomatiques ; **8 essais randomisés sur 9** sans supériorité de la méniscectomie (conversion **0-30 %**).
+> 2. Bilan initial = **radiographies bilatérales en charge avec schuss** ; IRM seulement si échec du traitement médical et chirurgie envisagée ou signe d'alerte (ostéonécrose).
+> 3. À l'IRM, signaler **lambeau luxé** (seule vraie indication mécanique) et signes d'arthrose (**extrusion**, œdème sous-chondral, défects) qui contre-indiquent l'arthroscopie.
+
+## Images clés
+![Bilan radiographique de première intention : genoux de face en charge, schuss, profils et défilés fémoropatellaires bilatéraux à la recherche d'une arthrose](../../img/2017/fkN6q6AxyTQ-1.jpg) [▶ 7:14](https://www.youtube.com/watch?v=fkN6q6AxyTQ&t=434s)
+![IRM : lambeau méniscal luxé, seule situation de symptômes mécaniques pouvant justifier une méniscectomie](../../img/2017/fkN6q6AxyTQ-2.jpg) [▶ 8:13](https://www.youtube.com/watch?v=fkN6q6AxyTQ&t=493s)
 
 ## Points clés
 - Environ **115 000 méniscectomies arthroscopiques par an en France**, probablement trop ; les réduire est l'affaire de tous, y compris du radiologue.

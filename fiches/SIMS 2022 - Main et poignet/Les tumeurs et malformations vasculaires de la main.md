@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, anomalies-vasculaires]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Alain Blum (CHRU Nancy) et coll."
 video: https://www.youtube.com/watch?v=G-5LbxY4oYM
 duree: 14 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les tumeurs et malformations vasculaires de la main
 
-> [!abstract] En une phrase
-> La main est un site électif des lésions vasculaires : distinguer malformation et tumeur (ISSVA) repose sur la clinique et sur quelques images clés, l'angioscanner ou l'angio-IRM dynamique étant décisifs, et la biopsie ne doit pas être redoutée en cas de doute.
+> [!abstract] L'essentiel
+> **Lésion vasculaire de la main : trancher d'abord flux rapide ou lent, malformation ou tumeur (ISSVA)** : l'angioscanner ou l'angio-IRM dynamique est décisif.
+
+> [!success] À retenir
+> 1. **Flux rapide** (MAV, FAV) : flow-voids, artère nourricière, veine de drainage précoce, « blush » de shunts → **angioscanner multiphasique** avec reconstructions 3D.
+> 2. **Malformation veineuse** (la plus fréquente) : lacs polylobés, **niveaux liquides**, **phlébolithes**, rehaussement retardé, pas d'artère dilatée ; ne pas confondre phlébolithes et flow-voids.
+> 3. Tumeur glomique, hémangiome épithélioïde (engaine une artère), Maffucci ; **atypie = biopsie** (angiosarcome sur lymphœdème, **acrométastase** de cancer du rein).
+
+## Images clés
+![Malformation artério-veineuse à flux rapide de la main : flow-voids en coupe et cartographie des pédicules nourriciers en angioscanner 3D](../../img/2022/G-5LbxY4oYM-1.jpg) [▶ 2:27](https://www.youtube.com/watch?v=G-5LbxY4oYM&t=147s)
+![Malformation veineuse à flux lent : lacs polylobés avec phlébolithe et niveaux, opacification tardive en angio-IRM dynamique](../../img/2022/G-5LbxY4oYM-2.jpg) [▶ 5:32](https://www.youtube.com/watch?v=G-5LbxY4oYM&t=332s)
 
 ## Points clés
 - Classification de l'**ISSVA** (malformation = anomalie de morphogenèse ; tumeur = lésion proliférative), complétée par l'OMS ; à visée thérapeutique, classification de Houdart modifiée par des équipes coréennes.

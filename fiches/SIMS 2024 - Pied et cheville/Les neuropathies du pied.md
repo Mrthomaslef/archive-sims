@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, neuropathies]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Guillaume Lefebvre (Groupement Hospitalier Institut Catholique de Lille) et coll."
 video: https://www.youtube.com/watch?v=DOesrDlTWm4
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les neuropathies du pied
 
-> [!abstract] En une phrase
-> Échographie et IRM, complémentaires, explorent les nerfs du pied jusqu'à leurs rameaux distaux grâce à des repères vasculaires, tendineux et musculaires ; il faut une sémiologie systématique nerf-muscle-environnement confrontée à la clinique, sans oublier les causes plus proximales.
+> [!abstract] L'essentiel
+> **Neuropathie du pied : suivre chaque nerf jusqu'à ses rameaux distaux et analyser nerf, muscle (dénervation systématisée) et environnement** ; si tout est normal au pied, remonter à la jambe.
+
+> [!success] À retenir
+> 1. Repères : **artère dorsale du pied** (fibulaire profond, tunnel tarsien antérieur), **nœud de Henry** (plantaire médial), coupes étagées du **nerf tibial** au tunnel tarsien postéromédial.
+> 2. Cause à chercher : **kyste**, arthropathie, varices, hypertrophie osseuse, **cicatrice**/matériel ; **dénervation de l'abducteur du 5e orteil** = nerf calcanéen inférieur (fascia plantaire, troubles statiques).
+> 3. Douleur rebelle avec imagerie du pied normale : rechercher une **atteinte proximale** (schwannome du nerf tibial à la jambe) ; proposer un **bloc test échoguidé**.
+
+## Images clés
+![Syndrome du tunnel tarsien antérieur : compression du nerf fibulaire profond par un kyste (flèches) ou une arthropathie sous le rétinaculum des extenseurs](../../img/2024/DOesrDlTWm4-1.jpg) [▶ 1:47](https://www.youtube.com/watch?v=DOesrDlTWm4&t=107s)
+![Syndrome du tunnel tarsien postéromédial : causes compressives du nerf tibial en échographie, IRM et scanner (varices, kystes, hypertrophie osseuse)](../../img/2024/DOesrDlTWm4-2.jpg) [▶ 7:47](https://www.youtube.com/watch?v=DOesrDlTWm4&t=467s)
+![Neuropathie du nerf calcanéen inférieur en IRM : dénervation de l'abducteur du 5e orteil (astérisque), œdème au stade aigu puis involution graisseuse chronique](../../img/2024/DOesrDlTWm4-3.jpg) [▶ 8:23](https://www.youtube.com/watch?v=DOesrDlTWm4&t=503s)
 
 ## Points clés
 - L'**échographie** montre l'architecture fasciculaire et les divisions par balayage, et guide des gestes périneuraux diagnostiques et thérapeutiques ; l'**IRM** montre l'environnement, le trajet et les divisions.

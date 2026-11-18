@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, infection, ponction-articulaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (infectiologue)"
+orateur: "Eric Senneville (CRIOAc Lille-Tourcoing)"
 video: https://www.youtube.com/watch?v=MBuXKg4LtHs
 duree: 10 min
 date: 2026-11-18
@@ -12,11 +12,20 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Infection sur prothèse de hanche - prélèvements et germes
 
-> [!abstract] En une phrase
-> La ponction articulaire apporte environ deux tiers des diagnostics d'infection de prothèse : elle doit être faite à distance des antibiotiques, avec une asepsie stricte, et cultivée 10 à 14 jours, son interprétation relevant de la RCP.
+> [!abstract] L'essentiel
+> **La ponction articulaire fait 2/3 des diagnostics d'infection de prothèse** : sans antibiotique depuis ≥ 2 semaines, asepsie stricte, culture prolongée 10-14 jours.
+
+> [!success] À retenir
+> 1. ICM 2018 : **2 cultures positives au même germe** ou **fistule** = infection ; sinon score (GB synoviaux **> 10 000/mm³** aigu, **> 3 000** chronique ; PNN **> 90 %** / **> 70 %** ; leucocyte estérase, alpha-défensine) → **≥ 6** infecté.
+> 2. Ponction sèche → **autre voie sous guidage écho/TDM**, puis **biopsie synoviale** (tru-cut) ; seringue et aiguille différentes de l'anesthésie locale.
+> 3. Transport > **2 h** → **flacon d'hémoculture** (prévenir le labo) ; exiger une culture **10-14 j** (*C. acnes*), ne pas classer contaminant un *S. epidermidis* sans RCP.
+
+## Images clés
+![Critères ICM 2018 des infections de prothèse : 2 cultures positives ou fistule = infection ; score mineur dominé par la ponction (GB > 3 000/mm³ et PNN > 70 % en chronique), infecté si ≥ 6](../../img/2019/MBuXKg4LtHs-1.jpg) [▶ 0:14](https://www.youtube.com/watch?v=MBuXKg4LtHs&t=14s)
+![Conditions idéales de la ponction de prothèse : pas d'antibiotique depuis ≥ 2 semaines, autre voie guidée par l'imagerie si ponction sèche, flacon d'hémoculture si acheminement > 2 h](../../img/2019/MBuXKg4LtHs-2.jpg) [▶ 2:48](https://www.youtube.com/watch?v=MBuXKg4LtHs&t=168s)
 
 ## Points clés
-- **Critères du consensus international** : 2 cultures positives au même germe = infection ; sinon, poids important des données de la ponction (leucocytes totaux et % de polynucléaires neutrophiles, seuils différents en aigu et en chronique, jusqu'à 5 points du score).
+- **Critères du consensus international** : 2 cultures positives au même germe = infection ; sinon, poids important des données de la ponction (leucocytes totaux et % de polynucléaires neutrophiles, seuils différents en aigu et en chronique). Selon la diapo ICM 2018 : GB synoviaux > 10 000/mm³ en aigu et > 3 000/mm³ en chronique, ou leucocyte estérase ++, ou alpha-défensine positive (3 points) ; PNN > 90 % en aigu et > 70 % en chronique (2 points) ; CRP sérique > 100 mg/L en aigu et > 10 mg/L en chronique, ou D-dimères > 860 µg/L en chronique (2 points) ; VS > 30 mm/h en chronique (1 point) ; un prélèvement positif (2), histologie positive (3), pus peropératoire hors réaction aux débris métalliques (3). Total ≥ 6 : infection ; 3 à 5 : non concluant ; < 3 : non infecté.
 - « La ponction articulaire est à la prothèse ce que l'ECBU est à l'infection urinaire. »
 - **Faux négatifs** : ponction sous antibiotiques → arrêt recommandé **2 semaines** avant (sauf urgence septique, où la positivité reste plus probable).
 - **Faux positifs** : défaut d'asepsie → contamination par la flore cutanée ; or les **staphylocoques à coagulase négative** (*S. epidermidis* surtout) sont à la fois commensaux et pathogènes fréquents ; à l'épaule, *S. epidermidis* + *C. acnes* ≈ deux tiers à trois quarts des germes.

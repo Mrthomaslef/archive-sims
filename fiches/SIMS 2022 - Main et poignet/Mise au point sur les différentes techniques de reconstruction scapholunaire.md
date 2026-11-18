@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ligamentoplastie-scapholunaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (chirurgien de la main, équipe de Nancy)"
+orateur: "Lionel Athlani (IADI, Nancy)"
 video: https://www.youtube.com/watch?v=4hURxOy27sM
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Mise au point sur les différentes techniques de reconstruction scapholunaire
 
-> [!abstract] En une phrase
-> Les ligamentoplasties scapho-lunaires s'adressent aux instabilités réductibles sans arthrose ; l'imagerie, notamment dynamique (scanner 4D), est désormais indispensable pour vérifier qu'elles restaurent la cinématique et recentrent le pôle proximal du scaphoïde.
+> [!abstract] L'essentiel
+> **Ligamentoplastie scapho-lunaire = instabilité réductible sans arthrose** ; le scanner dynamique (4D) devient l'outil pour juger le recentrage du pôle proximal du scaphoïde.
+
+> [!success] À retenir
+> 1. **Arthrose = contre-indication** : la rechercher et la décrire (SLAC, STT) ; préciser lésion partielle/complète, **septum dorsal**, réductibilité.
+> 2. Ténodèses au FCR (Brunelli modifiée, 3LT) : clinique bonne mais raideur (flexion **43°**, extension **52°**), nécrose du pôle proximal **5 %**, SLAC **5-23 %**.
+> 3. Post-op : position des tunnels/ancres, **diastasis SL** (4DCT : écart moyen < **3 mm**), **pôle proximal recentré** sous le radius ; radios simples peu fiables (influence de ± 20° de flexion-extension).
+
+## Images clés
+![Contrôles radiographiques à long terme SLIC (54 mois) vs ténodèse 3LT (46 mois) : intervalle scapho-lunaire et position du pôle proximal du scaphoïde (cercles)](../../img/2022/4hURxOy27sM-1.jpg) [▶ 7:15](https://www.youtube.com/watch?v=4hURxOy27sM&t=435s)
+![Scanner dynamique 4D à 12 mois d'une reconstruction SLIC : écart scapho-lunaire moyen 2,3 mm et maximal 3 mm, sous les limites pathologiques](../../img/2022/4hURxOy27sM-2.jpg) [▶ 8:28](https://www.youtube.com/watch?v=4hURxOy27sM&t=508s)
+![Ténodèses au FCR (Brunelli modifiée, Garcia-Elias 3LT) : bons résultats cliniques mais raideur et résultats radiographiques médiocres (nécrose du pôle proximal, arthrose STT et SLAC)](../../img/2022/4hURxOy27sM-3.jpg) [▶ 4:22](https://www.youtube.com/watch?v=4hURxOy27sM&t=262s)
 
 ## Points clés
 - Deux conditions d'indication : **absence d'arthrose** et **instabilité réductible** ; la réductibilité est difficile à quantifier, même en peropératoire (radiographie, arthroscopie).
@@ -21,7 +31,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Historique cité : ligamentoplastie à l'extensor carpi radialis brevis (1991, trois tunnels capitatum/pôle proximal du scaphoïde/lunatum, pontant la radio-carpienne), modification de 1992 évitant ce pontage ; transferts actifs ECRB/ECRL pour limiter la flexion du scaphoïde ; ancrage pôle distal-lunatum avec suture au radio-carpien dorsal (2011).
 - Techniques les plus étudiées : au **flexor carpi radialis** via un tunnel transscaphoïdien palmaire → dorsal (Brunelli et modifications ; ténodèse « triple » de Garcia-Elias 2006 avec ancrage lunatum et passage dans le radio-carpien dorsal ; variantes reconstruisant aussi l'intercarpien dorsal).
 - Transplants artificiels (Internal Brace, seuls ou hybrides avec palmaris longus) ; technique « 360 » reconstruisant scapho-lunaire dorsal, palmaire et intercarpien ; techniques arthroscopiques pour les instabilités peu déplacées.
-- Littérature : bons résultats cliniques mais enraidissement (environ 40° de flexion, 52° d'extension) et résultats radiographiques médiocres et variables (récidive des signes d'instabilité, souffrance du pôle proximal liée aux tunnels).
+- Littérature : bons résultats cliniques mais enraidissement (flexion moyenne 43°, extension 52°) et résultats radiographiques médiocres et variables (récidive des signes d'instabilité, nécrose du pôle proximal du scaphoïde 5 %, arthrose STT 5 à 10 %, arthrose SLAC 5 à 23 %).
 - Technique **SLIC** (scapho-luno-intercarpienne, Nancy) : voie dorsale, transplant libre de palmaris longus précontraint, reconstruction du scapho-lunaire dorsal et de l'intercarpien dorsal, ancrages intraosseux, sans abord palmaire ni sacrifice du FCR.
 - Résultats rapportés par l'orateur (étude prospective comparative vs ténodèse) : amélioration douleur et force, absence d'aggravation de la raideur préopératoire, flexion meilleure qu'avec la ténodèse, tendance à la normalisation des paramètres radiographiques et **recentrage systématique du pôle proximal du scaphoïde** sous le radius.
 - Lésions partielles (scapho-lunaire dorsal, septum dorsal) = instabilité débutante : techniques arthroscopiques (capsulodèse) envisageables.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, ligaments-extrinseques]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Nicolas Theumann (Institut de radiologie, Hirslanden Clinique Bois-Cerf, Lausanne)"
 video: https://www.youtube.com/watch?v=qC5HvyfFbf8
 duree: 12 min
 date: 2026-11-18
@@ -12,11 +12,21 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les ligaments extrinsèques du carpe
 
-> [!abstract] En une phrase
-> Les ligaments extrinsèques sont lésés aussi souvent que les intrinsèques en traumatologie aiguë ; leur analyse (plans transverse et sagittal, crête dorsale du triquetrum) n'a de sens qu'intégrée à la recherche d'une instabilité du carpe sur clichés neutres et dynamiques.
+> [!abstract] L'essentiel
+> **Ligaments extrinsèques lésés dans ≈ 75 % des traumatismes aigus du poignet : regarder systématiquement la crête dorsale du triquetrum** et conclure sur l'instabilité du carpe.
+
+> [!success] À retenir
+> 1. Crête dorsale du triquetrum = insertion des **radio-triquétral, scapho-triquétral et ulno-triquétral dorsaux** : désinsertion possible **sans fragment osseux** → instabilité médiocarpienne.
+> 2. Analyse en **axial et sagittal** (coronal = repérage) ; **IRM / arthro-IRM** examens de choix, **écho** valable pour le versant dorsal.
+> 3. Toujours coupler aux clichés **neutres et dynamiques** : diastasis scapho-lunaire, DISI / VISI, marche d'escalier luno-triquétrale.
+
+## Images clés
+![IRM normale des ligaments extrinsèques : ulno-triquétraux palmaire et dorsal, radio-triquétral et scapho-triquétral dorsaux convergeant vers le triquetrum](../../img/2022/qC5HvyfFbf8-1.jpg) [▶ 4:12](https://www.youtube.com/watch?v=qC5HvyfFbf8&t=252s)
+![IRM gadolinium T1 FS axiale : désinsertion sans fracture des ligaments radio-, scapho- et ulno-triquétraux dorsaux sur la crête dorsale du triquetrum (flèches)](../../img/2022/qC5HvyfFbf8-2.jpg) [▶ 10:15](https://www.youtube.com/watch?v=qC5HvyfFbf8&t=615s)
+![Dissociation luno-triquétrale en inclinaison radiale et arrachement de la crête dorsale du triquetrum (flèches)](../../img/2022/qC5HvyfFbf8-3.jpg) [▶ 10:44](https://www.youtube.com/watch?v=qC5HvyfFbf8&t=644s)
 
 ## Points clés
-- Ligaments capsulaires extrasynoviaux ; lésés dans environ **3/4 des traumatismes aigus** (contre environ 2/3 pour les ligaments intrinsèques), prévalence encore plus élevée en cas d'arrachement osseux.
+- Ligaments capsulaires extrasynoviaux ; lésés dans environ **3/4 des traumatismes aigus** (contre environ 60 % pour les ligaments intrinsèques), prévalence encore plus élevée en cas d'arrachement osseux.
 - Lésions plus fréquentes en distalité (rangée distale, arche ligamentaire) et sur le versant ulnaire (luno-triquétral, ulno-triquétral palmaire).
 - **Versant palmaire** : radio-lunaire long et court (stabilisent le versant radial du lunatum), radio-scapho-capitatum (retient le pôle distal du scaphoïde de la flexion palmaire, aidé du ligament scapho-trapézien), arche ligamentaire distale (ligament arqué = radio-scapho-capitatum + fibres triquétro-hamato-capitatum côté ulnaire) assurant la cohésion de la rangée distale.
 - **Versant dorsal** : le « V » ligamentaire radio-triquétral dorsal + scapho-triquétral dorsal (intercarpien dorsal), plus l'ulno-triquétral dorsal (complexe TFCC). Tous s'insèrent sur la **crête dorsale du triquetrum** : « si vous n'avez qu'un endroit à regarder, c'est celui-là ».

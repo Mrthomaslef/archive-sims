@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, pediatrie-traumatologie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Marianne Alison (CHU Robert Debré, Université Paris Cité)"
 video: https://www.youtube.com/watch?v=vE4Dkkh4Axw
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Spécificités de la cheville et du pied traumatiques de l'enfant et de l'adolescent
 
-> [!abstract] En une phrase
-> Chez l'enfant, connaître la maturation normale et les variantes, penser au cartilage de croissance (Salter-Harris, fractures de transition) et recourir à l'IRM pour les fractures occultes de faible énergie et les lésions microtraumatiques.
+> [!abstract] L'essentiel
+> **Chez l'enfant, la physe est le point faible : classer en Salter-Harris, reconnaître triplane et Tillaux, et passer à l'IRM devant une boiterie** à radiographie normale.
+
+> [!success] À retenir
+> 1. **Salter-Harris** (I à IV, McFarland = IV de la malléole médiale) : les hauts grades exposent à l'**épiphysiodèse** (inégalité de longueur, déviation axiale).
+> 2. Fusion physaire tibiale **centrale → médiale → latérale** : **triplane** (SH IV, compter les fragments au **scanner**) et **Tillaux** à l'adolescence ; Salter I de la malléole latérale ≈ entorse, diagnostic surtout clinique.
+> 3. Jeune enfant qui boite : fracture occulte de **faible énergie** (calcanéus, **cuboïde**) → **IRM** ; ne pas prendre **noyaux accessoires** et **îlots de moelle rouge** (< 15 ans) pour du pathologique ; synostose du tarse **bilatérale 1 fois sur 2**.
+
+## Images clés
+![Classification pronostique de Salter-Harris à la cheville : stades I à IV (fracture de McFarland de la malléole médiale)](../../img/2024/vE4Dkkh4Axw-1.jpg) [▶ 3:16](https://www.youtube.com/watch?v=vE4Dkkh4Axw&t=196s)
+![Fracture triplane (Salter-Harris IV) au scanner : traits sagittal épiphysaire, axial physaire et coronal métaphysaire, à compter avant traitement](../../img/2024/vE4Dkkh4Axw-2.jpg) [▶ 4:58](https://www.youtube.com/watch?v=vE4Dkkh4Axw&t=298s)
+![Fracture occulte du cuboïde chez un enfant de 2 ans qui boite : radiographie normale, œdème et trait visibles en IRM](../../img/2024/vE4Dkkh4Axw-3.jpg) [▶ 6:15](https://www.youtube.com/watch?v=vE4Dkkh4Axw&t=375s)
 
 ## Points clés
 - **Développement** : maquettes cartilagineuses prédominantes (résistance élastique), noyaux d'ossification primaires puis secondaires, nombreux **noyaux accessoires** (ronds/ovalaires, bords lisses corticalisés, topographie typique, sans épaississement des parties molles ; ex. base de M5 à orientation longitudinale). En cas de doute : atlas des variantes.

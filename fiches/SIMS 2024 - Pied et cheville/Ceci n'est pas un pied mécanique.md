@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, pied-non-mecanique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (radiologue, hôpital Lariboisière ; travail commun avec Dr Aline Frazier, rhumatologue)"
+orateur: "Valérie Bousson (Hôpital Lariboisière, AP-HP Nord, Université Paris Cité) et coll."
 video: https://www.youtube.com/watch?v=gzOrjl2T5Mg
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Ceci n'est pas un pied mécanique
 
-> [!abstract] En une phrase
-> Dix situations pièges (rhumatismale, microcristalline, fracturaire, diabétique, infectieuse, vasculaire, SDRC, tumorale, constitutionnelle, médicamenteuse) où un pied d'allure mécanique cache une pathologie non mécanique, déjouées par la collaboration radio-rhumatologique.
+> [!abstract] L'essentiel
+> **Quand la sémiologie d'un « pied mécanique » est discordante, l'écrire** : enthésite, microcristaux, ostéomalacie, Charcot, infection, thrombose, tumeur ou cause médicamenteuse.
+
+> [!success] À retenir
+> 1. Talalgie du jeune avec **érosion/œdème à l'enthèse fibrocartilagineuse** et tendon relativement respecté → **spondyloarthrite** ; **bursite intermétatarsienne** / ténosynovite = PR débutante.
+> 2. Plantalgie brutale → chercher une **thrombose veineuse plantaire** (IRM/écho de la zone douloureuse) ; masse d'allure liquidienne en T2 → **injection obligatoire** (sarcome myxoïde/synovial).
+> 3. Anomalies de signal du médio-pied chez un neuropathe/diabétique → **décharge immédiate** ; fracture « de fragilité » sous méthotrexate ou trait large condensé = ostéomalacie.
+
+## Images clés
+![Talalgie postérieure d'un homme de 41 ans : enthésite calcanéenne de spondyloarthrite (érosion et œdème osseux à l'enthèse, tendon calcanéen relativement respecté)](../../img/2024/gzOrjl2T5Mg-1.jpg) [▶ 2:11](https://www.youtube.com/watch?v=gzOrjl2T5Mg&t=131s)
+![Thrombose veineuse plantaire : veines plantaires distendues non rehaussées (flèches) entourées d'œdème, cause méconnue de plantalgie](../../img/2024/gzOrjl2T5Mg-2.jpg) [▶ 10:37](https://www.youtube.com/watch?v=gzOrjl2T5Mg&t=637s)
+![Pied tumoral : masse plantaire d'allure liquidienne en T2 mais rehaussée après gadolinium (courbe de perfusion), à explorer comme un sarcome](../../img/2024/gzOrjl2T5Mg-3.jpg) [▶ 11:44](https://www.youtube.com/watch?v=gzOrjl2T5Mg&t=704s)
 
 ## Points clés
 - **Pied rhumatismal (spondyloarthrite)** : cible = enthèse fibrocartilagineuse (insertion calcanéenne du tendon calcanéen, fascia plantaire, base du 5e métatarsien) ; formes enthésitiques souvent inaugurales chez le jeune. Indices : tendon relativement respecté, anomalies de signal osseuses et des parties molles profondes, érosion. L'œdème osseux peut être marqué dans le mécanique et discret dans la SpA.

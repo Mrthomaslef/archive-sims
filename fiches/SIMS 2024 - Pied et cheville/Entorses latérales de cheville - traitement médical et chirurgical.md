@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, entorse-laterale]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Guillaume Cordier (Chirurgie du Sport Bordeaux-Mérignac)"
 video: https://www.youtube.com/watch?v=yi1ZW7WYNIs
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Entorses latérales de cheville - traitement médical et chirurgical
 
-> [!abstract] En une phrase
-> Le premier épisode d'entorse latérale grave relève d'un traitement médical avec immobilisation stricte, car il conditionne le pronostic à long terme ; la chirurgie (réparation ou reconstruction anatomique arthroscopique) est réservée à l'instabilité chronique récidivante.
+> [!abstract] L'essentiel
+> **Premier épisode d'entorse latérale grave = traitement médical avec immobilisation jour et nuit, même si LTFA et LCF sont rompus** : il conditionne le pronostic ; chirurgie réservée à l'instabilité chronique.
+
+> [!success] À retenir
+> 1. Rupture **LTFA ± LCF** au 1er épisode = **pas d'indication chirurgicale** ; protocole **POLICE**, reprise course à **8 semaines**, guérison à **3 mois**.
+> 2. Échographie la plus large possible si signes de gravité : préciser faisceaux lésés, siège (**malléolaire** le plus souvent) et lésions associées (**syndesmose**, fibulaires).
+> 3. Instabilité chronique : réparation arthroscopique ± renfort rétinaculaire (jeune) ou **reconstruction anatomique LTFA + LCF** par greffe ; ne jamais conclure « ligaments normaux » face à une laxité clinique récidivante.
+
+## Images clés
+![Instabilité chronique : vue arthroscopique de la désinsertion fibulaire du LTFA et de sa réparation par ancre](../../img/2024/yi1ZW7WYNIs-1.jpg) [▶ 7:07](https://www.youtube.com/watch?v=yi1ZW7WYNIs&t=427s)
+![Reconstruction anatomique du LTFA et du LCF par greffe tendineuse (vues anatomique et peropératoire), réservée aux révisions ou tissus de mauvaise qualité](../../img/2024/yi1ZW7WYNIs-2.jpg) [▶ 8:20](https://www.youtube.com/watch?v=yi1ZW7WYNIs&t=500s)
 
 ## Points clés
 - Préciser : stade lésionnel, délai du traumatisme, premier épisode ou récidive ; ne pas méconnaître une lésion de la syndesmose (fréquente lors des traumatismes directs latéraux).

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, pediatrie, boiterie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Christiane Baunin (Hôpital des Enfants, CHU de Toulouse) et coll."
 video: https://www.youtube.com/watch?v=pZmV36Hl7Z4
 duree: 14 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # La boiterie chez l'enfant et l'adolescent
 
-> [!abstract] En une phrase
-> Devant une boiterie, on raisonne selon l'âge et la clinique. Radiographie du bassin et échographie de hanche vont toujours ensemble (jamais d'échographie seule), et l'IRM est facile en deuxième intention.
+> [!abstract] L'essentiel
+> **Boiterie de l'enfant : raisonner par l'âge, radio du bassin face + profil toujours couplée à l'échographie** : IRM comparative en 2e intention si la boiterie persiste.
+
+> [!success] À retenir
+> 1. **Jamais d'échographie seule** : l'épanchement est non spécifique ; **synovite transitoire = diagnostic d'élimination** (2-10 ans, guérison en quelques jours).
+> 2. **« Rhume de hanche » récidivant → OPH** : chercher sur le **profil** l'image en **coup d'ongle** (fracture sous-chondrale) ; l'IRM voit la nécrose au stade infra-radiologique.
+> 3. **Épiphysiolyse = urgence** de l'adolescent en surpoids : **profil +++**, hauteur épiphysaire diminuée, physe feuilletée, **ligne de Klein** ne coupant plus la tête.
+
+## Images clés
+![OPH : le profil montre précocement la fracture sous-chondrale en « coup d'ongle » de l'épiphyse fémorale, peu visible de face](../../img/2019/pZmV36Hl7Z4-1.jpg) [▶ 6:11](https://www.youtube.com/watch?v=pZmV36Hl7Z4&t=371s)
+![Épiphysiolyse : diminution de la hauteur épiphysaire, physe feuilletée et élargie, ligne de Klein ne coupant plus la tête ; profil indispensable](../../img/2019/pZmV36Hl7Z4-2.jpg) [▶ 9:40](https://www.youtube.com/watch?v=pZmV36Hl7Z4&t=580s)
 
 ## Points clés
 - Motif fréquent aux urgences pédiatriques. Les causes sont locales ou à distance : douleur projetée depuis le rachis ou les membres inférieurs.

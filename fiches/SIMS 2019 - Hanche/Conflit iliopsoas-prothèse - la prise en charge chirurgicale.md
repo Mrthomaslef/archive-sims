@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothèse-totale-de-hanche, iliopsoas, chirurgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (chirurgien de la hanche)"
+orateur: "Olivier May (Clinique du Sport, Médipôle Garonne, Toulouse)"
 video: https://www.youtube.com/watch?v=qc3Vg66BruE
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Conflit iliopsoas-prothèse - la prise en charge chirurgicale
 
-> [!abstract] En une phrase
-> Si les implants sont bien positionnés et le débord limité, la ténotomie endoscopique ou arthroscopique de l'iliopsoas est efficace et tend à devenir la référence ; sinon, révision de la cupule.
+> [!abstract] L'essentiel
+> **Implants bien positionnés + débord limité = ténotomie endoscopique/arthroscopique du psoas en 1re intention** ; sinon révision de cupule.
+
+> [!success] À retenir
+> 1. Ténotomie efficace (**> 85 %**) si : bonne position des implants, **débord antérieur limité (cut-off ≈ 10 mm ?)**, **pas de matériel saillant intramusculaire**, pas de dysfonction prothétique.
+> 2. Au scanner : mesurer le **débord antérieur de cupule**, son antéversion/inclinaison, chercher **vis/plots** dans le psoas et une **collerette fémorale** en conflit.
+> 3. Infiltration test discutée : communication bourse-articulation **≈ 20 %** → faux négatifs et risque septique.
+
+## Images clés
+![Scanner : débord antérieur du rebord de cupule (défaut d'antéversion, cupule surdimensionnée ou non impactée) au contact du psoas](../../img/2019/qc3Vg66BruE-1.jpg) [▶ 1:13](https://www.youtube.com/watch?v=qc3Vg66BruE&t=73s)
+![Cas clinique (femme de 72 ans) : débord antérieur de la cupule au scanner, conflit avec le psoas confirmé en endoscopie](../../img/2019/qc3Vg66BruE-2.jpg) [▶ 8:41](https://www.youtube.com/watch?v=qc3Vg66BruE&t=521s)
+![Échec de ténotomie endoscopique (débord important de la cupule, flèches) : révision chirurgicale de la cupule](../../img/2019/qc3Vg66BruE-3.jpg) [▶ 10:16](https://www.youtube.com/watch?v=qc3Vg66BruE&t=616s)
 
 ## Points clés
 - La bipédie a postériorisé l'insertion distale du psoas, rendant intime son contact avec la coxofémorale.

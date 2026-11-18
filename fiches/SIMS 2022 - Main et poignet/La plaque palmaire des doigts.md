@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, plaque-palmaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (prénom « Élodie » cité par les orateurs suivants)"
+orateur: "Élodie Sibileau"
 video: https://www.youtube.com/watch?v=lLcFyzp-DVA
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # La plaque palmaire des doigts
 
-> [!abstract] En une phrase
-> Stabilisateur majeur des articulations digitales, la plaque palmaire se rompt presque toujours en distal lors d'une hyperextension, surtout à l'IPP ; le couple radiographie-échographie suffit le plus souvent et le principal risque est l'enraidissement douloureux en flexion.
+> [!abstract] L'essentiel
+> **Lésion de plaque palmaire = hyperextension de l'IPP avec désinsertion quasi toujours distale** : le couple radio-échographie suffit ; le risque est l'enraidissement douloureux en flexion, pas l'instabilité.
+
+> [!success] À retenir
+> 1. Désinsertion **distale** (attaches rigides) dans la quasi-totalité des cas ; **arrachement du rebord palmaire** de la base de P2 = pathognomonique ; chercher un fragment rétracté jusqu'au col.
+> 2. Ne pas confondre le **récessus articulaire distal** (central, fin, bien limité) avec une désinsertion (large, mal limitée, **latéralisée**).
+> 3. Rechercher extension au **ligament collatéral principal** et lésion **dorsale** (bandelette médiane) ; chirurgie rare, prise en charge **précoce** pour éviter la raideur.
+
+## Images clés
+![Désinsertion distale de la plaque palmaire de l'IPP : interruption à l'échographie sagittale (flèches) et en IRM, comparée au côté sain](../../img/2022/lLcFyzp-DVA-1.jpg) [▶ 8:52](https://www.youtube.com/watch?v=lLcFyzp-DVA&t=532s)
+![Arrachement osseux du rebord palmaire de la base de P2 (flèche) en radiographie, scanner et échographie, signe pathognomonique](../../img/2022/lLcFyzp-DVA-2.jpg) [▶ 10:37](https://www.youtube.com/watch?v=lLcFyzp-DVA&t=637s)
+![Désinsertion distale de la plaque palmaire en IRM T1 et T2 FS (flèches) avec hyperhémie Doppler en échographie](../../img/2022/lLcFyzp-DVA-3.jpg) [▶ 9:48](https://www.youtube.com/watch?v=lLcFyzp-DVA&t=588s)
 
 ## Points clés
 - Macro-architecture : coussin fibrocartilagineux palmaire de toutes les articulations des doigts longs et du pouce (homologue de la plaque plantaire) ; corps offrant une surface de glissement aux fléchisseurs ; deux attaches proximales fines et élastiques ; deux attaches distales épaisses et rigides, ancrées au périoste par des fibres de Sharpey.

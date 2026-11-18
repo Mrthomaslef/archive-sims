@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, osteonecrose]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Jean-François Budzik (GHICL, Lille) et coll."
 video: https://www.youtube.com/watch?v=bSW7j65e0t0
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # L'ostéonécrose de tête fémorale
 
-> [!abstract] En une phrase
-> Le liseré de démarcation qui rejoint la surface articulaire sur toutes les coupes est le signe pathognomonique de l'ostéonécrose systémique. L'injection est inutile en routine, mais il ne faut jamais interpréter une IRM sans radiographie.
+> [!abstract] L'essentiel
+> **Liseré T1 rejoignant la surface articulaire sur toutes les coupes = ostéonécrose** : pas d'injection, jamais d'IRM sans radiographie.
+
+> [!success] À retenir
+> 1. Toujours **IRM du bassin entier** (bilatéralité) : 3D T1 isotrope + coronal/axial T2 FS ± sagittal T2 ; **pas d'injection systématique** (la nécrose peut se rehausser).
+> 2. Pronostic au CR : **étendue (index de Koo)** et topographie portante, **signal de la nécrose** (momifiée = graisseuse, meilleur pronostic), **œdème**, **fracture sous-chondrale**.
+> 3. **Effondrement / perte de sphéricité** parfois visible seulement en radio → stade tournant, adresser vite (décharge, chirurgie).
+
+## Images clés
+![IRM coronale T1 et T2 FS du bassin : liseré de démarcation rejoignant la surface articulaire, signe diagnostique d'ostéonécrose (bilatérale)](../../img/2019/bSW7j65e0t0-1.jpg) [▶ 6:48](https://www.youtube.com/watch?v=bSW7j65e0t0&t=408s)
+![IRM T2 FS : œdème et clivage sous-chondral de la tête fémorale, facteurs de mauvais pronostic (fracture parfois mieux vue en radiographie)](../../img/2019/bSW7j65e0t0-2.jpg) [▶ 7:33](https://www.youtube.com/watch?v=bSW7j65e0t0&t=453s)
+![Éléments clés du compte rendu : nécrose (topographie, étendue/Koo, signal, œdème), os (fracture sous-chondrale, perte de sphéricité), articulation ; ne pas oublier la hanche controlatérale](../../img/2019/bSW7j65e0t0-3.jpg) [▶ 10:16](https://www.youtube.com/watch?v=bSW7j65e0t0&t=616s)
 
 ## Points clés
 - L'incidence est voisine de celle de la spondyloarthrite et de la polyarthrite rhumatoïde. L'ostéonécrose touche des sujets jeunes, évolue souvent défavorablement et mène fréquemment à la prothèse.

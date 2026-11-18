@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, tumeurs-malignes]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Thomas Le Corroller (AP-HM, Aix-Marseille Université)"
 video: https://www.youtube.com/watch?v=hDyk0cGbk6o
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les tumeurs malignes de la main
 
-> [!abstract] En une phrase
-> Rares et faussement rassurantes, les tumeurs malignes de la main exposent à un geste chirurgical initial inadéquat : IRM avant toute biopsie ou exérèse et avis du centre de référence des sarcomes.
+> [!abstract] L'essentiel
+> **Une masse de la main lentement évolutive peut être un sarcome : IRM avant toute biopsie ou exérèse et avis du centre de référence** pour éviter un geste initial non carcinologique.
+
+> [!success] À retenir
+> 1. Lésion **phalangienne lytique douloureuse** après **45 ans**, sans réaction périostée, interlignes respectés → **acrométastase** (poumon, sein, rein), même sans cancer connu.
+> 2. Tumeur cartilagineuse expansive avec encoches endostées profondes, rupture corticale, croissance ou extension aux parties molles → **chondrosarcome** (Ollier/Maffucci) ; Ewing et chondrosarcome miment l'**ostéomyélite**.
+> 3. Hors diagnostic bénin formel (TCGT, lipome, hémangiome, schwannome) = suspect ; **sarcome épithélioïde** = nodules dermiques ± satellites, pris pour un nodule rhumatoïde ; **cellules claires** = hypersignal T1 (mélanine).
+
+## Images clés
+![Acrométastase sans primitif connu : ostéolyse de la phalange distale (flèche), douloureuse, sans réaction périostée, interlignes respectés](../../img/2022/hDyk0cGbk6o-1.jpg) [▶ 1:54](https://www.youtube.com/watch?v=hDyk0cGbk6o&t=114s)
+![Chondrosarcome de phalange en IRM et scanner : lésion centrale expansive à matrice chondroïde, rupture corticale et extension aux parties molles](../../img/2022/hDyk0cGbk6o-2.jpg) [▶ 3:06](https://www.youtube.com/watch?v=hDyk0cGbk6o&t=186s)
+![Sarcome épithélioïde de la main en IRM : nodule dermique palmaire infiltrant avec nodules satellites (flèches) à rechercher sur coupes fines](../../img/2022/hDyk0cGbk6o-3.jpg) [▶ 4:29](https://www.youtube.com/watch?v=hDyk0cGbk6o&t=269s)
 
 ## Points clés
 - Environ 1 % de la pathologie tumorale de la main ; présentation peu symptomatique, croissance lente parfois sur plusieurs années, ce qui abaisse le niveau de suspicion.
@@ -24,7 +34,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - Tissus mous : pseudo-tumeurs dominantes (kyste mucoïde). Diagnostics bénins formels possibles en imagerie : tumeur à cellules géantes ténosynoviale, lipome, hémangiome, tumeur de la gaine nerveuse. Sinon, évoquer une tumeur maligne.
 - **Sarcome épithélioïde** (forme acrale) : adolescent et adulte jeune, nodules dermiques parfois ulcérés ; rechercher sur coupes fines des **nodules satellites millimétriques** ; aspect pseudo-granulomateux (diagnostic erroné de nodule rhumatoïde possible) ; dissémination lymphatique épitrochléenne et axillaire ; survie à 5 ans 45-70 %.
 - **Synovialosarcome** : adulte jeune ou d'âge moyen, croissance très lente, masse infiltrante ; marges R0 indispensables ; métastases pulmonaires ; survie à 5 ans environ 60 %.
-- **Sarcome à cellules claires** : enfant, adolescent, adulte jeune ; fascia thénarien ou aponévrose palmaire ; **hypersignal T1 spontané (mélanine)** ; métastases ganglionnaires et pulmonaires tardives (parfois > 10 ans).
+- **Sarcome à cellules claires** : enfant, adolescent, adulte jeune ; fascia thénarien ou aponévrose palmaire ; **hypersignal T1 spontané (mélanine)** ; métastases ganglionnaires et pulmonaires tardives (parfois > 10 ans) ; survie à 5 ans environ 60 % (diapo).
 - Autres : myxofibrosarcome, rhabdomyosarcome chez l'enfant.
 
 ## Sémiologie et technique d'imagerie

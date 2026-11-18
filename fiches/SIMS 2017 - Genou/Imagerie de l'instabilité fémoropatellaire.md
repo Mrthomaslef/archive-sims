@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie de l'instabilité fémoropatellaire
 
-> [!abstract] En une phrase
-> L'imagerie doit localiser la patella « comme un GPS » et quantifier les facteurs d'instabilité : profil strict à 30° en première intention, puis IRM (non irradiante, sujet jeune féminin) et EOS pour les torsions, le scanner restant l'alternative.
+> [!abstract] L'essentiel
+> **Instabilité patellaire = 3 facteurs à chiffrer : dysplasie trochléenne, patella alta, TA-GT** : profil strict à 30° puis IRM chez ce sujet jeune, souvent féminin.
+
+> [!success] À retenir
+> 1. **Dysplasie trochléenne** chez **≈ 100 %** des instables : sur profil strict, **signe du croisement**, **double contour**, **éperon sus-trochléen** → grade de **Dejour (A à D)**.
+> 2. **Caton-Deschamps** : normal **0,8 à 1,2** ; **> 1,2 = patella alta** (60 % des luxations récidivantes), mesurable aussi en IRM.
+> 3. **Bascule patellaire** pathologique si **> 20°** (quadriceps décontracté) ; ce n'est plus un facteur indépendant. Torsions : **EOS** (irradiation 4 à 30 fois moindre) plutôt que scanner.
+
+## Images clés
+![Dysplasie trochléenne de Dejour : grade A (croisement, trochlée peu profonde) et grade B (croisement, éperon sus-trochléen, trochlée plate), profil et IRM axiale](../../img/2017/ufVL2kr2-kY-1.jpg) [▶ 5:47](https://www.youtube.com/watch?v=ufVL2kr2-kY&t=347s)
+![Index de Caton-Deschamps sur profil à 30° : 0,88 normal contre 1,5 patella alta (seuil 1,2)](../../img/2017/ufVL2kr2-kY-2.jpg) [▶ 6:45](https://www.youtube.com/watch?v=ufVL2kr2-kY&t=405s)
+![Index d'engagement patellaire sagittal en IRM (LT/LP) : plus il tend vers 1, plus la patella est engagée dans la trochlée](../../img/2017/ufVL2kr2-kY-3.jpg) [▶ 8:46](https://www.youtube.com/watch?v=ufVL2kr2-kY&t=526s)
 
 ## Points clés
 - La patella s'engage dans la trochlée vers 15-20° de flexion ; stabilité = équilibre entre quadriceps (angle Q d'environ 15°), relief osseux et structures rétinaculo-ligamentaires.

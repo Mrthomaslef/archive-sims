@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, ligaments-postoperatoire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé (orateur non francophone, hispanophone probable)"
+orateur: "Luis Cerezal"
 video: https://www.youtube.com/watch?v=X_OTwnPrbdo
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube de qualité médiocre (orateur s'expri
 
 # Les ligaments de la cheville - imagerie postopératoire normale et pathologique
 
-> [!abstract] En une phrase
-> Après chirurgie de l'instabilité de cheville, l'échographie est pour l'orateur la meilleure technique pour évaluer la cicatrisation ligamentaire et les complications superficielles, l'IRM étant réservée aux complications profondes et aux lésions associées, et le scanner à la syndesmose.
+> [!abstract] L'essentiel
+> **Après chirurgie ligamentaire de cheville : IRM pour les complications, scanner pour la réduction de la syndesmose** ; le Broström-Gould est la référence à reconnaître.
+
+> [!success] À retenir
+> 1. **Broström modifié (Gould)** normal : LTFA réinséré par ancre fibulaire, renforcé par le **rétinaculum des extenseurs**, continu en IRM à 3 mois ; une augmentation synthétique a un aspect quasi ligamentaire.
+> 2. Raideur douloureuse avec réparation normale → **arthrofibrose** : épaississement capsulaire tibio-talien diffus, bandes fibreuses, récessus oblitérés.
+> 3. Syndesmose opérée : **scanner** pour la **malréduction** tibio-fibulaire ; chercher aussi récidive d'instabilité, lésion ostéochondrale, fibulaires, névrome de portail (écho).
+
+## Images clés
+![Broström modifié selon Gould normal en IRM : LTFA réinséré par une ancre fibulaire et renforcé par le rétinaculum des extenseurs (têtes de flèche)](../../img/2024/X_OTwnPrbdo-1.jpg) [▶ 2:45](https://www.youtube.com/watch?v=X_OTwnPrbdo&t=165s)
+![Arthrofibrose après Broström : réparation ligamentaire normale mais épaississement capsulaire tibio-talien diffus et fibrose péricapsulaire (têtes de flèche)](../../img/2024/X_OTwnPrbdo-2.jpg) [▶ 7:01](https://www.youtube.com/watch?v=X_OTwnPrbdo&t=421s)
+![Malréduction de la syndesmose au scanner après fixation : diastasis tibio-fibulaire persistant (flèches), d'où l'intérêt du scanner postopératoire](../../img/2024/X_OTwnPrbdo-3.jpg) [▶ 9:36](https://www.youtube.com/watch?v=X_OTwnPrbdo&t=576s)
 
 ## Points clés
 - Chirurgie de l'instabilité en hausse grâce à une meilleure compréhension et à l'**arthroscopie**. Instabilité latérale chronique la plus fréquente ; environ **40 %** des entorses latérales gardent des douleurs chroniques.

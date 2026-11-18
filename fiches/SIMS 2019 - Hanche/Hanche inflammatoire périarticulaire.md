@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, rhumatologie-inflammatoire, PPR]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Anne Cotten (CHU de Lille) et coll."
 video: https://www.youtube.com/watch?v=yyII88e-Z2Q
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Hanche inflammatoire périarticulaire
 
-> [!abstract] En une phrase
-> Devant une hanche périarticulaire inflammatoire, quatre diagnostics à maîtriser : infection (chercher la collection et sa source), résorption aiguë de calcification (vue sur la radiographie), PPR (enthésites et bursites bilatérales symétriques révélées par le gadolinium) et spondyloarthrite (asymétrie, œdème osseux).
+> [!abstract] L'essentiel
+> **Hanche périarticulaire inflammatoire : 4 diagnostics, infection, résorption de calcification, PPR, spondyloarthrite** : la radiographie et le gadolinium font la différence.
+
+> [!success] À retenir
+> 1. **Résorption aiguë de calcification** : mime une coxite septique ; relire la radio à la recherche d'une **calcification floue, en traînée**, parfois **migrée** loin d'un tendon.
+> 2. **PPR** (femme **> 50 ans**, syndrome inflammatoire) : **enthésites + bursites + capsulite bilatérales et symétriques** rehaussées après **gadolinium**, **sans œdème osseux** ; rehaussements **interépineux** au rachis.
+> 3. **Spondyloarthrite** : même sémiologie mais **asymétrique** avec **œdème médullaire** → voir les sacro-iliaques ; **infection** : injecter, traquer le petit abcès et sa **source** (symphyse, ostéomyélite).
+
+## Images clés
+![Synthèse des 4 diagnostics en IRM injectée : infection (abcès), résorption de calcification, PPR (enthésites et bursites) et spondyloarthrite (synovite et œdème osseux)](../../img/2019/yyII88e-Z2Q-1.jpg) [▶ 10:57](https://www.youtube.com/watch?v=yyII88e-Z2Q&t=657s)
+![Résorption aiguë de calcification capsulo-labrale : calcification floue au rebord acétabulaire, à chercher sur une radiographie dite normale](../../img/2019/yyII88e-Z2Q-2.jpg) [▶ 4:08](https://www.youtube.com/watch?v=yyII88e-Z2Q&t=248s)
+![PPR : rehaussements bilatéraux et symétriques des enthèses, bourses et capsules des hanches après gadolinium, sans œdème osseux](../../img/2019/yyII88e-Z2Q-3.jpg) [▶ 8:34](https://www.youtube.com/watch?v=yyII88e-Z2Q&t=514s)
 
 ## Points clés
 - **Infection** :

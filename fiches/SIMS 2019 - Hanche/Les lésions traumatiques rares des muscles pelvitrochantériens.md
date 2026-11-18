@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, muscles-pelvitrochantériens, traumatologie-sportive]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Philippe Meyer (Clinique du Sport Bordeaux-Mérignac)"
 video: https://www.youtube.com/watch?v=wll5EQc9n-Q
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les lésions traumatiques rares des muscles pelvitrochantériens
 
-> [!abstract] En une phrase
-> Les lésions des muscles pelvitrochantériens surviennent chez le jeune athlète de haut niveau par contraction excentrique, avec une clinique non spécifique ; le diagnostic est IRM (axial T2 FS) et le pronostic excellent (reprise en 2 semaines environ).
+> [!abstract] L'essentiel
+> **Fessalgie ou « pubalgie » du jeune athlète après contraction excentrique : penser aux pelvitrochantériens et faire une IRM axiale T2 FS** : pronostic excellent.
+
+> [!success] À retenir
+> 1. Clinique **non spécifique** (douleur aux rotations) et écho souvent négative → **IRM précoce, coupes axiales T2 FS** : œdème/hématome, lésion partielle surtout du **tendon distal**.
+> 2. **Carré fémoral** le plus touché (danse, gymnastique, **espace ischiofémoral réduit**) ; obturateur interne chez footballeur/escrimeur ; obturateur externe chez footballeur.
+> 3. Reprise en **≈ 2 semaines** sous traitement conservateur, sans récidive ; chercher un **hématome au contact du nerf sciatique** si irradiation.
+
+## Images clés
+![Carré fémoral dans l'espace ischiofémoral : effet « casse-noisette » en cas d'espace réduit, schéma, IRM axiale et échographie](../../img/2019/wll5EQc9n-Q-1.jpg) [▶ 2:55](https://www.youtube.com/watch?v=wll5EQc9n-Q&t=175s)
+![Anatomie IRM de l'obturateur externe (OE), muscle le plus profond, coaptateur dont la ligne de force est parallèle au col fémoral](../../img/2019/wll5EQc9n-Q-2.jpg) [▶ 3:14](https://www.youtube.com/watch?v=wll5EQc9n-Q&t=194s)
+![Lésion du carré fémoral en IRM T2 FS axiale et coronale : œdème et suffusion hémorragique (flèches) chez une danseuse](../../img/2019/wll5EQc9n-Q-3.jpg) [▶ 8:27](https://www.youtube.com/watch?v=wll5EQc9n-Q&t=507s)
 
 ## Points clés
 - **6 muscles** (courts rotateurs latéraux) : 2 à insertion intrapelvienne (piriforme, obturateur interne) et 4 extrapelviens (jumeaux supérieur et inférieur, carré fémoral, obturateur externe). Rapports intimes avec le nerf sciatique (pince piriforme/obturateur interne, enroulement sur le carré fémoral), nombreuses variations et adhérences.

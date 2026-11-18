@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Quoi de neuf en IRM du genou : quelle séquence pour quelle lésion
 
-> [!abstract] En une phrase
-> La vraie révolution est la 3D isotrope inframillimétrique, mais le socle reste DP fat-sat + T1 ; conserver la graisse et les coupes fines apportent de l'information sur LCA et ligament antéro-latéral, tandis que UTE et séquences compositionnelles relèvent encore de la recherche.
+> [!abstract] L'essentiel
+> **Socle inchangé : DP fat-sat + T1 ; révolution = 3D isotrope 0,3 mm à 3 T** ; UTE et cartographies T2/T1rho restent du domaine de la recherche.
+
+> [!success] À retenir
+> 1. **T1 jamais supprimé** : seul à affirmer fracture, impaction, infiltration médullaire ; 3D à **1,5 T** médiocre → refaire des **DP 2D**.
+> 2. **Pente tibiale postérieure latérale > 12°** = facteur de risque de rupture du LCA : à mesurer et rapporter.
+> 3. **Sans saturation de graisse**, coupes fines : enthèse tibiale du LCA « en ruban » et attaches du **LAL** / expansions méniscales (avulsion fémoro-méniscale).
+
+## Images clés
+![Théorie du ruban : faisceaux antéromédial et postérolatéral du LCA fusionnés en une enthèse tibiale unique en C, au contact de la racine antérieure du ménisque latéral](../../img/2017/kLG_WJl5wGU-1.jpg) [▶ 3:01](https://www.youtube.com/watch?v=kLG_WJl5wGU&t=181s)
+![Avulsion proximale de l'expansion fémoro-méniscale, mieux analysée en 3D DP MPR sans saturation de graisse qu'en 2D DP fat-sat](../../img/2017/kLG_WJl5wGU-2.jpg) [▶ 7:36](https://www.youtube.com/watch?v=kLG_WJl5wGU&t=456s)
+![DP TSE versus UTE : la séquence à temps d'écho ultracourt individualise la couche chondrale profonde calcifiée et la lame osseuse sous-chondrale (flèches)](../../img/2017/kLG_WJl5wGU-3.jpg) [▶ 9:14](https://www.youtube.com/watch?v=kLG_WJl5wGU&t=554s)
 
 ## Points clés
 - **Protocole de base** : turbo spin écho, DP (T2 intermédiaire) avec suppression de graisse, et **T1 indispensable** (fracture, fissure, impaction, infiltration médullaire).

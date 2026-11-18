@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, instabilite-carpe-dynamique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Pedro Teixeira"
 video: https://www.youtube.com/watch?v=cW6J2GlfQv8
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux 
 
 # Intérêt de l'exploration dynamique des lésions ligamentaires du poignet
 
-> [!abstract] En une phrase
-> L'analyse dynamique (radiographies de stress, fluoroscopie, échographie, scanner 4D, bientôt IRM temps réel) doit être systématique dans les instabilités du carpe car elle distingue diastasis stable et instable/réductible, ce qui change la prise en charge.
+> [!abstract] L'essentiel
+> **Un diastasis scapholunaire ne suffit pas : c'est sa variation et sa réductibilité en dynamique qui orientent le traitement** ; clichés de stress systématiques.
+
+> [!success] À retenir
+> 1. Devant toute suspicion d'instabilité : radios **neutre vs stress** et **inclinaison ulnaire vs radiale** (diastasis, flexion-extension du scaphoïde) + IRM ou arthroscanner.
+> 2. Bilan **douteux** → **fluoroscopie (≥ 30 images/s)** ou **scanner 4D** ; instabilité dynamique avec chirurgie envisagée → scanner 4D ; normal ou pathologique stable → **stop**.
+> 3. Échographie : diastasis scapholunaire dynamique par voie dorsale, réalisable à chaque examen post-traumatique du poignet ; IRM temps réel encore en recherche.
+
+## Images clés
+![Radiographies dynamiques de face : diastasis scapholunaire (têtes de flèche) majoré en stress et en inclinaison ulnaire, à comparer au cliché neutre](../../img/2022/cW6J2GlfQv8-1.jpg) [▶ 1:49](https://www.youtube.com/watch?v=cW6J2GlfQv8&t=109s)
+![Algorithme de l'instabilité du carpe : radios repos/stress + IRM ou arthroscanner, puis fluoroscopie ou scanner 4D si douteux ou si chirurgie envisagée](../../img/2022/cW6J2GlfQv8-2.jpg) [▶ 9:04](https://www.youtube.com/watch?v=cW6J2GlfQv8&t=544s)
 
 ## Points clés
 - Un diastasis peut être pathologique mais **stable** (non modifié par les mouvements) : notion déterminante pour la décision thérapeutique.

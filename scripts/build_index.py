@@ -26,7 +26,7 @@ for d in sorted(p for p in ROOT.iterdir() if p.is_dir()):
             "orateur": orateur.group(1) if orateur else "",
             "duree": duree.group(1) if duree else "",
             "video": video.group(1) if video else "",
-            "resume": resume.group(1).strip() if resume else "",
+            "resume": resume.group(1).replace("**", "").strip() if resume else "",
         })
 
 def cell(s):

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, arthrose-digitale]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé (rhumatologue)"
+orateur: "Alice Courties (Hôpital Saint-Antoine, AP-HP, Paris)"
 video: https://www.youtube.com/watch?v=DJ9VuawNLpE
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Arthrose digitale différentes nomenclatures, phénotypes différents
 
-> [!abstract] En une phrase
-> L'arthrose digitale est fréquente et très hétérogène ; le phénotypage (facteurs de risque, localisation, radiographie, symptômes) vise à mieux cibler les essais thérapeutiques, l'arthrose érosive étant le seul phénotype nettement individualisé.
+> [!abstract] L'essentiel
+> **L'arthrose digitale érosive est un phénotype à part, plus douloureux, inflammatoire et destructeur** : la nommer dès qu'une IPP est érosive.
+
+> [!success] À retenir
+> 1. **Arthrose érosive** (≥ 1 articulation érosive) : **2,8 %** de la population ≥ 55 ans mais **10,2 %** des arthroses digitales symptomatiques ; érosion **centrale** en **aile de mouette**.
+> 2. Plus de **synovite** en échographie (épanchement, Doppler) que l'arthrose non érosive ; différentiels : **rhumatisme psoriasique**, **chondrocalcinose**, **PR**.
+> 3. **Arthrose des MCP sans atteinte des IPP** → remettre en cause le diagnostic (chondrocalcinose, hémochromatose) ; base du pouce et doigts longs associés chez **75 %** des patients.
+
+## Images clés
+![Arthrose digitale érosive (érosions centrales en aile de mouette des IPP) contre arthrose non érosive](../../img/2022/DJ9VuawNLpE-1.jpg) [▶ 7:39](https://www.youtube.com/watch?v=DJ9VuawNLpE&t=459s)
+![Échographie de l'arthrose érosive : érosions, épanchement et synovite des IPP, plus fréquents que dans la forme non érosive](../../img/2022/DJ9VuawNLpE-2.jpg) [▶ 8:39](https://www.youtube.com/watch?v=DJ9VuawNLpE&t=519s)
+![Les 3 diagnostics différentiels de l'arthrose digitale érosive : rhumatisme psoriasique, chondrocalcinose et polyarthrite rhumatoïde](../../img/2022/DJ9VuawNLpE-3.jpg) [▶ 9:06](https://www.youtube.com/watch?v=DJ9VuawNLpE&t=546s)
 
 ## Points clés
 - Diagnostic clinique (douleurs mécaniques, raideur progressive ; critères américains des années 1990 surtout utilisés dans les essais) confirmé par la radiographie.

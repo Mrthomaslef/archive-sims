@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, pediatrie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (chirurgien orthopédiste pédiatre)"
+orateur: "Jean-Luc Jouve (Hôpital d'enfants de la Timone, Marseille)"
 video: https://www.youtube.com/watch?v=A5DXk0dPD-o
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le genou douloureux non traumatique de l'enfant (partie 1)
 
-> [!abstract] En une phrase
-> Vu par le chirurgien : toute douleur du genou de l'enfant de plus de 3 semaines doit faire remettre en cause l'origine traumatique, et la radiographie, pas l'échographie « de débrouillage », doit rester le premier examen.
+> [!abstract] L'essentiel
+> **Genou douloureux unilatéral de l'enfant > 21 jours = radiographie d'abord, penser tumeur ou infection** : jamais d'échographie « de débrouillage » isolée.
+
+> [!success] À retenir
+> 1. Drapeaux rouges : **délai > 3 semaines**, boiterie constante, épanchement, amyotrophie, blocage → bannir « post-traumatique » ou « tendinopathie ».
+> 2. **Ostéosarcome / Ewing** : la plupart des retards diagnostiques sont passés par une échographie première ; **radio face + profil** obligatoire.
+> 3. Gonalgie de l'adolescent : **radiographier la hanche** (**épiphysiolyse**) ; douleurs **bilatérales** apophysaires : éviter le CR qui déclenche une escalade thérapeutique.
+
+## Images clés
+![Variante ou lésion ? Défect dorsal de la patella sur radiographies, avec lésion ostéochondrale visible en IRM (flèche) chez un enfant douloureux](../../img/2017/A5DXk0dPD-o-1.jpg) [▶ 3:38](https://www.youtube.com/watch?v=A5DXk0dPD-o&t=218s)
+![Ostéochondrose apophysaire (Sinding-Larsen-Johansson) : la radiographie de profil suffit souvent, l'IRM montre une inflammation locale qui inquiète sans aider](../../img/2017/A5DXk0dPD-o-2.jpg) [▶ 7:42](https://www.youtube.com/watch?v=A5DXk0dPD-o&t=462s)
+![Ostéochondrite disséquante : l'IRM doit dire si le fragment est fissuré ou stable, à confronter à l'arthroscanner pour décider d'un vissage](../../img/2017/A5DXk0dPD-o-3.jpg) [▶ 8:20](https://www.youtube.com/watch?v=A5DXk0dPD-o&t=500s)
 
 ## Points clés
 - Symptôme très banal, souvent imputé à un traumatisme (vie quotidienne de l'enfant, rassurant pour les parents, simplifiant la consultation), rarement grave mais parfois très grave, **sans parallélisme entre douleur et gravité** (« plus c'est grave, moins ça fait mal »).

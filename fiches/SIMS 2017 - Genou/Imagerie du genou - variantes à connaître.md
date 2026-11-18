@@ -12,8 +12,19 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie du genou - variantes à connaître
 
-> [!abstract] En une phrase
-> Connaître les principales variantes du genou de l'enfant et de l'adulte évite de les confondre avec une pathologie, sachant que certaines peuvent devenir symptomatiques.
+> [!abstract] L'essentiel
+> **Une variante se reconnaît à son siège typique, ses contours nets et un cartilage normal** : ne pas la décrire comme une lésion.
+
+> [!success] À retenir
+> 1. Irrégularité épiphysaire fémorale de l'enfant (condyle médial) = **variante d'ossification** si **pas d'inflammation, pas de séquestre, cartilage normal** (≠ ostéochondrite).
+> 2. **Desmoïde périosté** (face postérieure du condyle médial, enthèse du gastrocnémien médial / grand adducteur) : ne pas biopsier.
+> 3. **Encoche du condyle latéral > 1,5-2 mm** = impaction → chercher une **rupture du LCA** ; l'encoche médiale est physiologique.
+> 4. **Défect dorsal** / patella bipartite : supéro-latéral, bords condensés, **cartilage d'encroûtement normal**.
+
+## Images clés
+![Desmoïde périosté : irrégularité corticale postérieure du condyle fémoral médial à l'enthèse du gastrocnémien médial, variante de traction à ne pas confondre avec une tumeur](../../img/2017/qCEolpHedBc-1.jpg) [▶ 1:33](https://www.youtube.com/watch?v=qCEolpHedBc&t=93s)
+![Encoche du condyle latéral (flèches) : profondeur normale ≤ 1,5-2 mm, au-delà penser à une impaction sur rupture du LCA](../../img/2017/qCEolpHedBc-2.jpg) [▶ 2:03](https://www.youtube.com/watch?v=qCEolpHedBc&t=123s)
+![Défect dorsal de la patella : lacune supéro-latérale à bords condensés comblée de cartilage, cartilage d'encroûtement normal](../../img/2017/qCEolpHedBc-3.jpg) [▶ 5:33](https://www.youtube.com/watch?v=qCEolpHedBc&t=333s)
 
 ## Points clés
 - **Enfant** : bandes métaphysaires condensantes entre 2 et 5 ans (os en croissance, non métaboliques) ; noyaux épiphysaires irréguliers, « efflorescents », surtout au condyle médial ; plus tard aspect pseudo-lacunaire condylien (médial, latéral ou bilatéral), bien limité.

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, conflit-femoro-acetabulaire, imagerie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Olivier Hauger (CHU Bordeaux, Hôpital Pellegrin) et coll."
 video: https://www.youtube.com/watch?v=JZ3i-9JMhg8
 duree: 8 min
 date: 2026-11-18
@@ -12,8 +12,16 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Le conflit de hanche (partie 3)
 
-> [!abstract] En une phrase
-> Volet imagerie : le conflit fémoro-acétabulaire est un phénomène dynamique, pas une anomalie radiologique. L'imagerie décrit les facteurs morphologiques favorisants (came, pince, version pelvienne, torsion fémorale) et surtout les lésions chondrales et labrales, qui font le pronostic et exigent une imagerie après opacification.
+> [!abstract] L'essentiel
+> **Le conflit fémoro-acétabulaire est un phénomène dynamique, pas une anomalie radiologique** : l'imagerie décrit came, pince, version et torsion, mais le pronostic tient aux lésions chondrolabrales.
+
+> [!success] À retenir
+> 1. Came : **angle alpha > 60°**, à mesurer en **reconstructions radiales antéro-supérieures**.
+> 2. Pince : **coxa profunda**, protrusion, **signe du croisement** (dépend de la version pelvienne), ossification du labrum ; lésion de **contrecoup postéro-inférieure**.
+> 3. Bilan lésionnel **après opacification** : rechercher la **délamination** chondrale (came) et les lésions labrales (pince) ; morphotype seul chez l'asymptomatique ≠ conflit.
+
+## Images clés
+![Effet pince sur le bassin de face : hypercouverture acétabulaire (coxa profunda), à confronter à la coxométrie et à la version pelvienne](../../img/2019/JZ3i-9JMhg8-1.jpg) [▶ 2:00](https://www.youtube.com/watch?v=JZ3i-9JMhg8&t=120s)
 
 ## Points clés
 - Les anomalies morphologiques intrinsèques et les facteurs extrinsèques **favorisent** le conflit sans le diagnostiquer. Elles sont fréquentes chez l'asymptomatique. C'est l'hypersollicitation de la hanche qui crée les lésions irréversibles.

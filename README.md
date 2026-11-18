@@ -11,10 +11,11 @@ Created in [T3 Code](https://t3.codes).
   - 2019 Hanche : 42 fiches
   - 2022 Main et poignet : 40 fiches
   - 2024 Pied et cheville : 40 fiches
-- `data/videos.json` : liste des vidéos de la chaîne, extraite de YouTube Studio.
-- `data/lots/` : répartition des vidéos par congrès.
-- `data/transcripts/` : sous-titres automatiques, non versionnés.
+- Chaque fiche : orateur lu sur les diapos, « L'essentiel » + « À retenir », images clés légendées avec lien vers l'instant de la vidéo.
+- `img/<année>/` : images clés (diapos recadrées, contrôlées pour l'anonymisation).
+- `data/` (non versionné) : liste des vidéos, transcriptions, diapos extraites (`frames/`) et sélections d'images (`selections/`).
 - `scripts/build_index.py` : régénère les index et vérifie les liens.
+- `scripts/apply_images.py` : recadre les images choisies dans `data/selections/` et les insère dans les fiches (nécessite Pillow).
 
 ## Web-app
 

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, canal-carpien-echochirurgie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "David Petrover"
 video: https://www.youtube.com/watch?v=xYcfs5v4fGw
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # L'échochirurgie du canal carpien
 
-> [!abstract] En une phrase
-> La libération percutanée échoguidée du ligament annulaire antérieur du carpe, sous anesthésie locale et monitorage échographique continu, offre une récupération rapide et une très faible morbidité, mais impose une formation anatomique et un cadre de bloc ou de salle interventionnelle.
+> [!abstract] L'essentiel
+> **Libération échoguidée du canal carpien : section rétrograde du rétinaculum sous anesthésie locale, récupération 2 à 3 fois plus rapide** qu'en mini-open, résultats identiques à long terme.
+
+> [!success] À retenir
+> 1. Écho préthérapeutique : confirmer la compression et **redresser les diagnostics alternatifs** ; repérer **branche motrice, arcade palmaire superficielle**, variantes.
+> 2. Technique : **hydrodissection** (chambre de sécurité), incision **2-3 mm**, contrôle continu du médian en petit axe, section **rétrograde** jusqu'au crochet de l'hamatum.
+> 3. Série **> 1 200 cas**, recul **> 6 ans** : **95 %** de satisfaction, reprise d'activité à **J3**, ecchymoses **1 %**, aucune complication majeure.
+
+## Images clés
+![IRM axiale avant et 1 mois après libération échoguidée : section complète du ligament annulaire antérieur du carpe (flèches) avec expansion du canal](../../img/2022/xYcfs5v4fGw-1.jpg) [▶ 4:17](https://www.youtube.com/watch?v=xYcfs5v4fGw&t=257s)
+![Échographie peropératoire en grand axe : lame positionnée sous le rétinaculum des fléchisseurs pendant la section, sous contrôle continu](../../img/2022/xYcfs5v4fGw-2.jpg) [▶ 6:03](https://www.youtube.com/watch?v=xYcfs5v4fGw&t=363s)
 
 ## Points clés
 - Mêmes indications que la chirurgie : syndrome du canal carpien qui s'aggrave ou résiste à un traitement médical bien conduit (> 6 mois, infiltration, orthèse).
@@ -24,7 +33,8 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - IRM postopératoire initiale : libération complète dans 100 % des cas.
 - Suites : pas d'adrénaline, de garrot ni de bloc plexique → mobilisation immédiate des doigts, pansement retiré à 48 h, pas de soins infirmiers ni de kinésithérapie.
 - Expérience : environ 200 patients/an, plus de 1 000 cas en cours d'analyse, aucune complication majeure (ni section nerveuse, ni algodystrophie, ni plaie vasculaire, ni hématome) ; complications mineures (ecchymoses), 2 reprises (main dysmorphique ; récidive probablement par section incomplète, relibérée avec bon résultat à plus de 2 ans), 2 à 3 crises microcristallines postopératoires simulant une infection.
-- Résultats à long terme identiques entre techniques ; avantage sur les 2–3 premiers mois.
+- Bilan affiché : plus de 1 200 cas, recul supérieur à 6 ans, satisfaction 95 %, reprise d'activité à J3 (plages ecchymotiques 1 %, sensibilité du talon de la main 1 % entre M1 et M3).
+- Résultats à long terme identiques entre techniques ; récupération 2 à 3 fois plus rapide qu'en mini-open sur les 2–3 premiers mois.
 
 ## Sémiologie et technique d'imagerie
 - Contrôle final : la lame passe de part et d'autre du ligament, structures adjacentes épargnées ; retrait dans le petit axe.

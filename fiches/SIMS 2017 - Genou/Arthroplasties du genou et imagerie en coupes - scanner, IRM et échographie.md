@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Arthroplasties du genou et imagerie en coupes : scanner, IRM et échographie
 
-> [!abstract] En une phrase
-> Après la radiographie, le scanner (idéalement double énergie) est l'examen des parties dures de la PTG (zones aveugles, rotation des pièces, encombrement), l'échographie celui des parties molles et des gestes, et l'IRM avec séquences de réduction d'artefacts métalliques ouvre une nouvelle sémiologie.
+> [!abstract] L'essentiel
+> **PTG douloureuse avec radios rassurantes = scanner systématique** : superpositions levées, rotation des pièces mesurée ; échographie pour les parties molles et la ponction.
+
+> [!success] À retenir
+> 1. **Scanner** : démasque descellement et **granulomes** cachés par la quille ou l'embase (faux négatif radio par superposition).
+> 2. **Rotation tibiale** : angle axe de l'embase / centre de quille-TTA **≈ 18°** ; au-delà = rotation interne ; les rotations internes (fémur, PE, embase) **s'additionnent**.
+> 3. **Ponctions chirurgicales blanches ≠ pas d'infection** : ponction **échoguidée** du cul-de-sac (pannus) ; IRM **MAVRIC** pour l'œdème péri-prothétique.
+
+## Images clés
+![PTG suivie 1997-2007 : radiographies peu parlantes alors que le scanner révèle de volumineuses ostéolyses (granulomes à débris de polyéthylène, astérisques) masquées par la quille](../../img/2017/zZktA6soI-0-1.jpg) [▶ 4:04](https://www.youtube.com/watch?v=zZktA6soI-0&t=244s)
+![Comparaison scanner, IRM SE T1 et IRM T2 MAVRIC : la séquence de réduction d'artefacts montre l'hypersignal du spongieux sous l'embase tibiale (astérisque)](../../img/2017/zZktA6soI-0-2.jpg) [▶ 7:59](https://www.youtube.com/watch?v=zZktA6soI-0&t=479s)
+![Gros genou douloureux à ponctions blanches : cul-de-sac sous-quadricipital réduit par un pannus synovial, ponction échoguidée positive à Staphylococcus aureus](../../img/2017/zZktA6soI-0-3.jpg) [▶ 10:18](https://www.youtube.com/watch?v=zZktA6soI-0&t=618s)
 
 ## Points clés
 - **Scanner** : réduction des artefacts par augmentation du débit, coupes fines, filtres mous, fenêtres larges ; le **double énergie** avec images monochromatiques virtuelles (VMS) et les algorithmes de réduction d'artefacts (type MARS) rendent les parties molles partiellement analysables.

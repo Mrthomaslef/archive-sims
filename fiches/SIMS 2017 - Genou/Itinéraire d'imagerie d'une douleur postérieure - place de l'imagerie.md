@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Itinéraire d'imagerie d'une douleur postérieure - place de l'imagerie
 
-> [!abstract] En une phrase
-> Une douleur du creux poplité ne se résume pas au kyste poplité : diviser le creux poplité en 9 cases et y rechercher les pathologies les plus fréquentes améliore nettement la précision diagnostique, en particulier en échographie.
+> [!abstract] L'essentiel
+> **Creux poplité douloureux ≠ kyste poplité** : balayer en échographie les **9 cases** (3 × 3) avec comparaison controlatérale et palpation sous la sonde.
+
+> [!success] À retenir
+> 1. Case proximale latérale : **fabella** 9 fois sur 10 (conflit condylien, fragmentation, Doppler) ; case centrale : **ganglions**.
+> 2. **Kyste poplité** : affirmer le **collet** entre semi-membraneux et gastrocnémien médial ; analyser paroi, **nodules** et vascularisation avant ponction ; rupture souvent prise pour une **phlébite** (anticoagulants délétères).
+> 3. **Jamais de ponction** d'un **kyste adventitiel** ou d'une masse avec rameau artériel afférent ; nodules ostéochondromateux → **radiographie** indispensable.
+
+## Images clés
+![Division du creux poplité en 9 cases (proximal/interligne/distal × latéral/central/médial) pour une recherche systématique des lésions](../../img/2017/JVdSTD4B2Qo-1.jpg) [▶ 0:23](https://www.youtube.com/watch?v=JVdSTD4B2Qo&t=23s)
+![Fabella dans le tendon du gastrocnémien latéral : hyperhémie Doppler péri-fabellaire, cause la plus fréquente de douleur proximale et latérale](../../img/2017/JVdSTD4B2Qo-2.jpg) [▶ 0:53](https://www.youtube.com/watch?v=JVdSTD4B2Qo&t=53s)
+![Kyste poplité contenant un nodule (NOD) au contact du gastrocnémien médial : analyser paroi et nodules avant toute ponction](../../img/2017/JVdSTD4B2Qo-3.jpg) [▶ 5:00](https://www.youtube.com/watch?v=JVdSTD4B2Qo&t=300s)
 
 ## Points clés
 - Approche essentiellement **échographique**, avec comparaison controlatérale (avantage majeur de l'échographie) et palpation sous la sonde.

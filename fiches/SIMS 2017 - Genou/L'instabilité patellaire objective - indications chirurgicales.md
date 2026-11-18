@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, genou, instabilite-patellaire]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2017
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "David Dejour (Lyon Ortho Clinic)"
 video: https://www.youtube.com/watch?v=uF71EGvPSOQ
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # L'instabilité patellaire objective : indications chirurgicales
 
-> [!abstract] En une phrase
-> On n'opère qu'une patella qui se luxe, jamais une patella qui fait mal : l'imagerie fournit les mesures (dysplasie, TA-GT, hauteur, engagement) qui permettent un « menu à la carte » de corrections combinées.
+> [!abstract] L'essentiel
+> **On opère une patella qui se luxe, jamais une patella qui fait mal** : le chirurgien corrige au millimètre d'après les mesures du compte rendu.
+
+> [!success] À retenir
+> 1. **TA-GT pathologique : ≥ 20 mm au scanner, ≥ 13 mm en IRM** ; cible après médialisation **10-15 mm (TDM) / 8-13 mm (IRM)** → toujours préciser la modalité.
+> 2. **Caton-Deschamps** = index chirurgical (cible **≈ 1**) ; patella alta + **engagement sagittal** négatif → abaissement de la TTA + LFPM.
+> 3. Dysplasie de haut grade avec **éperon (types B/D)** → discuter la **trochléoplastie** ; jamais d'arthroscopie isolée.
+
+## Images clés
+![Objectif de la médialisation de la TTA : TA-GT cible 10-15 mm au scanner et 8-13 mm en IRM, seuils pathologiques différents (20 mm TDM / 13 mm IRM)](../../img/2017/uF71EGvPSOQ-1.jpg) [▶ 8:11](https://www.youtube.com/watch?v=uF71EGvPSOQ&t=491s)
+![Abaissement de la TTA : correction de la patella alta (Caton-Deschamps 40/30) pour recentrer la patella en face d'une trochlée plus creusée](../../img/2017/uF71EGvPSOQ-2.jpg) [▶ 8:49](https://www.youtube.com/watch?v=uF71EGvPSOQ&t=529s)
 
 ## Points clés
 - Distinguer **douleur et instabilité** ; analyser le système local (trochlée, patella, cartilage), l'alignement global (appareil extenseur, bascule, TA-GT, torsions) et le système d'activation (muscles, cerveau).

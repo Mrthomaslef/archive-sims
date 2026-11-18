@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, avant-pied-opere]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Véronique Freire (CHUM, Centre hospitalier de l'Université de Montréal)"
 video: https://www.youtube.com/watch?v=DwIO0-p_k-w
 duree: 10 min
 date: 2026-11-18
@@ -12,12 +12,22 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie de l'avant-pied opéré
 
-> [!abstract] En une phrase
-> La radiographie en charge comparative suffit le plus souvent au suivi de l'avant-pied opéré (alignement HVA/IMA/sésamoïdes, matériel, consolidation ou fusion), l'échographie, le scanner et l'IRM étant réservés aux conflits, doutes osseux et infections.
+> [!abstract] L'essentiel
+> **Radiographie en charge comparative = examen clé de l'avant-pied opéré** : 3 mesures (HVA, IMA, sésamoïdes), matériel, consolidation/fusion ; écho, TDM, IRM en 2e intention.
+
+> [!success] À retenir
+> 1. Mesures : **HVA** normal **0-15°** (objectif postop **< 20°**), **IMA** normal **≤ 9°** (objectif **< 12°**), **MSP grade 0-1** ; HVA et MSP postop sont pronostiques.
+> 2. Ostéotomie **percutanée (MIS)** : pas d'ostéosynthèse, **déplacement marqué et cal hypertrophique attendus**, consolidation lente → ne pas parler de complication.
+> 3. Complications : récidive **3-16 %**, pseudarthrose d'arthrodèse **≈ 7 %**, descellement (MTP1) ; **érosions + déminéralisation précoces = arthrite septique** → IRM injectée.
+
+## Images clés
+![Radiographie en charge : mesure de l'angle d'hallux valgus (HVA), de l'angle intermétatarsien (IMA) et grade de position des sésamoïdes (MSP, anormal à partir du grade 2)](../../img/2024/DwIO0-p_k-w-1.jpg) [▶ 0:23](https://www.youtube.com/watch?v=DwIO0-p_k-w&t=23s)
+![Ostéotomie percutanée de M1 (Bosch) : pas d'ostéosynthèse, déplacement marqué de la tête et cal hypertrophique (flèches) attendus](../../img/2024/DwIO0-p_k-w-2.jpg) [▶ 2:52](https://www.youtube.com/watch?v=DwIO0-p_k-w&t=172s)
+![Arthrite septique postopératoire de la MTP1 : érosions et déminéralisation à J26 (flèche), remplacement médullaire T1 et rehaussement en IRM](../../img/2024/DwIO0-p_k-w-3.jpg) [▶ 6:06](https://www.youtube.com/watch?v=DwIO0-p_k-w&t=366s)
 
 ## Points clés
 - Mesures : angle d'hallux valgus (HVA, M1/P1), angle intermétatarsien (IMA, M1/M2), position des sésamoïdes (MSP) — normale si la tête reste dans les 50 % du sésamoïde tibial. En postopératoire, HVA mesuré depuis le centre de la nouvelle position de la tête ; HVA et MSP sont pronostiques.
-- Objectifs postopératoires de l'hallux valgus : HVA < 20°, IMA 12°, MSP normal.
+- Objectifs postopératoires de l'hallux valgus : HVA < 20°, IMA < 12°, MSP normal (grade 0 ou 1).
 - **Ostéotomies M1** : chevron distal (hallux valgus léger, translation ± rotation, vis) ; scarf (double chevron, IMA augmenté) ; vérifier le débord des vis vers l'articulation ou les sésamoïdes (profil utile). **Percutanées (MIS)** : pas d'ostéosynthèse, translation d'environ 75 % de la tête, cals hypertrophiques, consolidation lente jusqu'à 18 mois.
 - Gestes adjuvants : bunionectomie (exostosectomie médiale), chéilectomie (ostéophyte dorsal + tiers dorsal de la tête) pour hallux rigidus, ostéotomie phalangienne varisante (Akin) ou de dorsiflexion (Moberg).
 - Rayons latéraux : ostéotomie de Weil (raccourcissement, réduction de la luxation dorsale MTP), vis ou broche retirée.

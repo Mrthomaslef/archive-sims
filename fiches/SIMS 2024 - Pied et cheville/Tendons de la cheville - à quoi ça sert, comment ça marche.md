@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, tendons-biomecanique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Didier Mainard (CHRU Nancy)"
 video: https://www.youtube.com/watch?v=iz0HHx2KuUU
 duree: 10 min
 date: 2026-11-18
@@ -12,12 +12,21 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Tendons de la cheville - à quoi ça sert, comment ça marche ?
 
-> [!abstract] En une phrase
-> Les neuf tendons de la cheville, répartis en quatre groupes et organisés en couples agoniste-antagoniste, sont les effecteurs de la locomotion mais aussi de la statique et de l'équilibre via la « stratégie de cheville ».
+> [!abstract] L'essentiel
+> **9 tendons en 4 groupes, organisés en couples agoniste-antagoniste, assurent locomotion, statique et équilibre (« stratégie de cheville »)** : raisonner en groupe fonctionnel devant une rupture.
+
+> [!success] À retenir
+> 1. Tous sauf le **tendon calcanéen** (traction) sont des **tendons de réflexion** : bourses, coulisses, rétinaculums et gaines sont leurs points faibles.
+> 2. **Lames de fasciculation** intratendineuses = aspect normal, à ne pas prendre pour une **fissuration**.
+> 3. Tendon calcanéen ≈ **9 kN** (≈ **12 × le poids du corps**) mais zone physiologique limitée à **~3 %** d'étirement ; une rupture se juge aussi sur la perte des **actions accessoires**.
+
+## Images clés
+![Tendons de réflexion (sauf tendon calcanéen de traction) et leurs structures d'adaptation ; lames de fasciculation normales à ne pas confondre avec une fissuration](../../img/2024/iz0HHx2KuUU-1.jpg) [▶ 1:50](https://www.youtube.com/watch?v=iz0HHx2KuUU&t=110s)
+![Tableau des actions principales et accessoires des muscles de la jambe sur la cheville et le pied, par groupe (antérieur, médial, latéral, postérieur)](../../img/2024/iz0HHx2KuUU-2.jpg) [▶ 3:11](https://www.youtube.com/watch?v=iz0HHx2KuUU&t=191s)
 
 ## Points clés
 - L'unité muscle-tendon-enthèse est une unité fonctionnelle mécanique, physiologique et neurophysiologique, pas un simple relais.
-- Embryologie : origine mésenchymateuse, apparition vers la 7e semaine (membre supérieur avant inférieur, fléchisseurs avant extenseurs).
+- Embryologie : origine mésenchymateuse, apparition des tendons à la 6e semaine (tendons distaux à la 7e semaine) (membre supérieur avant inférieur, fléchisseurs avant extenseurs).
 - Neuf tendons, quatre groupes : antérieur (tibial antérieur, long extenseur de l'hallux, long extenseur des orteils), médial (tibial postérieur, long fléchisseur de l'hallux, long fléchisseur des orteils, proches du pédicule vasculo-nerveux), latéral (long et court fibulaires), postérieur (tendon calcanéen, intégré au complexe suro-achilléo-plantaire).
 - Tous sauf le tendon calcanéen sont des tendons de réflexion → structures d'adaptation : bourses, coulisses ostéofibreuses, rétinaculums, gaines synoviales.
 - Actions principales en couples (flexion plantaire : triceps ; antagoniste : tibial antérieur, de force très inférieure) et actions accessoires (ex. tibial antérieur également adducteur et supinateur), révélées lors des ruptures.

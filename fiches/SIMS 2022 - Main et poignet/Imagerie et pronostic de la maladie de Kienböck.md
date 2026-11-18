@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, main-poignet, kienbock]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2022
-orateur: "non précisé"
+orateur: "Eva Llopis"
 video: https://www.youtube.com/watch?v=MixjCy7xY_E
 duree: 13 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Imagerie et pronostic de la maladie de Kienböck
 
-> [!abstract] En une phrase
-> Devant une anomalie du lunatum, analyser d'abord la distribution (ulnaire, radiale, diffuse) pour éviter les faux diagnostics de Kienböck ; le pronostic et le traitement dépendent de l'alignement, du collapsus, de la fragmentation, de la vascularisation (gadolinium) et de l'arthrose.
+> [!abstract] L'essentiel
+> **Devant un lunatum anormal, regarder d'abord la distribution** : ulnaire = conflit ulnocarpien, radiale = kyste, diffuse = Kienböck ; puis stade de Lichtman et rehaussement.
+
+> [!success] À retenir
+> 1. **Kyste intra-osseux** = premier faux Kienböck ; atteinte **ulnaire** + variance positive = **conflit ulnocarpien** ; variance mesurée sur radio en **position neutre**.
+> 2. **Lichtman** : I IRM seule, II sclérose, **IIIA** collapsus aligné, **IIIB** instabilité carpienne, **IIIC** fragmentation (non reconstructible), IV arthrose.
+> 3. **Gadolinium** aux stades précoces : rehaussement homogène / partiel / absent (Schmitt) ; faible rehaussement → collapsus plus fréquent → suivi rapproché.
+
+## Images clés
+![Distribution des anomalies du lunatum : ulnaire (conflit ulnocarpien), diffuse (Kienböck) ou kyste intra-osseux, principal faux diagnostic de Kienböck](../../img/2022/MixjCy7xY_E-1.jpg) [▶ 5:23](https://www.youtube.com/watch?v=MixjCy7xY_E&t=323s)
+![Classification radiographique de Lichtman (I à IV, IIIA/B/C) et patterns IRM de Schmitt après gadolinium (homogène, hétérogène, absence de rehaussement)](../../img/2022/MixjCy7xY_E-2.jpg) [▶ 8:26](https://www.youtube.com/watch?v=MixjCy7xY_E&t=506s)
+![Histoire naturelle du Kienböck en IRM : ischémie → collapsus → instabilité → arthrose (nécrose avec collapsus et arthrose)](../../img/2022/MixjCy7xY_E-3.jpg) [▶ 10:48](https://www.youtube.com/watch?v=MixjCy7xY_E&t=648s)
 
 ## Points clés
 - Lunatum central, intercalé entre scaphoïde, triquetrum, radius et capitatum ; souvent pris à tort pour une maladie de Kienböck.

@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # IRM du genou - quand et pourquoi injecter
 
-> [!abstract] En une phrase
-> Compte tenu des dépôts cérébraux de gadolinium et des recommandations européennes, l'injection en IRM du genou ne doit plus être systématique : elle se décide en direct, au vu des séquences non injectées, avec des indications certaines (tumeur, infection, synoviale) et des indications au cas par cas.
+> [!abstract] L'essentiel
+> **Plus d'injection systématique au genou : décider en direct, sur les séquences non injectées** : macrocyclique, dose minimale, seulement si la réponse en dépend.
+
+> [!success] À retenir
+> 1. **Dépôts cérébraux de gadolinium** (dose-dépendants, surtout **linéaires**) → linéaires suspendus (EMA, **mars 2017**), macrocycliques uniquement.
+> 2. Injection **certaine** : **tumeur** (masse hyperT2 « kystique » = schwannome ou sarcome possible), **infection**, **synoviale**.
+> 3. Au cas par cas : tendon, ligament, os sous-chondral, genou opéré, **douleur inexpliquée** (ex. synovite suprapatellaire visible seulement en T1 gado FS).
+
+## Images clés
+![Schwanome kystique : masse hyperT2 d'allure kystique, seule la prise de contraste périphérique épaisse en T1 gado FS redresse le diagnostic](../../img/2017/UYmFyB01Ins-1.jpg) [▶ 5:42](https://www.youtube.com/watch?v=UYmFyB01Ins&t=342s)
+![Kyste adventitiel de l'artère poplitée en T2 FS : formation kystique pluriloculée de la paroi artérielle, retentissement sur la lumière à évaluer](../../img/2017/UYmFyB01Ins-2.jpg) [▶ 5:27](https://www.youtube.com/watch?v=UYmFyB01Ins&t=327s)
+![Douleurs suprapatellaires : synovite d'un récessus suprapatellaire séquestré, prise de contraste en T1 gado FS non visible sur T2 FS et T2*](../../img/2017/UYmFyB01Ins-3.jpg) [▶ 7:48](https://www.youtube.com/watch?v=UYmFyB01Ins&t=468s)
 
 ## Points clés
 - Deux familles de chélates : **macrocycliques** (gadolinium « enchâssé comme une perle dans une huître », plus stables) et **linéaires** (liaison plus fragile, gadolinium plus facilement libéré).

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, coxarthrose, radiographie]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Guillaume Bierry"
 video: https://www.youtube.com/watch?v=iLR4_BRq2Zo
 duree: 9 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Sémiologie radiologique de la coxarthrose
 
-> [!abstract] En une phrase
-> Quand le bassin de face ne suffit pas à affirmer un pincement, le faux profil de Lequesne est le « joker » : il montre les interlignes antéro-supérieur et postéro-inférieur. La disparition du gradient antéro-supérieur (« normalisation ») signe une coxarthrose débutante.
+> [!abstract] L'essentiel
+> **Pas de pincement de face ≠ pas de coxarthrose : demander le faux profil de Lequesne** ; la plupart des coxarthroses débutent en antéro-supérieur, invisible de face.
+
+> [!success] À retenir
+> 1. **4 signes** : pincement, ostéophytes, condensation, géodes ; interligne normal de face **≈ 3 mm**, toujours comparer au côté opposé.
+> 2. Faux profil (bassin tourné **60-65°**) : interligne **antéro-supérieur** et **postéro-inférieur** ; le contre-faux profil montre la partie **antérieure** de l'autre hanche.
+> 3. Au faux profil l'interligne s'élargit **constamment** vers l'antéro-supérieur : sa **« normalisation »** (perte du gradient) = coxarthrose débutante ; préciser la **topographie** du pincement dans le CR.
+
+## Images clés
+![Principe du faux profil : seules les portions de l'interligne tangentes au rayon sont vues ; faux profil (antéro-supérieur, postéro-inférieur) et contre-faux profil (antérieur)](../../img/2019/iLR4_BRq2Zo-1.jpg) [▶ 4:58](https://www.youtube.com/watch?v=iLR4_BRq2Zo&t=298s)
+![Faux profil et contre-faux profil sur un même cliché : interlignes antéro-supérieur, postéro-inférieur et antérieur](../../img/2019/iLR4_BRq2Zo-2.jpg) [▶ 5:30](https://www.youtube.com/watch?v=iLR4_BRq2Zo&t=330s)
+![Coxarthrose de face et au faux profil : le faux profil révèle un pincement que la face ne montre pas](../../img/2019/iLR4_BRq2Zo-3.jpg) [▶ 7:35](https://www.youtube.com/watch?v=iLR4_BRq2Zo&t=455s)
 
 ## Points clés
 - Les quatre signes cardinaux (« les quatre as ») : **pincement, ostéophytes, condensation, géodes**.

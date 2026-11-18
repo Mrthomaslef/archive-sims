@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, coxarthrose, clinique]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé"
+orateur: "Benoit Le Goff (CHU de Nantes)"
 video: https://www.youtube.com/watch?v=bDgd1Pvc6lU
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Les formes cliniques de la coxarthrose
 
-> [!abstract] En une phrase
-> La douleur de coxarthrose est souvent trompeuse (trochantérienne, pseudo-radiculaire) et mal corrélée à la radiographie. Il faut associer plusieurs tests cliniques et, en cas de doute avec le rachis, un test anesthésique, surtout informatif lorsqu'il est négatif.
+> [!abstract] L'essentiel
+> **La coxarthrose douloureuse se déguise (trochantérienne, pseudo-sciatique, pseudo-claudication) et la radio modérée ne prouve rien** : seule l'arthrose sévère corrèle à la douleur ; trancher par test anesthésique.
+
+> [!success] À retenir
+> 1. Douleur **trochantérienne** dans **> 70 %** des coxarthroses débutantes ; pseudo-sciatique L5 dans **5 %** (innervation capsulaire fémorale, obturatrice, ischiatique).
+> 2. Arthrose **faible à modérée** aussi fréquente chez les non-douloureux que chez les douloureux ; seule l'arthrose **sévère (K&L 4)** est associée à la douleur : ne pas lui attribuer la douleur dans le CR.
+> 3. **Test anesthésique intra-articulaire** si doute rachis/hanche : un **test négatif prédit l'échec de la PTH** ; un test positif est moins fiable.
+
+## Images clés
+![Cartographie des douleurs de coxarthrose (Poulsen 2016) : prédominance trochantérienne et inguinale, irradiations crurales et jusqu'au pied](../../img/2019/bDgd1Pvc6lU-1.jpg) [▶ 1:34](https://www.youtube.com/watch?v=bDgd1Pvc6lU&t=94s)
+![Grades radiographiques de coxarthrose (Kellgren-Lawrence < 2, ≥ 2, ≥ 4) : seule la forme sévère est corrélée à la douleur](../../img/2019/bDgd1Pvc6lU-2.jpg) [▶ 6:09](https://www.youtube.com/watch?v=bDgd1Pvc6lU&t=369s)
 
 ## Points clés
 - Deux cas introductifs :
@@ -29,7 +38,7 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 ## Sémiologie et technique d'imagerie
 - La radiographie pose le diagnostic positif. Le pincement est l'anomalie la plus reproductible et la plus associée à la douleur.
-- Étude en population (environ 1 000 sujets de plus de 45 ans, environ 10 % de douleurs déclarées) : les anomalies radiographiques modérées sont fréquentes et aussi prévalentes chez les non-douloureux que chez les douloureux. Seule l'arthrose sévère (stade 4 de Kellgren-Lawrence) est mieux corrélée à la douleur.
+- Étude en population (environ 1 000 sujets de plus de 45 ans, 7 à 10 % de douleurs de hanche) : les anomalies radiographiques modérées sont fréquentes et aussi prévalentes chez les non-douloureux que chez les douloureux. Seule l'arthrose sévère (stade 4 de Kellgren-Lawrence) est mieux corrélée à la douleur.
 - Test anesthésique intra-articulaire : l'équipe utilise la lidocaïne de courte durée d'action, d'autres un anesthésique de longue durée.
 - Méta-analyse (études de qualité limitée), avec pour critère le succès de la PTH :
   - un **test négatif prédit bien l'échec** de la prothèse ;

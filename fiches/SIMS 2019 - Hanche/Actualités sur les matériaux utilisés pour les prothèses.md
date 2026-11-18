@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, prothese, pth]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "non précisé (chirurgien orthopédiste)"
+orateur: "Stéphane Boisgard (CHU Clermont-Ferrand)"
 video: https://www.youtube.com/watch?v=a44CAs1Q-0U
 duree: 11 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Actualités sur les matériaux utilisés pour les prothèses
 
-> [!abstract] En une phrase
-> Une PTH s'analyse selon son couple de frottement et son mode de fixation. Le choix du matériau est un compromis entre usure et fixation, guidé par l'âge et la qualité osseuse : sans ciment et couple dur-dur chez le jeune, cimenté avec double mobilité chez le sujet âgé.
+> [!abstract] L'essentiel
+> **Lire une PTH = identifier son couple de frottement et son mode de fixation** : sans ciment et dur-dur chez le jeune, cimentée à double mobilité après 75 ans.
+
+> [!success] À retenir
+> 1. **Jamais de couple métal-céramique** ; métal-métal → chercher une **pseudotumeur (métallose)**.
+> 2. Polyéthylène standard : usure **≈ 0,1 mm/an** (÷ 5 à 10 si réticulé) → mesurer l'excentration de la tête.
+> 3. **Double mobilité** fréquente chez le sujet âgé : savoir la reconnaître sur la radio.
+
+## Images clés
+![PTH cimentée : manteau de ciment autour de la tige, sans liseré de descellement](../../img/2019/a44CAs1Q-0U-1.jpg) [▶ 8:48](https://www.youtube.com/watch?v=a44CAs1Q-0U&t=528s)
+![Fixation sans ciment : bonne fixation primaire (titane, module proche de l'os cortical) mais risque fracturaire et extraction difficile](../../img/2019/a44CAs1Q-0U-2.jpg) [▶ 9:25](https://www.youtube.com/watch?v=a44CAs1Q-0U&t=565s)
 
 ## Points clés
 - Cinq familles de matériaux : métaux (chrome-cobalt, titane), polyéthylène, céramiques, ciment, hydroxyapatite.

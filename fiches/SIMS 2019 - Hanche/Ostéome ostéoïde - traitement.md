@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, hanche, osteome-osteoide, radiologie-interventionnelle]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2019
-orateur: "Pr V. Bousson"
+orateur: "Valérie Bousson (Hôpital Lariboisière, Paris) et coll."
 video: https://www.youtube.com/watch?v=HkOTr0If6FI
 duree: 12 min
 date: 2026-11-18
@@ -12,8 +12,18 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Ostéome ostéoïde : traitement
 
-> [!abstract] En une phrase
-> Le traitement de référence de l'ostéome ostéoïde est l'ablathermie percutanée (radiofréquence, laser, cryothérapie), avec plus de 90 % de succès à 2 ans. L'acide zolédronique s'impose comme alternative médicale prometteuse (83 % de réponse).
+> [!abstract] L'essentiel
+> **Ablathermie percutanée (RF, laser, cryo) = référence, > 90 % de succès à 24 mois** ; les bisphosphonates IV deviennent une alternative crédible.
+
+> [!success] À retenir
+> 1. RF : canule 17G, zone active 10 mm, **85-90 °C pendant 6 min** ; cryo possible en abord **tangentiel** sous sédation.
+> 2. Récidive précoce = **échec technique** ; tardive si **nidus > 12 mm**, **âge < 16-18 ans**, localisation difficile.
+> 3. Protéger les nerfs (**> 42 °C / < −10 °C** toxiques) : distance **8-10 mm**, hydro/dissection gazeuse, monitoring.
+> 4. Acide zolédronique (~**3 perfusions**) : **83 %** de réponse précoce, **74 %** à long terme ; signe d'efficacité = **minéralisation complète du nidus**.
+
+## Images clés
+![Radiofréquence d'un ostéome ostéoïde du col fémoral sous scanner : trocart, biopsie puis canule RF (zone active 10 mm, 85-90 °C pendant 6 min)](../../img/2019/HkOTr0If6FI-1.jpg) [▶ 3:24](https://www.youtube.com/watch?v=HkOTr0If6FI&t=204s)
+![TDM axiale avant/après bisphosphonates : nidus condylien lytique (flèche) devenu entièrement minéralisé, signe de guérison](../../img/2019/HkOTr0If6FI-2.jpg) [▶ 11:04](https://www.youtube.com/watch?v=HkOTr0If6FI&t=664s)
 
 ## Points clés
 - Techniques percutanées guidées par l'imagerie :
@@ -27,9 +37,9 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 - **Cryothérapie** (< −20 °C) : la sonde peut être tangentielle sans pénétrer le nidus ni franchir l'os. Elle évite la douleur violente de la ponction du nidus et se fait sous sédation consciente.
 - Succès : plus de 90 % à 24 mois.
   - Récidives précoces : échec technique (malposition, énergie insuffisante).
-  - Récidives tardives : taille du nidus, jeune âge, localisation.
+  - Récidives tardives : taille du nidus (> 12 mm), jeune âge (< 16-18 ans), localisation.
 - **Traitement médical** : les ostéoblastes tumoraux sécrètent des prostaglandines (d'où l'efficacité de l'aspirine et des AINS). La croissance est autolimitée (≤ 15 mm) et des guérisons spontanées sont décrites.
-- **Acide zolédronique** : 23 patients (avec l'équipe bordelaise), lésions surtout rachidiennes, 1 à 3 perfusions mensuelles à dose standard. Réponse de 83 %, EVA en baisse surtout après la 2e ou 3e perfusion. Étude terminée en 2014, suivi de plus de 2 ans (jusqu'à 5 ans).
+- **Acide zolédronique** : 23 patients (avec l'équipe bordelaise), lésions surtout rachidiennes, 1 à 3 perfusions mensuelles à dose standard. Réponse précoce de 83 % (19/23) et 74 % à long terme (17/23), EVA en baisse surtout après la 2e ou 3e perfusion. Étude terminée en 2014, suivi de plus de 2 ans (jusqu'à 5 ans).
 - Un PHRC compare 3 perfusions d'acide zolédronique à la destruction percutanée.
 
 ## Sémiologie et technique d'imagerie

@@ -2,7 +2,7 @@
 tags: [sims, congres-sims, pied-cheville, tendon-calcaneen-distal]
 domaine: imagerie-musculo-squelettique
 congres: SIMS 2024
-orateur: "non précisé"
+orateur: "Wassef Khaled (Imagerie Médicale Léonard de Vinci et Hôpital Cochin, AP-HP, Paris) et coll."
 video: https://www.youtube.com/watch?v=WSZQutxlKQY
 duree: 10 min
 date: 2026-11-18
@@ -12,8 +12,17 @@ source: transcription automatique YouTube (à relire si un point semble douteux)
 
 # Démembrement des atteintes distales du tendon calcanéen
 
-> [!abstract] En une phrase
-> Distinguer la tendinopathie par conflit (Haglund : atteinte antérieure et proximale) de la tendinopathie d'insertion (atteinte postérieure et distale, enthésophyte), souvent associées, grâce à la topographie lésionnelle, à l'œdème osseux et au bilan morphostatique en charge ; la bursite n'est qu'un symptôme.
+> [!abstract] L'essentiel
+> **Tendon calcanéen distal : situer l'atteinte, antérieure et proximale = conflit (Haglund), postérieure et distale = insertion** ; souvent associées, la bursite n'est qu'un symptôme.
+
+> [!success] À retenir
+> 1. **Œdème osseux** : coin **postéro-supérieur** de la tubérosité = conflit ; **enthésophyte / calcanéus distal** = insertion (pas l'apanage des enthésites rhumatismales).
+> 2. Radios **en charge** : **pente calcanéenne > 30°**, angle de **Chauveaux-Liet**, rapport **X/Y > 2,5** (calcanéus long) = facteurs favorisants, pas un diagnostic.
+> 3. Bursite rétrocalcanéenne « isolée » en IRM → **échographie** (plus sensible pour les fissurations antérieures débutantes) ; préciser le degré d'atteinte **< ou > 50 %** de l'épaisseur.
+
+## Images clés
+![Œdème osseux discriminant : postéro-supérieur de la tubérosité dans la tendinopathie par conflit, distal sous l'enthésophyte dans la tendinopathie d'insertion (têtes de flèche)](../../img/2024/WSZQutxlKQY-1.jpg) [▶ 5:00](https://www.youtube.com/watch?v=WSZQutxlKQY&t=300s)
+![Tendinopathie par conflit chez un sujet jeune : pente calcanéenne 30°, angle de Chauveaux-Liet 27°, rapport X/Y > 2,5 en charge, et fissuration antérieure du tendon en IRM](../../img/2024/WSZQutxlKQY-2.jpg) [▶ 7:34](https://www.youtube.com/watch?v=WSZQutxlKQY&t=454s)
 
 ## Points clés
 - Trois entités : tendinopathie par conflit (« maladie de Haglund »), tendinopathie d'insertion distale (sous-estimée par les radiologues), enthésite rhumatismale (non traitée ici).
