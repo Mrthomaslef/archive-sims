@@ -1,0 +1,16 @@
+{
+  "name": "Archive SIMS — Fiches résumé des congrès",
+  "short_name": "Archive SIMS",
+  "description": "157 fiches résumé des congrès SIMS : 2017 Genou, 2019 Hanche, 2022 Main et poignet, 2024 Pied et cheville.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f2a3d",
+  "theme_color": "#0f2a3d",
+  "lang": "fr",
+  "icons": [
+    {"src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

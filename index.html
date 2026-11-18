@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Archive SIMS — Fiches résumé des congrès</title>
+<meta name="description" content="157 fiches résumé des congrès SIMS (2017 Genou, 2019 Hanche, 2022 Main et poignet, 2024 Pied et cheville).">
+<meta name="theme-color" content="#0f2a3d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Archive SIMS">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<style>
+:root{
+  --bg:#f4f6f8;--card:#fff;--ink:#14212b;--muted:#5d6b78;--line:#dfe5ea;
+  --accent:#0e7490;--accent-ink:#fff;--chip:#e7eef2;
+  --c2017:#2563eb;--c2019:#b45309;--c2022:#7c3aed;--c2024:#047857;
+  --warn-bg:#fff4e5;--warn:#b45309;--tip-bg:#e8f6ef;--tip:#047857;--abs-bg:#e8f1f8;--abs:#0e5a8a;--note-bg:#f1f1f4;--note:#52525b;
+  --radius:14px;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0d1419;--card:#151f27;--ink:#e6edf2;--muted:#94a3b0;--line:#26343f;--chip:#1e2b35;
+  --accent:#22a6c3;--warn-bg:#2d2112;--warn:#f0b35a;--tip-bg:#0f2a20;--tip:#4ccf98;--abs-bg:#10263a;--abs:#7cc0ee;--note-bg:#1d2229;--note:#b3b8c2;
+}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  -webkit-text-size-adjust:100%;overflow-x:hidden;overscroll-behavior-y:contain;touch-action:manipulation}
+button,a,input{touch-action:manipulation;font:inherit}
+a{color:var(--accent)}
+header{position:sticky;top:0;z-index:5;background:linear-gradient(135deg,#0f2a3d,#0e5a6f);color:#fff;
+  padding:calc(env(safe-area-inset-top) + 10px) 16px 12px;box-shadow:0 2px 10px rgba(0,0,0,.15)}
+.top{display:flex;align-items:center;gap:10px;max-width:860px;margin:0 auto}
+.top img{width:34px;height:34px;border-radius:9px}
+.top h1{font-size:18px;margin:0;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top h1 small{display:block;font-size:12px;font-weight:400;opacity:.8}
+.iconbtn{background:rgba(255,255,255,.14);border:0;color:#fff;border-radius:10px;min-width:40px;height:40px;font-size:18px;cursor:pointer}
+.iconbtn[aria-pressed=true]{background:#fbbf24;color:#3b2a00}
+.search{max-width:860px;margin:10px auto 0;position:relative}
+.search input{width:100%;border:0;border-radius:12px;padding:11px 14px 11px 38px;font-size:16px;background:#fff;color:#14212b}
+.search span{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.5}
+.chips{display:flex;gap:8px;overflow-x:auto;max-width:860px;margin:10px auto 0;padding-bottom:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:0;border-radius:999px;padding:7px 13px;background:rgba(255,255,255,.14);color:#fff;font-size:14px;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed=true]{background:#fff;color:#0f2a3d;font-weight:600}
+main{max-width:860px;margin:0 auto;padding:14px 14px calc(env(safe-area-inset-bottom) + 40px)}
+.count{color:var(--muted);font-size:14px;margin:4px 2px 12px}
+.year-h{display:flex;align-items:baseline;gap:8px;margin:22px 2px 10px}
+.year-h b{font-size:22px}
+.year-h span{color:var(--muted)}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-left:5px solid var(--yc,var(--accent));
+  border-radius:var(--radius);padding:13px 14px;margin-bottom:10px;color:inherit;text-decoration:none;position:relative}
+.card h3{margin:0 28px 4px 0;font-size:16px;line-height:1.35}
+.card p{margin:0;color:var(--muted);font-size:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.tag{background:var(--chip);border-radius:6px;padding:2px 8px;font-size:12px;color:var(--muted)}
+.star{position:absolute;right:10px;top:10px;font-size:16px;opacity:.9}
+.empty{text-align:center;color:var(--muted);padding:40px 10px}
+/* Fiche */
+.back{display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;color:var(--ink);text-decoration:none;font-size:15px}
+article{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px 16px;margin-top:12px;overflow-wrap:anywhere}
+article .yr{display:inline-block;color:#fff;background:var(--yc);border-radius:6px;padding:2px 9px;font-size:13px;font-weight:600}
+article h2.t{font-size:21px;line-height:1.3;margin:10px 0 6px}
+article .by{color:var(--muted);font-size:14px;margin-bottom:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 14px}
+.btn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:10px;padding:9px 13px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-size:15px;cursor:pointer}
+.btn.alt{background:var(--chip);color:var(--ink)}
+.md h2{font-size:17px;margin:20px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+.md h3{font-size:16px;margin:16px 0 6px}
+.md ul,.md ol{padding-left:20px;margin:6px 0}
+.md li{margin:4px 0}
+.md p{margin:8px 0}
+.md code{background:var(--chip);padding:1px 5px;border-radius:5px;font-size:.92em}
+.callout{border-radius:12px;padding:10px 13px;margin:12px 0;background:var(--note-bg);border-left:4px solid var(--note)}
+.callout .ct{font-weight:700;color:var(--note);margin-bottom:3px;font-size:14px}
+.callout.abstract{background:var(--abs-bg);border-color:var(--abs)}.callout.abstract .ct{color:var(--abs)}
+.callout.warning{background:var(--warn-bg);border-color:var(--warn)}.callout.warning .ct{color:var(--warn)}
+.callout.tip{background:var(--tip-bg);border-color:var(--tip)}.callout.tip .ct{color:var(--tip)}
+.callout.important{background:var(--warn-bg);border-color:#dc2626}.callout.important .ct{color:#dc2626}
+.callout p{margin:3px 0}
+.tbl{overflow-x:auto;max-width:100%;margin:10px 0}
+.tbl table{border-collapse:collapse;font-size:14px;min-width:100%}
+.tbl td,.tbl th{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.seealso{margin-top:18px}
+.seealso a{display:block;padding:9px 12px;border:1px solid var(--line);border-radius:10px;margin-top:6px;text-decoration:none;color:var(--ink);background:var(--bg)}
+.nav{display:flex;gap:8px;margin-top:14px}
+.nav a{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;text-decoration:none;color:var(--ink);font-size:14px}
+.nav a small{display:block;color:var(--muted)}
+.nav a span{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.disclaimer{color:var(--muted);font-size:13px;margin-top:16px}
+#ptr{position:fixed;left:50%;top:0;transform:translate(-50%,-60px);z-index:20;background:var(--card);color:var(--ink);border:1px solid var(--line);
+  border-radius:999px;padding:8px 14px;font-size:14px;box-shadow:0 4px 14px rgba(0,0,0,.15);transition:transform .2s}
+mark{background:#fde68a;color:inherit;border-radius:3px;padding:0 1px}
+</style>
+</head>
+<body>
+<div id="ptr">↓ Tirer pour actualiser</div>
+<header>
+  <div class="top">
+    <img src="assets/icon.svg" alt="">
+    <h1>Archive SIMS<small id="sub">Fiches résumé des congrès</small></h1>
+    <button class="iconbtn" id="favBtn" aria-pressed="false" title="Favoris">★</button>
+  </div>
+  <div class="search" id="searchWrap"><span>🔎</span><input id="q" type="search" placeholder="Rechercher : LCA, scaphoïde, Morton…" autocomplete="off"></div>
+  <div class="chips" id="chips"></div>
+</header>
+<main id="main"></main>
+<script src="app/embedded_data.js"></script>
+<script>
+(() => {
+const D = window.SIMS_DATA;
+const COLORS = {"2017":"var(--c2017)","2019":"var(--c2019)","2022":"var(--c2022)","2024":"var(--c2024)"};
+const all = [];
+D.congres.slice().sort((a,b)=>b.annee-a.annee).forEach(c => c.fiches.forEach(f => all.push(Object.assign(f,{annee:c.annee,theme:c.theme}))));
+const bySlug = {}; all.forEach(f => bySlug[f.annee+'|'+f.slug] = f);
+const byId = {}; all.forEach(f => byId[f.id] = f);
+const favs = new Set(JSON.parse(localStorage.getItem('sims_favs')||'[]'));
+const st = {year:'all', q:'', fav:false};
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+all.forEach(f => f._s = norm([f.titre,f.orateur,f.resume,f.tags.join(' '),f.theme,f.annee,f.md].join(' ')));
+
+// Chips
+const chips = [{k:'all',l:`Tous (${all.length})`}].concat(D.congres.slice().sort((a,b)=>b.annee-a.annee).map(c=>({k:c.annee,l:`${c.annee} · ${c.theme}`})));
+$('#chips').innerHTML = chips.map(c=>`<button class="chip" data-y="${c.k}" aria-pressed="${c.k===st.year}">${esc(c.l)}</button>`).join('');
+$('#chips').addEventListener('click', e => { const b=e.target.closest('.chip'); if(!b) return; st.year=b.dataset.y; location.hash=''; renderList(); });
+$('#q').addEventListener('input', e => { st.q=e.target.value; if(location.hash.startsWith('#/f/')) location.hash=''; renderList(); });
+$('#favBtn').addEventListener('click', () => { st.fav=!st.fav; $('#favBtn').setAttribute('aria-pressed',st.fav); location.hash=''; renderList(); });
+
+function hl(text, terms){ let h=esc(text); terms.forEach(t=>{ if(t.length<2) return; const re=new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'); h=h.replace(re,'<mark>$1</mark>'); }); return h; }
+
+function renderList(){
+  document.querySelectorAll('.chip').forEach(b=>b.setAttribute('aria-pressed', b.dataset.y===st.year));
+  $('#searchWrap').style.display=''; $('#chips').style.display='';
+  const terms = norm(st.q).split(/\s+/).filter(Boolean);
+  const list = all.filter(f => (st.year==='all'||f.annee===st.year) && (!st.fav||favs.has(f.id)) && terms.every(t=>f._s.includes(t)));
+  let html = `<div class="count">${list.length} fiche${list.length>1?'s':''}${st.fav?' en favori':''}</div>`;
+  if(!list.length) html += `<div class="empty">${st.fav?'Aucun favori pour l’instant : touche ☆ sur une fiche.':'Aucune fiche ne correspond.'}</div>`;
+  let cur='';
+  const rawTerms = st.q.split(/\s+/).filter(Boolean);
+  list.forEach(f => {
+    if(f.annee!==cur){ cur=f.annee; const n=list.filter(x=>x.annee===cur).length; html+=`<div class="year-h"><b style="color:${COLORS[cur]}">SIMS ${cur}</b><span>${esc(f.theme)} · ${n}</span></div>`; }
+    html += `<a class="card" style="--yc:${COLORS[f.annee]}" href="#/f/${f.id}">
+      ${favs.has(f.id)?'<span class="star">★</span>':''}
+      <h3>${hl(f.titre,rawTerms)}</h3><p>${hl(f.resume,rawTerms)}</p>
+      <div class="meta">${f.duree?`<span class="tag">▶ ${esc(f.duree)}</span>`:''}${f.tags.slice(1,3).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></a>`;
+  });
+  $('#main').innerHTML = html;
+}
+
+// Markdown minimal (titres, listes, callouts Obsidian, tableaux, gras/italique, wikilinks)
+function inline(s, annee){
+  s = esc(s);
+  s = s.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m,slug,label) => { const f=bySlug[annee+'|'+slug.trim()]; return f?`<a href="#/f/${f.id}">${label||slug}</a>`:(label||slug); });
+  s = s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  s = s.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/(^|[^*])\*([^*\s][^*]*)\*/g,'$1<em>$2</em>').replace(/`([^`]+)`/g,'<code>$1</code>');
+  return s;
+}
+const CT = {abstract:'En une phrase',warning:'À ne pas manquer',tip:'Astuce',note:'Note',important:'Important',info:'Info'};
+function md(src, annee){
+  const L = src.split('\n'); let out='', i=0;
+  while(i<L.length){
+    let l=L[i];
+    if(!l.trim()){i++;continue;}
+    let m;
+    if((m=l.match(/^(#{2,4})\s+(.*)/))){ const n=Math.min(m[1].length,3); out+=`<h${n}>${inline(m[2],annee)}</h${n}>`; i++; continue; }
+    if(l.startsWith('>')){
+      const block=[]; while(i<L.length && L[i].startsWith('>')){ block.push(L[i].replace(/^>\s?/,'')); i++; }
+      let type='note', title='';
+      const c=block[0].match(/^\[!(\w+)\][+-]?\s*(.*)/);
+      if(c){ type=c[1].toLowerCase(); title=c[2]||CT[type]||type; block.shift(); }
+      out+=`<div class="callout ${type}">${title?`<div class="ct">${inline(title,annee)}</div>`:''}${md(block.join('\n'),annee)}</div>`; continue;
+    }
+    if(/^\s*\|/.test(l)){
+      const rows=[]; while(i<L.length && /^\s*\|/.test(L[i])){ rows.push(L[i]); i++; }
+      const cells=r=>r.trim().replace(/^\||\|$/g,'').split('|').map(x=>x.trim());
+      let h='<div class="tbl"><table>'; rows.forEach((r,k)=>{ if(/^\s*\|?\s*:?-{2,}/.test(r)) return; const tag=k===0?'th':'td'; h+='<tr>'+cells(r).map(c=>`<${tag}>${inline(c,annee)}</${tag}>`).join('')+'</tr>'; });
+      out+=h+'</table></div>'; continue;
+    }
+    if(/^\s*([-*]|\d+[.)])\s+/.test(l)){
+      const ordered=/^\s*\d/.test(l); const items=[];
+      while(i<L.length && (/^\s*([-*]|\d+[.)])\s+/.test(L[i]) || (/^\s{2,}\S/.test(L[i]) && items.length))){
+        if(/^\s*([-*]|\d+[.)])\s+/.test(L[i])) items.push(L[i].replace(/^\s*([-*]|\d+[.)])\s+/,'')); else items[items.length-1]+=' '+L[i].trim();
+        i++;
+      }
+      out+=`<${ordered?'ol':'ul'}>`+items.map(x=>`<li>${inline(x,annee)}</li>`).join('')+`</${ordered?'ol':'ul'}>`; continue;
+    }
+    const p=[]; while(i<L.length && L[i].trim() && !/^(#{2,4}\s|>|\s*\||\s*([-*]|\d+[.)])\s)/.test(L[i])){ p.push(L[i]); i++; }
+    out+=`<p>${inline(p.join(' '),annee)}</p>`;
+  }
+  return out;
+}
+
+function renderFiche(id){
+  const f=byId[id]; if(!f){ renderList(); return; }
+  $('#searchWrap').style.display='none'; $('#chips').style.display='none';
+  const same=all.filter(x=>x.annee===f.annee); const k=same.indexOf(f);
+  const prev=same[k-1], next=same[k+1];
+  const vids=f.videos.length?f.videos:(f.video?[f.video]:[]);
+  const voir=f.voir.map(s=>bySlug[f.annee+'|'+s]).filter(Boolean);
+  $('#main').innerHTML = `
+    <a class="back" href="#" id="backBtn">← Retour</a>
+    <article style="--yc:${COLORS[f.annee]}">
+      <span class="yr">SIMS ${f.annee} · ${esc(f.theme)}</span>
+      <h2 class="t">${esc(f.titre)}</h2>
+      <div class="by">${f.orateur?`🎤 ${esc(f.orateur)}`:''}${f.duree?` · ⏱ ${esc(f.duree)}`:''}</div>
+      <div class="actions">
+        ${vids.map((v,n)=>`<a class="btn" href="${esc(v)}" target="_blank" rel="noopener">▶ Vidéo${vids.length>1?' '+(n+1):''}</a>`).join('')}
+        <button class="btn alt" id="favT">${favs.has(f.id)?'★ Favori':'☆ Favori'}</button>
+        <button class="btn alt" id="shareT">↗ Partager</button>
+      </div>
+      <div class="md">${md(f.md,f.annee)}</div>
+      ${voir.length?`<div class="seealso"><h3>Voir aussi</h3>${voir.map(v=>`<a href="#/f/${v.id}">${esc(v.titre)}</a>`).join('')}</div>`:''}
+      <p class="disclaimer">Fiche rédigée à partir des sous-titres automatiques de la vidéo : vérifier chiffres, seuils et noms propres sur la vidéo avant de les citer. Les vidéos sont privées (connexion au compte requise).</p>
+    </article>
+    <div class="nav">
+      ${prev?`<a href="#/f/${prev.id}"><small>← Précédente</small><span>${esc(prev.titre)}</span></a>`:'<span style="flex:1"></span>'}
+      ${next?`<a href="#/f/${next.id}" style="text-align:right"><small>Suivante →</small><span>${esc(next.titre)}</span></a>`:'<span style="flex:1"></span>'}
+    </div>`;
+  window.scrollTo(0,0);
+  $('#backBtn').onclick=e=>{e.preventDefault(); history.length>1?history.back():(location.hash='');};
+  $('#favT').onclick=()=>{ favs.has(f.id)?favs.delete(f.id):favs.add(f.id); localStorage.setItem('sims_favs',JSON.stringify([...favs])); navigator.vibrate&&navigator.vibrate(10); renderFiche(id); };
+  $('#shareT').onclick=async()=>{ const url=location.href; try{ if(navigator.share) await navigator.share({title:f.titre,url}); else { await navigator.clipboard.writeText(url); $('#shareT').textContent='✓ Lien copié'; } }catch(e){} };
+}
+
+let lastScroll=0;
+function route(){
+  const m=location.hash.match(/^#\/f\/(.+)$/);
+  if(m){ lastScroll=lastScroll||window.scrollY; renderFiche(decodeURIComponent(m[1])); }
+  else { renderList(); window.scrollTo(0,lastScroll); lastScroll=0; }
+}
+window.addEventListener('hashchange', route);
+$('#sub').textContent = `${all.length} fiches · ${D.congres.length} congrès`;
+route();
+
+// Pull-to-refresh (tactile + souris)
+const ptr=$('#ptr'); let y0=null, dy=0;
+const start=y=>{ if(window.scrollY<=0) { y0=y; dy=0; } };
+const move=y=>{ if(y0===null) return; dy=y-y0; if(dy>0){ const d=Math.min(dy,120); ptr.style.transform=`translate(-50%,${d-60}px)`; ptr.textContent=dy>80?'↻ Relâcher pour actualiser':'↓ Tirer pour actualiser'; } };
+const end=()=>{ if(y0===null) return; if(dy>80){ ptr.textContent='↻ Actualisation…'; navigator.vibrate&&navigator.vibrate(15); setTimeout(()=>location.reload(),250); } else ptr.style.transform='translate(-50%,-60px)'; y0=null; };
+addEventListener('touchstart',e=>start(e.touches[0].clientY),{passive:true});
+addEventListener('touchmove',e=>move(e.touches[0].clientY),{passive:true});
+addEventListener('touchend',end);
+addEventListener('mousedown',e=>{ if(e.button===0 && !e.target.closest('a,button,input')) start(e.clientY); });
+addEventListener('mousemove',e=>{ if(y0!==null && e.buttons) move(e.clientY); });
+addEventListener('mouseup',end);
+
+if('serviceWorker' in navigator && location.protocol.startsWith('http')) navigator.serviceWorker.register('sw.js');
+})();
+</script>
+</body>
+</html>

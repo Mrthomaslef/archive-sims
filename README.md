@@ -15,3 +15,13 @@ Created in [T3 Code](https://t3.codes).
 - `data/lots/` : répartition des vidéos par congrès.
 - `data/transcripts/` : sous-titres automatiques, non versionnés.
 - `scripts/build_index.py` : régénère les index et vérifie les liens.
+
+## Web-app
+
+https://mrthomaslef.github.io/archive-sims/ (PWA hors-ligne, référencée sur le Tapp Store)
+
+Après modification des fiches :
+
+```bash
+python3 scripts/build_index.py && python3 scripts/build_web.py
+```
